@@ -1,0 +1,43 @@
+name: Assemble reproducibility artifact
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".artifact/READY"
+
+permissions:
+  contents: write
+
+jobs:
+  assemble:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Reconstruct artifact
+        shell: bash
+        run: |
+          set -euo pipefail
+          cat .artifact/part_* > /tmp/noise-core.b64
+          base64 --decode /tmp/noise-core.b64 > /tmp/noise-core.tar.gz
+          tar -xzf /tmp/noise-core.tar.gz -C .
+          rm -rf .artifact
+
+      - name: Write repository manifest
+        shell: bash
+        run: |
+          set -euo pipefail
+          find analysis harness tests theory experiments third_party data results/tables \
+            -type f -print0 | sort -z | xargs -0 sha256sum > REPOSITORY_MANIFEST_SHA256.txt
+
+      - name: Commit assembled artifact
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Add reproducibility code and data [skip ci]"
+          git push
