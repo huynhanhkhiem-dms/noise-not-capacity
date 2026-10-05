@@ -8,11 +8,13 @@ these 54 configuration means reports descriptive 95% intervals.
 """
 from pathlib import Path
 import csv
+import sys
 import numpy as np
 
 ROOT = Path(__file__).resolve().parents[1]
 rows = []
-for line in (ROOT / 'results/e10_confirm.txt').read_text().splitlines():
+input_path = Path(sys.argv[1]) if len(sys.argv) > 1 else (ROOT / 'results/e10_confirm.txt')
+for line in input_path.read_text().splitlines():
     if not line.startswith('TAG '):
         continue
     parts = line.split()
