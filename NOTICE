@@ -1,0 +1,12 @@
+Third-party components
+
+- harness/Envoy.java is a Java port of Envoy's adaptive-concurrency GradientController
+  (source/extensions/filters/http/adaptive_concurrency/controller/gradient_controller.cc, commit
+  b71f63bd875e1df93ea68e04e9fb788dd967a611), Copyright Envoy Project Authors, Apache License 2.0.
+  tests/EnvoyPortTest.java re-expresses scenarios of Envoy's gradient_controller_test.cc (Apache License 2.0).
+- Netflix concurrency-limits (commit 78a74b9878d38c4c048b0304ce12a162ab7b7222), Apache License 2.0, is fetched and
+  compiled unmodified by third_party/fetch_and_build.sh; it is not redistributed here.
+- failsafe-go (commit 5759a5e6d557eace215f820f5b5e663d5c05c3ee), MIT License, is fetched by the build script;
+  third_party/failsafe_simclock.patch is a three-line change that routes time.Now() through a replaceable clock.
+- third_party/slf4j-stub contains a minimal API stub of SLF4J (MIT License) so that the Netflix core compiles offline.
+- Azure LLM inference trace 2023: Microsoft, CC-BY 4.0.
