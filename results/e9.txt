@@ -1,0 +1,6 @@
+TAG e9:vegas:1 RES algo=vegas-rt c=32 S=20.0 dist=exp rho=2.00 seed=1 meanLimit=6.12 limitOverC=0.1913 util=0.1871 reject=0.9069 excessReject=0.4069 meanLatOverS=1.0076 throughputUtil=0.1862
+TAG e9:g2W:1 RES algo=g2W-rt c=32 S=20.0 dist=exp rho=2.00 seed=1 meanLimit=69.41 limitOverC=2.1691 util=0.9998 reject=0.5027 excessReject=0.0027 meanLatOverS=2.1500 throughputUtil=0.9942
+TAG e9:delta:1 RES algo=delta-rt c=32 S=20.0 dist=exp rho=2.00 seed=1 meanLimit=36.80 limitOverC=1.1498 util=0.9817 reject=0.5116 excessReject=0.0116 meanLatOverS=1.1462 throughputUtil=0.9765
+TAG e9:vegas:2 RES algo=vegas-rt c=32 S=20.0 dist=exp rho=2.00 seed=2 meanLimit=6.13 limitOverC=0.1915 util=0.1874 reject=0.9062 excessReject=0.4062 meanLatOverS=1.0026 throughputUtil=0.1873
+TAG e9:g2W:2 RES algo=g2W-rt c=32 S=20.0 dist=exp rho=2.00 seed=2 meanLimit=69.32 limitOverC=2.1662 util=0.9998 reject=0.5028 excessReject=0.0028 meanLatOverS=2.1500 throughputUtil=0.9929
+TAG e9:delta:2 RES algo=delta-rt c=32 S=20.0 dist=exp rho=2.00 seed=2 meanLimit=36.45 limitOverC=1.1392 util=0.9758 reject=0.5147 excessReject=0.0147 meanLatOverS=1.1441 throughputUtil=0.9693

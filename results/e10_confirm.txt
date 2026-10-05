@@ -1,0 +1,324 @@
+TAG e10:delta:8:det:1.3:101 RES algo=delta c=8 S=50.0 dist=det rho=1.30 seed=101 meanLimit=11.54 limitOverC=1.4429 util=0.9693 reject=0.2675 meanLatOverS=1.2690 nPairs=41 eMean=0.9431
+TAG e10:delta:8:det:1.3:202 RES algo=delta c=8 S=50.0 dist=det rho=1.30 seed=202 meanLimit=11.06 limitOverC=1.3831 util=0.9548 reject=0.2637 meanLatOverS=1.2243 nPairs=41 eMean=0.9488
+TAG e10:delta:8:det:1.3:303 RES algo=delta c=8 S=50.0 dist=det rho=1.30 seed=303 meanLimit=10.90 limitOverC=1.3622 util=0.9464 reject=0.2710 meanLatOverS=1.2132 nPairs=41 eMean=0.9448
+TAG e10:delta:8:det:2.7:101 RES algo=delta c=8 S=50.0 dist=det rho=2.70 seed=101 meanLimit=10.22 limitOverC=1.2776 util=0.9818 reject=0.6365 meanLatOverS=1.2400 nPairs=42 eMean=0.9824
+TAG e10:delta:8:det:2.7:202 RES algo=delta c=8 S=50.0 dist=det rho=2.70 seed=202 meanLimit=10.06 limitOverC=1.2574 util=0.9796 reject=0.6389 meanLatOverS=1.2218 nPairs=42 eMean=0.9827
+TAG e10:delta:8:det:2.7:303 RES algo=delta c=8 S=50.0 dist=det rho=2.70 seed=303 meanLimit=10.14 limitOverC=1.2680 util=0.9799 reject=0.6373 meanLatOverS=1.2321 nPairs=42 eMean=0.9793
+TAG e10:delta:8:det:4.3:101 RES algo=delta c=8 S=50.0 dist=det rho=4.30 seed=101 meanLimit=10.12 limitOverC=1.2654 util=0.9862 reject=0.7712 meanLatOverS=1.2468 nPairs=42 eMean=0.9948
+TAG e10:delta:8:det:4.3:202 RES algo=delta c=8 S=50.0 dist=det rho=4.30 seed=202 meanLimit=10.22 limitOverC=1.2773 util=0.9880 reject=0.7704 meanLatOverS=1.2594 nPairs=42 eMean=0.9884
+TAG e10:delta:8:det:4.3:303 RES algo=delta c=8 S=50.0 dist=det rho=4.30 seed=303 meanLimit=10.15 limitOverC=1.2682 util=0.9868 reject=0.7705 meanLatOverS=1.2507 nPairs=42 eMean=0.9879
+TAG e10:delta:8:ln05:1.3:101 RES algo=delta c=8 S=50.0 dist=ln05 rho=1.30 seed=101 meanLimit=10.91 limitOverC=1.3641 util=0.9457 reject=0.2907 meanLatOverS=1.2155 nPairs=40 eMean=0.9126
+TAG e10:delta:8:ln05:1.3:202 RES algo=delta c=8 S=50.0 dist=ln05 rho=1.30 seed=202 meanLimit=11.67 limitOverC=1.4586 util=0.9577 reject=0.2626 meanLatOverS=1.2698 nPairs=40 eMean=0.9544
+TAG e10:delta:8:ln05:1.3:303 RES algo=delta c=8 S=50.0 dist=ln05 rho=1.30 seed=303 meanLimit=11.72 limitOverC=1.4652 util=0.9565 reject=0.2641 meanLatOverS=1.2740 nPairs=40 eMean=0.9303
+TAG e10:delta:8:ln05:2.7:101 RES algo=delta c=8 S=50.0 dist=ln05 rho=2.70 seed=101 meanLimit=9.64 limitOverC=1.2044 util=0.9704 reject=0.6437 meanLatOverS=1.1854 nPairs=41 eMean=0.9750
+TAG e10:delta:8:ln05:2.7:202 RES algo=delta c=8 S=50.0 dist=ln05 rho=2.70 seed=202 meanLimit=10.24 limitOverC=1.2799 util=0.9819 reject=0.6392 meanLatOverS=1.2432 nPairs=41 eMean=0.9885
+TAG e10:delta:8:ln05:2.7:303 RES algo=delta c=8 S=50.0 dist=ln05 rho=2.70 seed=303 meanLimit=10.74 limitOverC=1.3427 util=0.9875 reject=0.6343 meanLatOverS=1.2923 nPairs=41 eMean=0.9828
+TAG e10:delta:8:ln05:4.3:101 RES algo=delta c=8 S=50.0 dist=ln05 rho=4.30 seed=101 meanLimit=9.54 limitOverC=1.1920 util=0.9788 reject=0.7748 meanLatOverS=1.1911 nPairs=41 eMean=0.9782
+TAG e10:delta:8:ln05:4.3:202 RES algo=delta c=8 S=50.0 dist=ln05 rho=4.30 seed=202 meanLimit=10.42 limitOverC=1.3030 util=0.9878 reject=0.7712 meanLatOverS=1.2873 nPairs=41 eMean=0.9931
+TAG e10:delta:8:ln05:4.3:303 RES algo=delta c=8 S=50.0 dist=ln05 rho=4.30 seed=303 meanLimit=10.90 limitOverC=1.3630 util=0.9943 reject=0.7688 meanLatOverS=1.3344 nPairs=41 eMean=0.9872
+TAG e10:delta:8:exp:1.3:101 RES algo=delta c=8 S=50.0 dist=exp rho=1.30 seed=101 meanLimit=11.57 limitOverC=1.4465 util=0.9419 reject=0.2878 meanLatOverS=1.2688 nPairs=38 eMean=0.9578
+TAG e10:delta:8:exp:1.3:202 RES algo=delta c=8 S=50.0 dist=exp rho=1.30 seed=202 meanLimit=13.35 limitOverC=1.6686 util=0.9585 reject=0.2449 meanLatOverS=1.3621 nPairs=39 eMean=0.9171
+TAG e10:delta:8:exp:1.3:303 RES algo=delta c=8 S=50.0 dist=exp rho=1.30 seed=303 meanLimit=11.74 limitOverC=1.4672 util=0.9395 reject=0.2683 meanLatOverS=1.2488 nPairs=39 eMean=0.8944
+TAG e10:delta:8:exp:2.7:101 RES algo=delta c=8 S=50.0 dist=exp rho=2.70 seed=101 meanLimit=9.51 limitOverC=1.1887 util=0.9671 reject=0.6425 meanLatOverS=1.1615 nPairs=39 eMean=0.9951
+TAG e10:delta:8:exp:2.7:202 RES algo=delta c=8 S=50.0 dist=exp rho=2.70 seed=202 meanLimit=11.55 limitOverC=1.4432 util=0.9923 reject=0.6267 meanLatOverS=1.3502 nPairs=40 eMean=0.9982
+TAG e10:delta:8:exp:2.7:303 RES algo=delta c=8 S=50.0 dist=exp rho=2.70 seed=303 meanLimit=9.65 limitOverC=1.2068 util=0.9685 reject=0.6388 meanLatOverS=1.1635 nPairs=40 eMean=0.9443
+TAG e10:delta:8:exp:4.3:101 RES algo=delta c=8 S=50.0 dist=exp rho=4.30 seed=101 meanLimit=9.70 limitOverC=1.2122 util=0.9799 reject=0.7728 meanLatOverS=1.1986 nPairs=39 eMean=1.0190
+TAG e10:delta:8:exp:4.3:202 RES algo=delta c=8 S=50.0 dist=exp rho=4.30 seed=202 meanLimit=10.03 limitOverC=1.2541 util=0.9847 reject=0.7662 meanLatOverS=1.2091 nPairs=40 eMean=1.0022
+TAG e10:delta:8:exp:4.3:303 RES algo=delta c=8 S=50.0 dist=exp rho=4.30 seed=303 meanLimit=9.36 limitOverC=1.1706 util=0.9711 reject=0.7723 meanLatOverS=1.1590 nPairs=40 eMean=0.9612
+TAG e10:delta:8:ln1:1.3:101 RES algo=delta c=8 S=50.0 dist=ln1 rho=1.30 seed=101 meanLimit=15.23 limitOverC=1.9036 util=0.9806 reject=0.2782 meanLatOverS=1.6824 nPairs=36 eMean=0.9313
+TAG e10:delta:8:ln1:1.3:202 RES algo=delta c=8 S=50.0 dist=ln1 rho=1.30 seed=202 meanLimit=16.07 limitOverC=2.0092 util=0.9792 reject=0.2427 meanLatOverS=1.6711 nPairs=36 eMean=0.7895
+TAG e10:delta:8:ln1:1.3:303 RES algo=delta c=8 S=50.0 dist=ln1 rho=1.30 seed=303 meanLimit=12.52 limitOverC=1.5650 util=0.9537 reject=0.2699 meanLatOverS=1.3402 nPairs=37 eMean=0.8958
+TAG e10:delta:8:ln1:2.7:101 RES algo=delta c=8 S=50.0 dist=ln1 rho=2.70 seed=101 meanLimit=16.44 limitOverC=2.0553 util=0.9998 reject=0.6395 meanLatOverS=2.0402 nPairs=35 eMean=0.9574
+TAG e10:delta:8:ln1:2.7:202 RES algo=delta c=8 S=50.0 dist=ln1 rho=2.70 seed=202 meanLimit=11.83 limitOverC=1.4787 util=0.9958 reject=0.6326 meanLatOverS=1.4121 nPairs=37 eMean=0.9847
+TAG e10:delta:8:ln1:2.7:303 RES algo=delta c=8 S=50.0 dist=ln1 rho=2.70 seed=303 meanLimit=13.79 limitOverC=1.7240 util=0.9959 reject=0.6329 meanLatOverS=1.6646 nPairs=37 eMean=0.9909
+TAG e10:delta:8:ln1:4.3:101 RES algo=delta c=8 S=50.0 dist=ln1 rho=4.30 seed=101 meanLimit=16.65 limitOverC=2.0816 util=0.9999 reject=0.7741 meanLatOverS=2.1000 nPairs=35 eMean=0.9509
+TAG e10:delta:8:ln1:4.3:202 RES algo=delta c=8 S=50.0 dist=ln1 rho=4.30 seed=202 meanLimit=12.27 limitOverC=1.5338 util=0.9996 reject=0.7675 meanLatOverS=1.4961 nPairs=36 eMean=0.9496
+TAG e10:delta:8:ln1:4.3:303 RES algo=delta c=8 S=50.0 dist=ln1 rho=4.30 seed=303 meanLimit=16.10 limitOverC=2.0120 util=1.0000 reject=0.7682 meanLatOverS=1.9817 nPairs=36 eMean=0.9285
+TAG e10:delta:8:par25:1.3:101 RES algo=delta c=8 S=50.0 dist=par25 rho=1.30 seed=101 meanLimit=11.07 limitOverC=1.3838 util=0.9482 reject=0.2808 meanLatOverS=1.2158 nPairs=38 eMean=0.9698
+TAG e10:delta:8:par25:1.3:202 RES algo=delta c=8 S=50.0 dist=par25 rho=1.30 seed=202 meanLimit=12.47 limitOverC=1.5582 util=0.9612 reject=0.2473 meanLatOverS=1.3290 nPairs=40 eMean=0.9494
+TAG e10:delta:8:par25:1.3:303 RES algo=delta c=8 S=50.0 dist=par25 rho=1.30 seed=303 meanLimit=10.53 limitOverC=1.3162 util=0.9317 reject=0.2794 meanLatOverS=1.1632 nPairs=37 eMean=0.9550
+TAG e10:delta:8:par25:2.7:101 RES algo=delta c=8 S=50.0 dist=par25 rho=2.70 seed=101 meanLimit=9.51 limitOverC=1.1893 util=0.9699 reject=0.6393 meanLatOverS=1.1559 nPairs=40 eMean=0.9908
+TAG e10:delta:8:par25:2.7:202 RES algo=delta c=8 S=50.0 dist=par25 rho=2.70 seed=202 meanLimit=11.25 limitOverC=1.4067 util=0.9940 reject=0.6280 meanLatOverS=1.3264 nPairs=40 eMean=0.9617
+TAG e10:delta:8:par25:2.7:303 RES algo=delta c=8 S=50.0 dist=par25 rho=2.70 seed=303 meanLimit=9.41 limitOverC=1.1767 util=0.9659 reject=0.6412 meanLatOverS=1.1472 nPairs=40 eMean=0.9665
+TAG e10:delta:8:par25:4.3:101 RES algo=delta c=8 S=50.0 dist=par25 rho=4.30 seed=101 meanLimit=9.21 limitOverC=1.1508 util=0.9708 reject=0.7739 meanLatOverS=1.1442 nPairs=39 eMean=1.0070
+TAG e10:delta:8:par25:4.3:202 RES algo=delta c=8 S=50.0 dist=par25 rho=4.30 seed=202 meanLimit=12.10 limitOverC=1.5124 util=0.9979 reject=0.7647 meanLatOverS=1.4567 nPairs=40 eMean=1.0036
+TAG e10:delta:8:par25:4.3:303 RES algo=delta c=8 S=50.0 dist=par25 rho=4.30 seed=303 meanLimit=9.20 limitOverC=1.1506 util=0.9723 reject=0.7732 meanLatOverS=1.1446 nPairs=40 eMean=0.9799
+TAG e10:delta:8:ln15:1.3:101 RES algo=delta c=8 S=50.0 dist=ln15 rho=1.30 seed=101 meanLimit=29.89 limitOverC=3.7362 util=0.9975 reject=0.2869 meanLatOverS=3.4308 nPairs=25 eMean=0.5496
+TAG e10:delta:8:ln15:1.3:202 RES algo=delta c=8 S=50.0 dist=ln15 rho=1.30 seed=202 meanLimit=21.06 limitOverC=2.6330 util=0.9825 reject=0.2394 meanLatOverS=2.0998 nPairs=28 eMean=0.8493
+TAG e10:delta:8:ln15:1.3:303 RES algo=delta c=8 S=50.0 dist=ln15 rho=1.30 seed=303 meanLimit=10.08 limitOverC=1.2594 util=0.8923 reject=0.3234 meanLatOverS=1.1587 nPairs=26 eMean=1.1064
+TAG e10:delta:8:ln15:2.7:101 RES algo=delta c=8 S=50.0 dist=ln15 rho=2.70 seed=101 meanLimit=16.37 limitOverC=2.0459 util=0.9964 reject=0.6525 meanLatOverS=2.0991 nPairs=26 eMean=1.0604
+TAG e10:delta:8:ln15:2.7:202 RES algo=delta c=8 S=50.0 dist=ln15 rho=2.70 seed=202 meanLimit=17.34 limitOverC=2.1680 util=0.9999 reject=0.6286 meanLatOverS=2.0582 nPairs=29 eMean=0.8977
+TAG e10:delta:8:ln15:2.7:303 RES algo=delta c=8 S=50.0 dist=ln15 rho=2.70 seed=303 meanLimit=11.12 limitOverC=1.3894 util=0.9797 reject=0.6393 meanLatOverS=1.3424 nPairs=30 eMean=0.9837
+TAG e10:delta:8:ln15:4.3:101 RES algo=delta c=8 S=50.0 dist=ln15 rho=4.30 seed=101 meanLimit=16.04 limitOverC=2.0048 util=0.9980 reject=0.7817 meanLatOverS=2.0884 nPairs=26 eMean=1.0687
+TAG e10:delta:8:ln15:4.3:202 RES algo=delta c=8 S=50.0 dist=ln15 rho=4.30 seed=202 meanLimit=17.37 limitOverC=2.1717 util=1.0000 reject=0.7657 meanLatOverS=2.1058 nPairs=29 eMean=0.8921
+TAG e10:delta:8:ln15:4.3:303 RES algo=delta c=8 S=50.0 dist=ln15 rho=4.30 seed=303 meanLimit=10.50 limitOverC=1.3129 util=0.9934 reject=0.7710 meanLatOverS=1.2931 nPairs=28 eMean=1.0293
+TAG e10:delta:32:det:1.3:101 RES algo=delta c=32 S=50.0 dist=det rho=1.30 seed=101 meanLimit=36.88 limitOverC=1.1524 util=0.9726 reject=0.2525 meanLatOverS=1.1071 nPairs=136 eMean=0.7556
+TAG e10:delta:32:det:1.3:202 RES algo=delta c=32 S=50.0 dist=det rho=1.30 seed=202 meanLimit=36.87 limitOverC=1.1523 util=0.9741 reject=0.2467 meanLatOverS=1.1046 nPairs=136 eMean=0.7536
+TAG e10:delta:32:det:1.3:303 RES algo=delta c=32 S=50.0 dist=det rho=1.30 seed=303 meanLimit=36.75 limitOverC=1.1485 util=0.9737 reject=0.2533 meanLatOverS=1.1031 nPairs=136 eMean=0.7538
+TAG e10:delta:32:det:2.7:101 RES algo=delta c=32 S=50.0 dist=det rho=2.70 seed=101 meanLimit=35.18 limitOverC=1.0993 util=0.9761 reject=0.6382 meanLatOverS=1.1073 nPairs=138 eMean=0.7585
+TAG e10:delta:32:det:2.7:202 RES algo=delta c=32 S=50.0 dist=det rho=2.70 seed=202 meanLimit=35.08 limitOverC=1.0963 util=0.9762 reject=0.6361 meanLatOverS=1.1043 nPairs=138 eMean=0.7589
+TAG e10:delta:32:det:2.7:303 RES algo=delta c=32 S=50.0 dist=det rho=2.70 seed=303 meanLimit=35.12 limitOverC=1.0976 util=0.9762 reject=0.6364 meanLatOverS=1.1053 nPairs=138 eMean=0.7587
+TAG e10:delta:32:det:4.3:101 RES algo=delta c=32 S=50.0 dist=det rho=4.30 seed=101 meanLimit=34.64 limitOverC=1.0824 util=0.9778 reject=0.7731 meanLatOverS=1.0976 nPairs=138 eMean=0.7605
+TAG e10:delta:32:det:4.3:202 RES algo=delta c=32 S=50.0 dist=det rho=4.30 seed=202 meanLimit=34.59 limitOverC=1.0809 util=0.9781 reject=0.7721 meanLatOverS=1.0961 nPairs=138 eMean=0.7606
+TAG e10:delta:32:det:4.3:303 RES algo=delta c=32 S=50.0 dist=det rho=4.30 seed=303 meanLimit=34.60 limitOverC=1.0812 util=0.9784 reject=0.7725 meanLatOverS=1.0962 nPairs=138 eMean=0.7606
+TAG e10:delta:32:ln05:1.3:101 RES algo=delta c=32 S=50.0 dist=ln05 rho=1.30 seed=101 meanLimit=37.59 limitOverC=1.1746 util=0.9753 reject=0.2486 meanLatOverS=1.1187 nPairs=118 eMean=0.7465
+TAG e10:delta:32:ln05:1.3:202 RES algo=delta c=32 S=50.0 dist=ln05 rho=1.30 seed=202 meanLimit=37.80 limitOverC=1.1811 util=0.9766 reject=0.2443 meanLatOverS=1.1216 nPairs=120 eMean=0.7474
+TAG e10:delta:32:ln05:1.3:303 RES algo=delta c=32 S=50.0 dist=ln05 rho=1.30 seed=303 meanLimit=37.61 limitOverC=1.1754 util=0.9748 reject=0.2538 meanLatOverS=1.1268 nPairs=119 eMean=0.7473
+TAG e10:delta:32:ln05:2.7:101 RES algo=delta c=32 S=50.0 dist=ln05 rho=2.70 seed=101 meanLimit=36.29 limitOverC=1.1341 util=0.9859 reject=0.6337 meanLatOverS=1.1295 nPairs=120 eMean=0.7540
+TAG e10:delta:32:ln05:2.7:202 RES algo=delta c=32 S=50.0 dist=ln05 rho=2.70 seed=202 meanLimit=34.93 limitOverC=1.0916 util=0.9747 reject=0.6366 meanLatOverS=1.1012 nPairs=121 eMean=0.7525
+TAG e10:delta:32:ln05:2.7:303 RES algo=delta c=32 S=50.0 dist=ln05 rho=2.70 seed=303 meanLimit=35.17 limitOverC=1.0989 util=0.9769 reject=0.6367 meanLatOverS=1.1085 nPairs=120 eMean=0.7522
+TAG e10:delta:32:ln05:4.3:101 RES algo=delta c=32 S=50.0 dist=ln05 rho=4.30 seed=101 meanLimit=35.85 limitOverC=1.1202 util=0.9865 reject=0.7705 meanLatOverS=1.1235 nPairs=120 eMean=0.7551
+TAG e10:delta:32:ln05:4.3:202 RES algo=delta c=32 S=50.0 dist=ln05 rho=4.30 seed=202 meanLimit=34.63 limitOverC=1.0823 util=0.9754 reject=0.7726 meanLatOverS=1.1000 nPairs=121 eMean=0.7522
+TAG e10:delta:32:ln05:4.3:303 RES algo=delta c=32 S=50.0 dist=ln05 rho=4.30 seed=303 meanLimit=34.73 limitOverC=1.0854 util=0.9762 reject=0.7733 meanLatOverS=1.1051 nPairs=121 eMean=0.7516
+TAG e10:delta:32:exp:1.3:101 RES algo=delta c=32 S=50.0 dist=exp rho=1.30 seed=101 meanLimit=39.64 limitOverC=1.2388 util=0.9763 reject=0.2497 meanLatOverS=1.1750 nPairs=99 eMean=0.7419
+TAG e10:delta:32:exp:1.3:202 RES algo=delta c=32 S=50.0 dist=exp rho=1.30 seed=202 meanLimit=40.55 limitOverC=1.2672 util=0.9768 reject=0.2327 meanLatOverS=1.1733 nPairs=102 eMean=0.7347
+TAG e10:delta:32:exp:1.3:303 RES algo=delta c=32 S=50.0 dist=exp rho=1.30 seed=303 meanLimit=39.89 limitOverC=1.2464 util=0.9811 reject=0.2453 meanLatOverS=1.1669 nPairs=100 eMean=0.7437
+TAG e10:delta:32:exp:2.7:101 RES algo=delta c=32 S=50.0 dist=exp rho=2.70 seed=101 meanLimit=36.16 limitOverC=1.1299 util=0.9769 reject=0.6377 meanLatOverS=1.1369 nPairs=101 eMean=0.7520
+TAG e10:delta:32:exp:2.7:202 RES algo=delta c=32 S=50.0 dist=exp rho=2.70 seed=202 meanLimit=35.36 limitOverC=1.1049 util=0.9763 reject=0.6300 meanLatOverS=1.0938 nPairs=103 eMean=0.7437
+TAG e10:delta:32:exp:2.7:303 RES algo=delta c=32 S=50.0 dist=exp rho=2.70 seed=303 meanLimit=36.60 limitOverC=1.1436 util=0.9837 reject=0.6324 meanLatOverS=1.1397 nPairs=101 eMean=0.7439
+TAG e10:delta:32:exp:4.3:101 RES algo=delta c=32 S=50.0 dist=exp rho=4.30 seed=101 meanLimit=36.27 limitOverC=1.1334 util=0.9796 reject=0.7725 meanLatOverS=1.1460 nPairs=101 eMean=0.7490
+TAG e10:delta:32:exp:4.3:202 RES algo=delta c=32 S=50.0 dist=exp rho=4.30 seed=202 meanLimit=35.13 limitOverC=1.0979 util=0.9771 reject=0.7685 meanLatOverS=1.0949 nPairs=104 eMean=0.7518
+TAG e10:delta:32:exp:4.3:303 RES algo=delta c=32 S=50.0 dist=exp rho=4.30 seed=303 meanLimit=34.10 limitOverC=1.0655 util=0.9668 reject=0.7745 meanLatOverS=1.0892 nPairs=102 eMean=0.7442
+TAG e10:delta:32:ln1:1.3:101 RES algo=delta c=32 S=50.0 dist=ln1 rho=1.30 seed=101 meanLimit=38.97 limitOverC=1.2177 util=0.9755 reject=0.2464 meanLatOverS=1.1475 nPairs=71 eMean=0.7020
+TAG e10:delta:32:ln1:1.3:202 RES algo=delta c=32 S=50.0 dist=ln1 rho=1.30 seed=202 meanLimit=38.23 limitOverC=1.1947 util=0.9712 reject=0.2486 meanLatOverS=1.1346 nPairs=77 eMean=0.6892
+TAG e10:delta:32:ln1:1.3:303 RES algo=delta c=32 S=50.0 dist=ln1 rho=1.30 seed=303 meanLimit=38.18 limitOverC=1.1932 util=0.9736 reject=0.2572 meanLatOverS=1.1439 nPairs=78 eMean=0.7361
+TAG e10:delta:32:ln1:2.7:101 RES algo=delta c=32 S=50.0 dist=ln1 rho=2.70 seed=101 meanLimit=35.82 limitOverC=1.1193 util=0.9762 reject=0.6358 meanLatOverS=1.1199 nPairs=72 eMean=0.7085
+TAG e10:delta:32:ln1:2.7:202 RES algo=delta c=32 S=50.0 dist=ln1 rho=2.70 seed=202 meanLimit=34.83 limitOverC=1.0885 util=0.9694 reject=0.6386 meanLatOverS=1.1038 nPairs=75 eMean=0.7257
+TAG e10:delta:32:ln1:2.7:303 RES algo=delta c=32 S=50.0 dist=ln1 rho=2.70 seed=303 meanLimit=34.14 limitOverC=1.0669 util=0.9629 reject=0.6430 meanLatOverS=1.0948 nPairs=76 eMean=0.7253
+TAG e10:delta:32:ln1:4.3:101 RES algo=delta c=32 S=50.0 dist=ln1 rho=4.30 seed=101 meanLimit=34.46 limitOverC=1.0768 util=0.9643 reject=0.7750 meanLatOverS=1.1000 nPairs=71 eMean=0.7252
+TAG e10:delta:32:ln1:4.3:202 RES algo=delta c=32 S=50.0 dist=ln1 rho=4.30 seed=202 meanLimit=34.67 limitOverC=1.0835 util=0.9712 reject=0.7737 meanLatOverS=1.1048 nPairs=75 eMean=0.7252
+TAG e10:delta:32:ln1:4.3:303 RES algo=delta c=32 S=50.0 dist=ln1 rho=4.30 seed=303 meanLimit=34.95 limitOverC=1.0923 util=0.9744 reject=0.7742 meanLatOverS=1.1155 nPairs=79 eMean=0.7237
+TAG e10:delta:32:par25:1.3:101 RES algo=delta c=32 S=50.0 dist=par25 rho=1.30 seed=101 meanLimit=39.08 limitOverC=1.2213 util=0.9853 reject=0.2467 meanLatOverS=1.1619 nPairs=89 eMean=0.7245
+TAG e10:delta:32:par25:1.3:202 RES algo=delta c=32 S=50.0 dist=par25 rho=1.30 seed=202 meanLimit=37.20 limitOverC=1.1626 util=0.9684 reject=0.2413 meanLatOverS=1.1004 nPairs=100 eMean=0.7394
+TAG e10:delta:32:par25:1.3:303 RES algo=delta c=32 S=50.0 dist=par25 rho=1.30 seed=303 meanLimit=38.68 limitOverC=1.2086 util=0.9806 reject=0.2491 meanLatOverS=1.1528 nPairs=88 eMean=0.7328
+TAG e10:delta:32:par25:2.7:101 RES algo=delta c=32 S=50.0 dist=par25 rho=2.70 seed=101 meanLimit=34.82 limitOverC=1.0880 util=0.9710 reject=0.6417 meanLatOverS=1.1073 nPairs=90 eMean=0.7378
+TAG e10:delta:32:par25:2.7:202 RES algo=delta c=32 S=50.0 dist=par25 rho=2.70 seed=202 meanLimit=35.25 limitOverC=1.1017 util=0.9784 reject=0.6305 meanLatOverS=1.0932 nPairs=103 eMean=0.7412
+TAG e10:delta:32:par25:2.7:303 RES algo=delta c=32 S=50.0 dist=par25 rho=2.70 seed=303 meanLimit=35.65 limitOverC=1.1140 util=0.9765 reject=0.6365 meanLatOverS=1.1237 nPairs=91 eMean=0.7327
+TAG e10:delta:32:par25:4.3:101 RES algo=delta c=32 S=50.0 dist=par25 rho=4.30 seed=101 meanLimit=34.38 limitOverC=1.0744 util=0.9692 reject=0.7761 meanLatOverS=1.1046 nPairs=90 eMean=0.7445
+TAG e10:delta:32:par25:4.3:202 RES algo=delta c=32 S=50.0 dist=par25 rho=4.30 seed=202 meanLimit=34.36 limitOverC=1.0739 util=0.9705 reject=0.7710 meanLatOverS=1.0829 nPairs=103 eMean=0.7475
+TAG e10:delta:32:par25:4.3:303 RES algo=delta c=32 S=50.0 dist=par25 rho=4.30 seed=303 meanLimit=36.31 limitOverC=1.1348 util=0.9805 reject=0.7722 meanLatOverS=1.1493 nPairs=90 eMean=0.7330
+TAG e10:delta:32:ln15:1.3:101 RES algo=delta c=32 S=50.0 dist=ln15 rho=1.30 seed=101 meanLimit=34.94 limitOverC=1.0919 util=0.9252 reject=0.2816 meanLatOverS=1.0594 nPairs=34 eMean=0.5467
+TAG e10:delta:32:ln15:1.3:202 RES algo=delta c=32 S=50.0 dist=ln15 rho=1.30 seed=202 meanLimit=36.03 limitOverC=1.1260 util=0.9401 reject=0.2730 meanLatOverS=1.0946 nPairs=37 eMean=0.5237
+TAG e10:delta:32:ln15:1.3:303 RES algo=delta c=32 S=50.0 dist=ln15 rho=1.30 seed=303 meanLimit=42.60 limitOverC=1.3312 util=0.9787 reject=0.2578 meanLatOverS=1.2527 nPairs=35 eMean=0.4508
+TAG e10:delta:32:ln15:2.7:101 RES algo=delta c=32 S=50.0 dist=ln15 rho=2.70 seed=101 meanLimit=49.89 limitOverC=1.5591 util=0.9637 reject=0.6434 meanLatOverS=1.5816 nPairs=32 eMean=0.4283
+TAG e10:delta:32:ln15:2.7:202 RES algo=delta c=32 S=50.0 dist=ln15 rho=2.70 seed=202 meanLimit=34.12 limitOverC=1.0661 util=0.9494 reject=0.6466 meanLatOverS=1.0998 nPairs=38 eMean=0.6109
+TAG e10:delta:32:ln15:2.7:303 RES algo=delta c=32 S=50.0 dist=ln15 rho=2.70 seed=303 meanLimit=34.57 limitOverC=1.0804 util=0.9605 reject=0.6480 meanLatOverS=1.1196 nPairs=40 eMean=0.7035
+TAG e10:delta:32:ln15:4.3:101 RES algo=delta c=32 S=50.0 dist=ln15 rho=4.30 seed=101 meanLimit=51.69 limitOverC=1.6153 util=1.0000 reject=0.7669 meanLatOverS=1.5802 nPairs=30 eMean=0.4101
+TAG e10:delta:32:ln15:4.3:202 RES algo=delta c=32 S=50.0 dist=ln15 rho=4.30 seed=202 meanLimit=40.03 limitOverC=1.2510 util=0.9949 reject=0.7685 meanLatOverS=1.2439 nPairs=43 eMean=0.6184
+TAG e10:delta:32:ln15:4.3:303 RES algo=delta c=32 S=50.0 dist=ln15 rho=4.30 seed=303 meanLimit=29.44 limitOverC=0.9199 util=0.8532 reject=0.8045 meanLatOverS=1.0762 nPairs=39 eMean=0.6794
+TAG e10:delta:128:det:1.3:101 RES algo=delta c=128 S=50.0 dist=det rho=1.30 seed=101 meanLimit=139.97 limitOverC=1.0935 util=0.9793 reject=0.2461 meanLatOverS=1.0867 nPairs=297 eMean=0.7343
+TAG e10:delta:128:det:1.3:202 RES algo=delta c=128 S=50.0 dist=det rho=1.30 seed=202 meanLimit=139.88 limitOverC=1.0928 util=0.9790 reject=0.2461 meanLatOverS=1.0864 nPairs=297 eMean=0.7345
+TAG e10:delta:128:det:1.3:303 RES algo=delta c=128 S=50.0 dist=det rho=1.30 seed=303 meanLimit=139.92 limitOverC=1.0931 util=0.9795 reject=0.2479 meanLatOverS=1.0870 nPairs=297 eMean=0.7345
+TAG e10:delta:128:det:2.7:101 RES algo=delta c=128 S=50.0 dist=det rho=2.70 seed=101 meanLimit=137.55 limitOverC=1.0746 util=0.9799 reject=0.6373 meanLatOverS=1.0928 nPairs=299 eMean=0.7356
+TAG e10:delta:128:det:2.7:202 RES algo=delta c=128 S=50.0 dist=det rho=2.70 seed=202 meanLimit=137.59 limitOverC=1.0749 util=0.9799 reject=0.6379 meanLatOverS=1.0927 nPairs=299 eMean=0.7357
+TAG e10:delta:128:det:2.7:303 RES algo=delta c=128 S=50.0 dist=det rho=2.70 seed=303 meanLimit=137.53 limitOverC=1.0745 util=0.9795 reject=0.6372 meanLatOverS=1.0926 nPairs=299 eMean=0.7356
+TAG e10:delta:128:det:4.3:101 RES algo=delta c=128 S=50.0 dist=det rho=4.30 seed=101 meanLimit=137.11 limitOverC=1.0711 util=0.9796 reject=0.7721 meanLatOverS=1.0926 nPairs=299 eMean=0.7357
+TAG e10:delta:128:det:4.3:202 RES algo=delta c=128 S=50.0 dist=det rho=4.30 seed=202 meanLimit=137.21 limitOverC=1.0720 util=0.9799 reject=0.7721 meanLatOverS=1.0928 nPairs=299 eMean=0.7354
+TAG e10:delta:128:det:4.3:303 RES algo=delta c=128 S=50.0 dist=det rho=4.30 seed=303 meanLimit=137.10 limitOverC=1.0711 util=0.9796 reject=0.7721 meanLatOverS=1.0924 nPairs=299 eMean=0.7358
+TAG e10:delta:128:ln05:1.3:101 RES algo=delta c=128 S=50.0 dist=ln05 rho=1.30 seed=101 meanLimit=139.48 limitOverC=1.0897 util=0.9772 reject=0.2484 meanLatOverS=1.0888 nPairs=200 eMean=0.7002
+TAG e10:delta:128:ln05:1.3:202 RES algo=delta c=128 S=50.0 dist=ln05 rho=1.30 seed=202 meanLimit=140.93 limitOverC=1.1010 util=0.9816 reject=0.2424 meanLatOverS=1.0907 nPairs=199 eMean=0.7019
+TAG e10:delta:128:ln05:1.3:303 RES algo=delta c=128 S=50.0 dist=ln05 rho=1.30 seed=303 meanLimit=140.28 limitOverC=1.0960 util=0.9803 reject=0.2473 meanLatOverS=1.0910 nPairs=197 eMean=0.7024
+TAG e10:delta:128:ln05:2.7:101 RES algo=delta c=128 S=50.0 dist=ln05 rho=2.70 seed=101 meanLimit=139.79 limitOverC=1.0921 util=0.9861 reject=0.6352 meanLatOverS=1.1042 nPairs=198 eMean=0.7037
+TAG e10:delta:128:ln05:2.7:202 RES algo=delta c=128 S=50.0 dist=ln05 rho=2.70 seed=202 meanLimit=138.23 limitOverC=1.0799 util=0.9803 reject=0.6370 meanLatOverS=1.0951 nPairs=199 eMean=0.7043
+TAG e10:delta:128:ln05:2.7:303 RES algo=delta c=128 S=50.0 dist=ln05 rho=2.70 seed=303 meanLimit=137.39 limitOverC=1.0733 util=0.9787 reject=0.6375 meanLatOverS=1.0924 nPairs=200 eMean=0.7065
+TAG e10:delta:128:ln05:4.3:101 RES algo=delta c=128 S=50.0 dist=ln05 rho=4.30 seed=101 meanLimit=139.10 limitOverC=1.0867 util=0.9851 reject=0.7710 meanLatOverS=1.1024 nPairs=198 eMean=0.7052
+TAG e10:delta:128:ln05:4.3:202 RES algo=delta c=128 S=50.0 dist=ln05 rho=4.30 seed=202 meanLimit=137.75 limitOverC=1.0762 util=0.9803 reject=0.7716 meanLatOverS=1.0941 nPairs=199 eMean=0.7045
+TAG e10:delta:128:ln05:4.3:303 RES algo=delta c=128 S=50.0 dist=ln05 rho=4.30 seed=303 meanLimit=137.27 limitOverC=1.0724 util=0.9793 reject=0.7721 meanLatOverS=1.0934 nPairs=199 eMean=0.7071
+TAG e10:delta:128:exp:1.3:101 RES algo=delta c=128 S=50.0 dist=exp rho=1.30 seed=101 meanLimit=149.61 limitOverC=1.1689 util=0.9835 reject=0.2396 meanLatOverS=1.1538 nPairs=140 eMean=0.6542
+TAG e10:delta:128:exp:1.3:202 RES algo=delta c=128 S=50.0 dist=exp rho=1.30 seed=202 meanLimit=148.65 limitOverC=1.1613 util=0.9901 reject=0.2370 meanLatOverS=1.1413 nPairs=144 eMean=0.6549
+TAG e10:delta:128:exp:1.3:303 RES algo=delta c=128 S=50.0 dist=exp rho=1.30 seed=303 meanLimit=140.38 limitOverC=1.0967 util=0.9740 reject=0.2502 meanLatOverS=1.0946 nPairs=144 eMean=0.6566
+TAG e10:delta:128:exp:2.7:101 RES algo=delta c=128 S=50.0 dist=exp rho=2.70 seed=101 meanLimit=139.98 limitOverC=1.0936 util=0.9787 reject=0.6362 meanLatOverS=1.1076 nPairs=143 eMean=0.6671
+TAG e10:delta:128:exp:2.7:202 RES algo=delta c=128 S=50.0 dist=exp rho=2.70 seed=202 meanLimit=140.39 limitOverC=1.0968 util=0.9802 reject=0.6375 meanLatOverS=1.1134 nPairs=144 eMean=0.6652
+TAG e10:delta:128:exp:2.7:303 RES algo=delta c=128 S=50.0 dist=exp rho=2.70 seed=303 meanLimit=143.26 limitOverC=1.1192 util=0.9873 reject=0.6335 meanLatOverS=1.1260 nPairs=140 eMean=0.6568
+TAG e10:delta:128:exp:4.3:101 RES algo=delta c=128 S=50.0 dist=exp rho=4.30 seed=101 meanLimit=143.16 limitOverC=1.1185 util=0.9833 reject=0.7703 meanLatOverS=1.1302 nPairs=142 eMean=0.6691
+TAG e10:delta:128:exp:4.3:202 RES algo=delta c=128 S=50.0 dist=exp rho=4.30 seed=202 meanLimit=138.12 limitOverC=1.0791 util=0.9792 reject=0.7721 meanLatOverS=1.0991 nPairs=145 eMean=0.6657
+TAG e10:delta:128:exp:4.3:303 RES algo=delta c=128 S=50.0 dist=exp rho=4.30 seed=303 meanLimit=137.55 limitOverC=1.0746 util=0.9747 reject=0.7727 meanLatOverS=1.0978 nPairs=142 eMean=0.6588
+TAG e10:delta:128:ln1:1.3:101 RES algo=delta c=128 S=50.0 dist=ln1 rho=1.30 seed=101 meanLimit=136.52 limitOverC=1.0666 util=0.9645 reject=0.2564 meanLatOverS=1.0771 nPairs=91 eMean=0.5475
+TAG e10:delta:128:ln1:1.3:202 RES algo=delta c=128 S=50.0 dist=ln1 rho=1.30 seed=202 meanLimit=148.67 limitOverC=1.1615 util=0.9877 reject=0.2358 meanLatOverS=1.1410 nPairs=96 eMean=0.5756
+TAG e10:delta:128:ln1:1.3:303 RES algo=delta c=128 S=50.0 dist=ln1 rho=1.30 seed=303 meanLimit=155.88 limitOverC=1.2178 util=0.9842 reject=0.2437 meanLatOverS=1.2078 nPairs=91 eMean=0.5833
+TAG e10:delta:128:ln1:2.7:101 RES algo=delta c=128 S=50.0 dist=ln1 rho=2.70 seed=101 meanLimit=139.51 limitOverC=1.0899 util=0.9788 reject=0.6381 meanLatOverS=1.1086 nPairs=91 eMean=0.5836
+TAG e10:delta:128:ln1:2.7:202 RES algo=delta c=128 S=50.0 dist=ln1 rho=2.70 seed=202 meanLimit=144.44 limitOverC=1.1285 util=0.9857 reject=0.6344 meanLatOverS=1.1348 nPairs=97 eMean=0.5919
+TAG e10:delta:128:ln1:2.7:303 RES algo=delta c=128 S=50.0 dist=ln1 rho=2.70 seed=303 meanLimit=138.76 limitOverC=1.0840 util=0.9779 reject=0.6373 meanLatOverS=1.1012 nPairs=92 eMean=0.5793
+TAG e10:delta:128:ln1:4.3:101 RES algo=delta c=128 S=50.0 dist=ln1 rho=4.30 seed=101 meanLimit=140.60 limitOverC=1.0984 util=0.9767 reject=0.7729 meanLatOverS=1.1218 nPairs=89 eMean=0.5856
+TAG e10:delta:128:ln1:4.3:202 RES algo=delta c=128 S=50.0 dist=ln1 rho=4.30 seed=202 meanLimit=149.28 limitOverC=1.1663 util=0.9919 reject=0.7682 meanLatOverS=1.1669 nPairs=95 eMean=0.5850
+TAG e10:delta:128:ln1:4.3:303 RES algo=delta c=128 S=50.0 dist=ln1 rho=4.30 seed=303 meanLimit=152.86 limitOverC=1.1942 util=0.9894 reject=0.7695 meanLatOverS=1.2024 nPairs=93 eMean=0.5763
+TAG e10:delta:128:par25:1.3:101 RES algo=delta c=128 S=50.0 dist=par25 rho=1.30 seed=101 meanLimit=142.47 limitOverC=1.1131 util=0.9816 reject=0.2438 meanLatOverS=1.1069 nPairs=118 eMean=0.6348
+TAG e10:delta:128:par25:1.3:202 RES algo=delta c=128 S=50.0 dist=par25 rho=1.30 seed=202 meanLimit=143.10 limitOverC=1.1180 util=0.9817 reject=0.2422 meanLatOverS=1.1097 nPairs=119 eMean=0.6223
+TAG e10:delta:128:par25:1.3:303 RES algo=delta c=128 S=50.0 dist=par25 rho=1.30 seed=303 meanLimit=148.80 limitOverC=1.1625 util=0.9897 reject=0.2383 meanLatOverS=1.1449 nPairs=114 eMean=0.6326
+TAG e10:delta:128:par25:2.7:101 RES algo=delta c=128 S=50.0 dist=par25 rho=2.70 seed=101 meanLimit=141.76 limitOverC=1.1075 util=0.9846 reject=0.6352 meanLatOverS=1.1192 nPairs=123 eMean=0.6408
+TAG e10:delta:128:par25:2.7:202 RES algo=delta c=128 S=50.0 dist=par25 rho=2.70 seed=202 meanLimit=140.48 limitOverC=1.0975 util=0.9879 reject=0.6340 meanLatOverS=1.1035 nPairs=120 eMean=0.6381
+TAG e10:delta:128:par25:2.7:303 RES algo=delta c=128 S=50.0 dist=par25 rho=2.70 seed=303 meanLimit=137.47 limitOverC=1.0740 util=0.9747 reject=0.6381 meanLatOverS=1.0946 nPairs=121 eMean=0.6393
+TAG e10:delta:128:par25:4.3:101 RES algo=delta c=128 S=50.0 dist=par25 rho=4.30 seed=101 meanLimit=136.58 limitOverC=1.0670 util=0.9761 reject=0.7727 meanLatOverS=1.0893 nPairs=123 eMean=0.6399
+TAG e10:delta:128:par25:4.3:202 RES algo=delta c=128 S=50.0 dist=par25 rho=4.30 seed=202 meanLimit=139.63 limitOverC=1.0908 util=0.9830 reject=0.7709 meanLatOverS=1.1049 nPairs=121 eMean=0.6374
+TAG e10:delta:128:par25:4.3:303 RES algo=delta c=128 S=50.0 dist=par25 rho=4.30 seed=303 meanLimit=136.92 limitOverC=1.0697 util=0.9768 reject=0.7722 meanLatOverS=1.0902 nPairs=126 eMean=0.6515
+TAG e10:delta:128:ln15:1.3:101 RES algo=delta c=128 S=50.0 dist=ln15 rho=1.30 seed=101 meanLimit=138.68 limitOverC=1.0834 util=0.9114 reject=0.2919 meanLatOverS=1.1467 nPairs=37 eMean=0.2183
+TAG e10:delta:128:ln15:1.3:202 RES algo=delta c=128 S=50.0 dist=ln15 rho=1.30 seed=202 meanLimit=168.68 limitOverC=1.3178 util=0.8948 reject=0.3099 meanLatOverS=1.4378 nPairs=42 eMean=0.1652
+TAG e10:delta:128:ln15:1.3:303 RES algo=delta c=128 S=50.0 dist=ln15 rho=1.30 seed=303 meanLimit=113.91 limitOverC=0.8899 util=0.8383 reject=0.3557 meanLatOverS=1.0338 nPairs=36 eMean=0.1071
+TAG e10:delta:128:ln15:2.7:101 RES algo=delta c=128 S=50.0 dist=ln15 rho=2.70 seed=101 meanLimit=122.38 limitOverC=0.9561 util=0.8748 reject=0.6728 meanLatOverS=1.0726 nPairs=36 eMean=0.2245
+TAG e10:delta:128:ln15:2.7:202 RES algo=delta c=128 S=50.0 dist=ln15 rho=2.70 seed=202 meanLimit=144.91 limitOverC=1.1321 util=0.9601 reject=0.6428 meanLatOverS=1.1606 nPairs=45 eMean=0.2509
+TAG e10:delta:128:ln15:2.7:303 RES algo=delta c=128 S=50.0 dist=ln15 rho=2.70 seed=303 meanLimit=107.91 limitOverC=0.8431 util=0.7998 reject=0.7028 meanLatOverS=1.0401 nPairs=47 eMean=0.3896
+TAG e10:delta:128:ln15:4.3:101 RES algo=delta c=128 S=50.0 dist=ln15 rho=4.30 seed=101 meanLimit=114.78 limitOverC=0.8967 util=0.7932 reject=0.8127 meanLatOverS=1.1062 nPairs=35 eMean=0.1797
+TAG e10:delta:128:ln15:4.3:202 RES algo=delta c=128 S=50.0 dist=ln15 rho=4.30 seed=202 meanLimit=120.43 limitOverC=0.9409 util=0.8680 reject=0.7978 meanLatOverS=1.0737 nPairs=40 eMean=0.2113
+TAG e10:delta:128:ln15:4.3:303 RES algo=delta c=128 S=50.0 dist=ln15 rho=4.30 seed=303 meanLimit=75.72 limitOverC=0.5916 util=0.5900 reject=0.8622 meanLatOverS=0.9895 nPairs=43 eMean=0.4187
+TAG e10:static:8:det:1.3:101 RES algo=static c=8 S=50.0 dist=det rho=1.30 seed=101 meanLimit=8.00 limitOverC=1.0000 util=0.8388 reject=0.3660 meanLatOverS=1.0000
+TAG e10:static:8:det:1.3:202 RES algo=static c=8 S=50.0 dist=det rho=1.30 seed=202 meanLimit=8.00 limitOverC=1.0000 util=0.8353 reject=0.3559 meanLatOverS=1.0000
+TAG e10:static:8:det:1.3:303 RES algo=static c=8 S=50.0 dist=det rho=1.30 seed=303 meanLimit=8.00 limitOverC=1.0000 util=0.8338 reject=0.3574 meanLatOverS=1.0000
+TAG e10:static:8:det:2.7:101 RES algo=static c=8 S=50.0 dist=det rho=2.70 seed=101 meanLimit=8.00 limitOverC=1.0000 util=0.9376 reject=0.6528 meanLatOverS=1.0000
+TAG e10:static:8:det:2.7:202 RES algo=static c=8 S=50.0 dist=det rho=2.70 seed=202 meanLimit=8.00 limitOverC=1.0000 util=0.9394 reject=0.6537 meanLatOverS=1.0000
+TAG e10:static:8:det:2.7:303 RES algo=static c=8 S=50.0 dist=det rho=2.70 seed=303 meanLimit=8.00 limitOverC=0.9999 util=0.9378 reject=0.6527 meanLatOverS=1.0000
+TAG e10:static:8:det:4.3:101 RES algo=static c=8 S=50.0 dist=det rho=4.30 seed=101 meanLimit=8.00 limitOverC=1.0000 util=0.9648 reject=0.7761 meanLatOverS=1.0000
+TAG e10:static:8:det:4.3:202 RES algo=static c=8 S=50.0 dist=det rho=4.30 seed=202 meanLimit=8.00 limitOverC=1.0000 util=0.9659 reject=0.7755 meanLatOverS=1.0000
+TAG e10:static:8:det:4.3:303 RES algo=static c=8 S=50.0 dist=det rho=4.30 seed=303 meanLimit=8.00 limitOverC=1.0000 util=0.9653 reject=0.7754 meanLatOverS=1.0000
+TAG e10:static:8:ln05:1.3:101 RES algo=static c=8 S=50.0 dist=ln05 rho=1.30 seed=101 meanLimit=8.00 limitOverC=1.0000 util=0.8416 reject=0.3673 meanLatOverS=1.0053
+TAG e10:static:8:ln05:1.3:202 RES algo=static c=8 S=50.0 dist=ln05 rho=1.30 seed=202 meanLimit=8.00 limitOverC=1.0000 util=0.8368 reject=0.3560 meanLatOverS=1.0017
+TAG e10:static:8:ln05:1.3:303 RES algo=static c=8 S=50.0 dist=ln05 rho=1.30 seed=303 meanLimit=8.00 limitOverC=1.0000 util=0.8337 reject=0.3573 meanLatOverS=0.9987
+TAG e10:static:8:ln05:2.7:101 RES algo=static c=8 S=50.0 dist=ln05 rho=2.70 seed=101 meanLimit=8.00 limitOverC=1.0000 util=0.9395 reject=0.6540 meanLatOverS=1.0051
+TAG e10:static:8:ln05:2.7:202 RES algo=static c=8 S=50.0 dist=ln05 rho=2.70 seed=202 meanLimit=8.00 limitOverC=1.0000 util=0.9391 reject=0.6536 meanLatOverS=0.9990
+TAG e10:static:8:ln05:2.7:303 RES algo=static c=8 S=50.0 dist=ln05 rho=2.70 seed=303 meanLimit=8.00 limitOverC=0.9999 util=0.9381 reject=0.6530 meanLatOverS=1.0010
+TAG e10:static:8:ln05:4.3:101 RES algo=static c=8 S=50.0 dist=ln05 rho=4.30 seed=101 meanLimit=8.00 limitOverC=1.0000 util=0.9651 reject=0.7774 meanLatOverS=1.0060
+TAG e10:static:8:ln05:4.3:202 RES algo=static c=8 S=50.0 dist=ln05 rho=4.30 seed=202 meanLimit=8.00 limitOverC=1.0000 util=0.9666 reject=0.7757 meanLatOverS=1.0014
+TAG e10:static:8:ln05:4.3:303 RES algo=static c=8 S=50.0 dist=ln05 rho=4.30 seed=303 meanLimit=8.00 limitOverC=1.0000 util=0.9654 reject=0.7760 meanLatOverS=1.0026
+TAG e10:static:8:exp:1.3:101 RES algo=static c=8 S=50.0 dist=exp rho=1.30 seed=101 meanLimit=8.00 limitOverC=1.0000 util=0.8457 reject=0.3729 meanLatOverS=1.0189
+TAG e10:static:8:exp:1.3:202 RES algo=static c=8 S=50.0 dist=exp rho=1.30 seed=202 meanLimit=8.00 limitOverC=1.0000 util=0.8324 reject=0.3487 meanLatOverS=0.9844
+TAG e10:static:8:exp:1.3:303 RES algo=static c=8 S=50.0 dist=exp rho=1.30 seed=303 meanLimit=8.00 limitOverC=0.9999 util=0.8346 reject=0.3561 meanLatOverS=0.9971
+TAG e10:static:8:exp:2.7:101 RES algo=static c=8 S=50.0 dist=exp rho=2.70 seed=101 meanLimit=8.00 limitOverC=1.0000 util=0.9388 reject=0.6544 meanLatOverS=1.0047
+TAG e10:static:8:exp:2.7:202 RES algo=static c=8 S=50.0 dist=exp rho=2.70 seed=202 meanLimit=8.00 limitOverC=1.0000 util=0.9384 reject=0.6476 meanLatOverS=0.9805
+TAG e10:static:8:exp:2.7:303 RES algo=static c=8 S=50.0 dist=exp rho=2.70 seed=303 meanLimit=8.00 limitOverC=1.0000 util=0.9371 reject=0.6511 meanLatOverS=0.9942
+TAG e10:static:8:exp:4.3:101 RES algo=static c=8 S=50.0 dist=exp rho=4.30 seed=101 meanLimit=8.00 limitOverC=1.0000 util=0.9661 reject=0.7758 meanLatOverS=0.9995
+TAG e10:static:8:exp:4.3:202 RES algo=static c=8 S=50.0 dist=exp rho=4.30 seed=202 meanLimit=8.00 limitOverC=1.0000 util=0.9638 reject=0.7716 meanLatOverS=0.9798
+TAG e10:static:8:exp:4.3:303 RES algo=static c=8 S=50.0 dist=exp rho=4.30 seed=303 meanLimit=8.00 limitOverC=1.0000 util=0.9645 reject=0.7737 meanLatOverS=0.9907
+TAG e10:static:8:ln1:1.3:101 RES algo=static c=8 S=50.0 dist=ln1 rho=1.30 seed=101 meanLimit=8.00 limitOverC=1.0000 util=0.8414 reject=0.3699 meanLatOverS=1.0091
+TAG e10:static:8:ln1:1.3:202 RES algo=static c=8 S=50.0 dist=ln1 rho=1.30 seed=202 meanLimit=8.00 limitOverC=1.0000 util=0.8332 reject=0.3589 meanLatOverS=1.0006
+TAG e10:static:8:ln1:1.3:303 RES algo=static c=8 S=50.0 dist=ln1 rho=1.30 seed=303 meanLimit=8.00 limitOverC=0.9999 util=0.8380 reject=0.3548 meanLatOverS=0.9975
+TAG e10:static:8:ln1:2.7:101 RES algo=static c=8 S=50.0 dist=ln1 rho=2.70 seed=101 meanLimit=8.00 limitOverC=1.0000 util=0.9385 reject=0.6592 meanLatOverS=1.0179
+TAG e10:static:8:ln1:2.7:202 RES algo=static c=8 S=50.0 dist=ln1 rho=2.70 seed=202 meanLimit=8.00 limitOverC=1.0000 util=0.9398 reject=0.6512 meanLatOverS=0.9917
+TAG e10:static:8:ln1:2.7:303 RES algo=static c=8 S=50.0 dist=ln1 rho=2.70 seed=303 meanLimit=8.00 limitOverC=0.9999 util=0.9393 reject=0.6545 meanLatOverS=1.0060
+TAG e10:static:8:ln1:4.3:101 RES algo=static c=8 S=50.0 dist=ln1 rho=4.30 seed=101 meanLimit=8.00 limitOverC=1.0000 util=0.9655 reject=0.7801 meanLatOverS=1.0169
+TAG e10:static:8:ln1:4.3:202 RES algo=static c=8 S=50.0 dist=ln1 rho=4.30 seed=202 meanLimit=8.00 limitOverC=1.0000 util=0.9652 reject=0.7753 meanLatOverS=0.9978
+TAG e10:static:8:ln1:4.3:303 RES algo=static c=8 S=50.0 dist=ln1 rho=4.30 seed=303 meanLimit=8.00 limitOverC=1.0000 util=0.9652 reject=0.7773 meanLatOverS=1.0073
+TAG e10:static:8:par25:1.3:101 RES algo=static c=8 S=50.0 dist=par25 rho=1.30 seed=101 meanLimit=8.00 limitOverC=1.0000 util=0.8418 reject=0.3710 meanLatOverS=1.0116
+TAG e10:static:8:par25:1.3:202 RES algo=static c=8 S=50.0 dist=par25 rho=1.30 seed=202 meanLimit=8.00 limitOverC=1.0000 util=0.8321 reject=0.3512 meanLatOverS=0.9885
+TAG e10:static:8:par25:1.3:303 RES algo=static c=8 S=50.0 dist=par25 rho=1.30 seed=303 meanLimit=8.00 limitOverC=0.9999 util=0.8351 reject=0.3574 meanLatOverS=1.0005
+TAG e10:static:8:par25:2.7:101 RES algo=static c=8 S=50.0 dist=par25 rho=2.70 seed=101 meanLimit=8.00 limitOverC=1.0000 util=0.9402 reject=0.6517 meanLatOverS=0.9991
+TAG e10:static:8:par25:2.7:202 RES algo=static c=8 S=50.0 dist=par25 rho=2.70 seed=202 meanLimit=8.00 limitOverC=1.0000 util=0.9383 reject=0.6492 meanLatOverS=0.9840
+TAG e10:static:8:par25:2.7:303 RES algo=static c=8 S=50.0 dist=par25 rho=2.70 seed=303 meanLimit=8.00 limitOverC=1.0000 util=0.9387 reject=0.6510 meanLatOverS=0.9962
+TAG e10:static:8:par25:4.3:101 RES algo=static c=8 S=50.0 dist=par25 rho=4.30 seed=101 meanLimit=8.00 limitOverC=1.0000 util=0.9648 reject=0.7752 meanLatOverS=0.9956
+TAG e10:static:8:par25:4.3:202 RES algo=static c=8 S=50.0 dist=par25 rho=4.30 seed=202 meanLimit=8.00 limitOverC=1.0000 util=0.9648 reject=0.7721 meanLatOverS=0.9829
+TAG e10:static:8:par25:4.3:303 RES algo=static c=8 S=50.0 dist=par25 rho=4.30 seed=303 meanLimit=8.00 limitOverC=1.0000 util=0.9652 reject=0.7743 meanLatOverS=0.9936
+TAG e10:static:8:ln15:1.3:101 RES algo=static c=8 S=50.0 dist=ln15 rho=1.30 seed=101 meanLimit=8.00 limitOverC=1.0000 util=0.8472 reject=0.3704 meanLatOverS=1.0124
+TAG e10:static:8:ln15:1.3:202 RES algo=static c=8 S=50.0 dist=ln15 rho=1.30 seed=202 meanLimit=8.00 limitOverC=1.0000 util=0.8380 reject=0.3619 meanLatOverS=1.0029
+TAG e10:static:8:ln15:1.3:303 RES algo=static c=8 S=50.0 dist=ln15 rho=1.30 seed=303 meanLimit=8.00 limitOverC=1.0000 util=0.8350 reject=0.3551 meanLatOverS=0.9895
+TAG e10:static:8:ln15:2.7:101 RES algo=static c=8 S=50.0 dist=ln15 rho=2.70 seed=101 meanLimit=8.00 limitOverC=1.0000 util=0.9420 reject=0.6663 meanLatOverS=1.0417
+TAG e10:static:8:ln15:2.7:202 RES algo=static c=8 S=50.0 dist=ln15 rho=2.70 seed=202 meanLimit=8.00 limitOverC=1.0000 util=0.9386 reject=0.6486 meanLatOverS=0.9822
+TAG e10:static:8:ln15:2.7:303 RES algo=static c=8 S=50.0 dist=ln15 rho=2.70 seed=303 meanLimit=8.00 limitOverC=0.9999 util=0.9385 reject=0.6590 meanLatOverS=1.0097
+TAG e10:static:8:ln15:4.3:101 RES algo=static c=8 S=50.0 dist=ln15 rho=4.30 seed=101 meanLimit=8.00 limitOverC=1.0000 util=0.9667 reject=0.7842 meanLatOverS=1.0347
+TAG e10:static:8:ln15:4.3:202 RES algo=static c=8 S=50.0 dist=ln15 rho=4.30 seed=202 meanLimit=8.00 limitOverC=1.0000 util=0.9647 reject=0.7751 meanLatOverS=0.9933
+TAG e10:static:8:ln15:4.3:303 RES algo=static c=8 S=50.0 dist=ln15 rho=4.30 seed=303 meanLimit=8.00 limitOverC=1.0000 util=0.9658 reject=0.7786 meanLatOverS=1.0084
+TAG e10:static:32:det:1.3:101 RES algo=static c=32 S=50.0 dist=det rho=1.30 seed=101 meanLimit=32.00 limitOverC=1.0000 util=0.9331 reject=0.2829 meanLatOverS=1.0000
+TAG e10:static:32:det:1.3:202 RES algo=static c=32 S=50.0 dist=det rho=1.30 seed=202 meanLimit=32.00 limitOverC=1.0000 util=0.9329 reject=0.2785 meanLatOverS=1.0000
+TAG e10:static:32:det:1.3:303 RES algo=static c=32 S=50.0 dist=det rho=1.30 seed=303 meanLimit=32.00 limitOverC=1.0000 util=0.9340 reject=0.2836 meanLatOverS=1.0000
+TAG e10:static:32:det:2.7:101 RES algo=static c=32 S=50.0 dist=det rho=2.70 seed=101 meanLimit=32.00 limitOverC=1.0000 util=0.9822 reject=0.6359 meanLatOverS=1.0000
+TAG e10:static:32:det:2.7:202 RES algo=static c=32 S=50.0 dist=det rho=2.70 seed=202 meanLimit=32.00 limitOverC=1.0000 util=0.9820 reject=0.6340 meanLatOverS=1.0000
+TAG e10:static:32:det:2.7:303 RES algo=static c=32 S=50.0 dist=det rho=2.70 seed=303 meanLimit=32.00 limitOverC=1.0000 util=0.9822 reject=0.6342 meanLatOverS=1.0000
+TAG e10:static:32:det:4.3:101 RES algo=static c=32 S=50.0 dist=det rho=4.30 seed=101 meanLimit=32.00 limitOverC=1.0000 util=0.9909 reject=0.7701 meanLatOverS=1.0000
+TAG e10:static:32:det:4.3:202 RES algo=static c=32 S=50.0 dist=det rho=4.30 seed=202 meanLimit=32.00 limitOverC=1.0000 util=0.9907 reject=0.7692 meanLatOverS=1.0000
+TAG e10:static:32:det:4.3:303 RES algo=static c=32 S=50.0 dist=det rho=4.30 seed=303 meanLimit=32.00 limitOverC=1.0000 util=0.9907 reject=0.7696 meanLatOverS=1.0000
+TAG e10:static:32:ln05:1.3:101 RES algo=static c=32 S=50.0 dist=ln05 rho=1.30 seed=101 meanLimit=32.00 limitOverC=1.0000 util=0.9332 reject=0.2806 meanLatOverS=0.9967
+TAG e10:static:32:ln05:1.3:202 RES algo=static c=32 S=50.0 dist=ln05 rho=1.30 seed=202 meanLimit=32.00 limitOverC=1.0000 util=0.9325 reject=0.2783 meanLatOverS=0.9991
+TAG e10:static:32:ln05:1.3:303 RES algo=static c=32 S=50.0 dist=ln05 rho=1.30 seed=303 meanLimit=32.00 limitOverC=1.0000 util=0.9347 reject=0.2845 meanLatOverS=1.0019
+TAG e10:static:32:ln05:2.7:101 RES algo=static c=32 S=50.0 dist=ln05 rho=2.70 seed=101 meanLimit=32.00 limitOverC=1.0000 util=0.9825 reject=0.6346 meanLatOverS=0.9963
+TAG e10:static:32:ln05:2.7:202 RES algo=static c=32 S=50.0 dist=ln05 rho=2.70 seed=202 meanLimit=32.00 limitOverC=1.0000 util=0.9828 reject=0.6340 meanLatOverS=1.0005
+TAG e10:static:32:ln05:2.7:303 RES algo=static c=32 S=50.0 dist=ln05 rho=2.70 seed=303 meanLimit=32.00 limitOverC=1.0000 util=0.9824 reject=0.6347 meanLatOverS=1.0015
+TAG e10:static:32:ln05:4.3:101 RES algo=static c=32 S=50.0 dist=ln05 rho=4.30 seed=101 meanLimit=32.00 limitOverC=1.0000 util=0.9907 reject=0.7694 meanLatOverS=0.9967
+TAG e10:static:32:ln05:4.3:202 RES algo=static c=32 S=50.0 dist=ln05 rho=4.30 seed=202 meanLimit=32.00 limitOverC=1.0000 util=0.9907 reject=0.7693 meanLatOverS=1.0002
+TAG e10:static:32:ln05:4.3:303 RES algo=static c=32 S=50.0 dist=ln05 rho=4.30 seed=303 meanLimit=32.00 limitOverC=1.0000 util=0.9908 reject=0.7701 meanLatOverS=1.0019
+TAG e10:static:32:exp:1.3:101 RES algo=static c=32 S=50.0 dist=exp rho=1.30 seed=101 meanLimit=32.00 limitOverC=1.0000 util=0.9324 reject=0.2839 meanLatOverS=0.9993
+TAG e10:static:32:exp:1.3:202 RES algo=static c=32 S=50.0 dist=exp rho=1.30 seed=202 meanLimit=32.00 limitOverC=1.0000 util=0.9304 reject=0.2683 meanLatOverS=0.9827
+TAG e10:static:32:exp:1.3:303 RES algo=static c=32 S=50.0 dist=exp rho=1.30 seed=303 meanLimit=32.00 limitOverC=1.0000 util=0.9338 reject=0.2830 meanLatOverS=0.9980
+TAG e10:static:32:exp:2.7:101 RES algo=static c=32 S=50.0 dist=exp rho=2.70 seed=101 meanLimit=32.00 limitOverC=1.0000 util=0.9826 reject=0.6352 meanLatOverS=0.9973
+TAG e10:static:32:exp:2.7:202 RES algo=static c=32 S=50.0 dist=exp rho=2.70 seed=202 meanLimit=32.00 limitOverC=1.0000 util=0.9820 reject=0.6274 meanLatOverS=0.9813
+TAG e10:static:32:exp:2.7:303 RES algo=static c=32 S=50.0 dist=exp rho=2.70 seed=303 meanLimit=32.00 limitOverC=1.0000 util=0.9823 reject=0.6329 meanLatOverS=0.9959
+TAG e10:static:32:exp:4.3:101 RES algo=static c=32 S=50.0 dist=exp rho=4.30 seed=101 meanLimit=32.00 limitOverC=1.0000 util=0.9908 reject=0.7698 meanLatOverS=0.9979
+TAG e10:static:32:exp:4.3:202 RES algo=static c=32 S=50.0 dist=exp rho=4.30 seed=202 meanLimit=32.00 limitOverC=1.0000 util=0.9905 reject=0.7649 meanLatOverS=0.9812
+TAG e10:static:32:exp:4.3:303 RES algo=static c=32 S=50.0 dist=exp rho=4.30 seed=303 meanLimit=32.00 limitOverC=1.0000 util=0.9907 reject=0.7687 meanLatOverS=0.9948
+TAG e10:static:32:ln1:1.3:101 RES algo=static c=32 S=50.0 dist=ln1 rho=1.30 seed=101 meanLimit=32.00 limitOverC=1.0000 util=0.9326 reject=0.2792 meanLatOverS=0.9933
+TAG e10:static:32:ln1:1.3:202 RES algo=static c=32 S=50.0 dist=ln1 rho=1.30 seed=202 meanLimit=32.00 limitOverC=1.0000 util=0.9332 reject=0.2781 meanLatOverS=0.9975
+TAG e10:static:32:ln1:1.3:303 RES algo=static c=32 S=50.0 dist=ln1 rho=1.30 seed=303 meanLimit=32.00 limitOverC=1.0000 util=0.9349 reject=0.2860 meanLatOverS=1.0031
+TAG e10:static:32:ln1:2.7:101 RES algo=static c=32 S=50.0 dist=ln1 rho=2.70 seed=101 meanLimit=32.00 limitOverC=1.0000 util=0.9825 reject=0.6335 meanLatOverS=0.9925
+TAG e10:static:32:ln1:2.7:202 RES algo=static c=32 S=50.0 dist=ln1 rho=2.70 seed=202 meanLimit=32.00 limitOverC=1.0000 util=0.9826 reject=0.6346 meanLatOverS=1.0010
+TAG e10:static:32:ln1:2.7:303 RES algo=static c=32 S=50.0 dist=ln1 rho=2.70 seed=303 meanLimit=32.00 limitOverC=1.0000 util=0.9824 reject=0.6354 meanLatOverS=1.0023
+TAG e10:static:32:ln1:4.3:101 RES algo=static c=32 S=50.0 dist=ln1 rho=4.30 seed=101 meanLimit=32.00 limitOverC=1.0000 util=0.9906 reject=0.7687 meanLatOverS=0.9917
+TAG e10:static:32:ln1:4.3:202 RES algo=static c=32 S=50.0 dist=ln1 rho=4.30 seed=202 meanLimit=32.00 limitOverC=1.0000 util=0.9908 reject=0.7698 meanLatOverS=1.0007
+TAG e10:static:32:ln1:4.3:303 RES algo=static c=32 S=50.0 dist=ln1 rho=4.30 seed=303 meanLimit=32.00 limitOverC=1.0000 util=0.9907 reject=0.7706 meanLatOverS=1.0036
+TAG e10:static:32:par25:1.3:101 RES algo=static c=32 S=50.0 dist=par25 rho=1.30 seed=101 meanLimit=32.00 limitOverC=1.0000 util=0.9338 reject=0.2862 meanLatOverS=1.0047
+TAG e10:static:32:par25:1.3:202 RES algo=static c=32 S=50.0 dist=par25 rho=1.30 seed=202 meanLimit=32.00 limitOverC=1.0000 util=0.9291 reject=0.2721 meanLatOverS=0.9869
+TAG e10:static:32:par25:1.3:303 RES algo=static c=32 S=50.0 dist=par25 rho=1.30 seed=303 meanLimit=32.00 limitOverC=1.0000 util=0.9354 reject=0.2849 meanLatOverS=1.0024
+TAG e10:static:32:par25:2.7:101 RES algo=static c=32 S=50.0 dist=par25 rho=2.70 seed=101 meanLimit=32.00 limitOverC=1.0000 util=0.9826 reject=0.6371 meanLatOverS=1.0032
+TAG e10:static:32:par25:2.7:202 RES algo=static c=32 S=50.0 dist=par25 rho=2.70 seed=202 meanLimit=32.00 limitOverC=1.0000 util=0.9822 reject=0.6285 meanLatOverS=0.9849
+TAG e10:static:32:par25:2.7:303 RES algo=static c=32 S=50.0 dist=par25 rho=2.70 seed=303 meanLimit=32.00 limitOverC=1.0000 util=0.9825 reject=0.6344 meanLatOverS=0.9998
+TAG e10:static:32:par25:4.3:101 RES algo=static c=32 S=50.0 dist=par25 rho=4.30 seed=101 meanLimit=32.00 limitOverC=1.0000 util=0.9907 reject=0.7710 meanLatOverS=1.0034
+TAG e10:static:32:par25:4.3:202 RES algo=static c=32 S=50.0 dist=par25 rho=4.30 seed=202 meanLimit=32.00 limitOverC=1.0000 util=0.9905 reject=0.7658 meanLatOverS=0.9850
+TAG e10:static:32:par25:4.3:303 RES algo=static c=32 S=50.0 dist=par25 rho=4.30 seed=303 meanLimit=32.00 limitOverC=1.0000 util=0.9908 reject=0.7696 meanLatOverS=0.9987
+TAG e10:static:32:ln15:1.3:101 RES algo=static c=32 S=50.0 dist=ln15 rho=1.30 seed=101 meanLimit=32.00 limitOverC=1.0000 util=0.9339 reject=0.2880 meanLatOverS=1.0005
+TAG e10:static:32:ln15:1.3:202 RES algo=static c=32 S=50.0 dist=ln15 rho=1.30 seed=202 meanLimit=32.00 limitOverC=1.0000 util=0.9340 reject=0.2793 meanLatOverS=0.9950
+TAG e10:static:32:ln15:1.3:303 RES algo=static c=32 S=50.0 dist=ln15 rho=1.30 seed=303 meanLimit=32.00 limitOverC=1.0000 util=0.9355 reject=0.2906 meanLatOverS=1.0029
+TAG e10:static:32:ln15:2.7:101 RES algo=static c=32 S=50.0 dist=ln15 rho=2.70 seed=101 meanLimit=32.00 limitOverC=1.0000 util=0.9825 reject=0.6362 meanLatOverS=0.9917
+TAG e10:static:32:ln15:2.7:202 RES algo=static c=32 S=50.0 dist=ln15 rho=2.70 seed=202 meanLimit=32.00 limitOverC=1.0000 util=0.9828 reject=0.6357 meanLatOverS=0.9971
+TAG e10:static:32:ln15:2.7:303 RES algo=static c=32 S=50.0 dist=ln15 rho=2.70 seed=303 meanLimit=32.00 limitOverC=1.0000 util=0.9828 reject=0.6369 meanLatOverS=1.0004
+TAG e10:static:32:ln15:4.3:101 RES algo=static c=32 S=50.0 dist=ln15 rho=4.30 seed=101 meanLimit=32.00 limitOverC=1.0000 util=0.9908 reject=0.7703 meanLatOverS=0.9940
+TAG e10:static:32:ln15:4.3:202 RES algo=static c=32 S=50.0 dist=ln15 rho=4.30 seed=202 meanLimit=32.00 limitOverC=1.0000 util=0.9908 reject=0.7709 meanLatOverS=1.0008
+TAG e10:static:32:ln15:4.3:303 RES algo=static c=32 S=50.0 dist=ln15 rho=4.30 seed=303 meanLimit=32.00 limitOverC=1.0000 util=0.9910 reject=0.7714 meanLatOverS=0.9992
+TAG e10:static:128:det:1.3:101 RES algo=static c=128 S=50.0 dist=det rho=1.30 seed=101 meanLimit=128.00 limitOverC=1.0000 util=0.9779 reject=0.2472 meanLatOverS=1.0000
+TAG e10:static:128:det:1.3:202 RES algo=static c=128 S=50.0 dist=det rho=1.30 seed=202 meanLimit=128.00 limitOverC=1.0000 util=0.9777 reject=0.2471 meanLatOverS=1.0000
+TAG e10:static:128:det:1.3:303 RES algo=static c=128 S=50.0 dist=det rho=1.30 seed=303 meanLimit=128.00 limitOverC=1.0000 util=0.9781 reject=0.2490 meanLatOverS=1.0000
+TAG e10:static:128:det:2.7:101 RES algo=static c=128 S=50.0 dist=det rho=2.70 seed=101 meanLimit=128.00 limitOverC=1.0000 util=0.9954 reject=0.6315 meanLatOverS=1.0000
+TAG e10:static:128:det:2.7:202 RES algo=static c=128 S=50.0 dist=det rho=2.70 seed=202 meanLimit=128.00 limitOverC=1.0000 util=0.9954 reject=0.6321 meanLatOverS=1.0000
+TAG e10:static:128:det:2.7:303 RES algo=static c=128 S=50.0 dist=det rho=2.70 seed=303 meanLimit=128.00 limitOverC=1.0000 util=0.9955 reject=0.6313 meanLatOverS=1.0000
+TAG e10:static:128:det:4.3:101 RES algo=static c=128 S=50.0 dist=det rho=4.30 seed=101 meanLimit=128.00 limitOverC=1.0000 util=0.9976 reject=0.7679 meanLatOverS=1.0000
+TAG e10:static:128:det:4.3:202 RES algo=static c=128 S=50.0 dist=det rho=4.30 seed=202 meanLimit=128.00 limitOverC=1.0000 util=0.9976 reject=0.7680 meanLatOverS=1.0000
+TAG e10:static:128:det:4.3:303 RES algo=static c=128 S=50.0 dist=det rho=4.30 seed=303 meanLimit=128.00 limitOverC=1.0000 util=0.9976 reject=0.7679 meanLatOverS=1.0000
+TAG e10:static:128:ln05:1.3:101 RES algo=static c=128 S=50.0 dist=ln05 rho=1.30 seed=101 meanLimit=128.00 limitOverC=1.0000 util=0.9779 reject=0.2476 meanLatOverS=1.0002
+TAG e10:static:128:ln05:1.3:202 RES algo=static c=128 S=50.0 dist=ln05 rho=1.30 seed=202 meanLimit=128.00 limitOverC=1.0000 util=0.9777 reject=0.2453 meanLatOverS=0.9973
+TAG e10:static:128:ln05:1.3:303 RES algo=static c=128 S=50.0 dist=ln05 rho=1.30 seed=303 meanLimit=128.00 limitOverC=1.0000 util=0.9779 reject=0.2493 meanLatOverS=1.0000
+TAG e10:static:128:ln05:2.7:101 RES algo=static c=128 S=50.0 dist=ln05 rho=2.70 seed=101 meanLimit=128.00 limitOverC=1.0000 util=0.9955 reject=0.6318 meanLatOverS=1.0007
+TAG e10:static:128:ln05:2.7:202 RES algo=static c=128 S=50.0 dist=ln05 rho=2.70 seed=202 meanLimit=128.00 limitOverC=1.0000 util=0.9955 reject=0.6312 meanLatOverS=0.9972
+TAG e10:static:128:ln05:2.7:303 RES algo=static c=128 S=50.0 dist=ln05 rho=2.70 seed=303 meanLimit=128.00 limitOverC=1.0000 util=0.9955 reject=0.6314 meanLatOverS=1.0000
+TAG e10:static:128:ln05:4.3:101 RES algo=static c=128 S=50.0 dist=ln05 rho=4.30 seed=101 meanLimit=128.00 limitOverC=1.0000 util=0.9976 reject=0.7681 meanLatOverS=1.0007
+TAG e10:static:128:ln05:4.3:202 RES algo=static c=128 S=50.0 dist=ln05 rho=4.30 seed=202 meanLimit=128.00 limitOverC=1.0000 util=0.9976 reject=0.7674 meanLatOverS=0.9973
+TAG e10:static:128:ln05:4.3:303 RES algo=static c=128 S=50.0 dist=ln05 rho=4.30 seed=303 meanLimit=128.00 limitOverC=1.0000 util=0.9976 reject=0.7679 meanLatOverS=0.9999
+TAG e10:static:128:exp:1.3:101 RES algo=static c=128 S=50.0 dist=exp rho=1.30 seed=101 meanLimit=128.00 limitOverC=1.0000 util=0.9774 reject=0.2447 meanLatOverS=0.9955
+TAG e10:static:128:exp:1.3:202 RES algo=static c=128 S=50.0 dist=exp rho=1.30 seed=202 meanLimit=128.00 limitOverC=1.0000 util=0.9783 reject=0.2476 meanLatOverS=1.0003
+TAG e10:static:128:exp:1.3:303 RES algo=static c=128 S=50.0 dist=exp rho=1.30 seed=303 meanLimit=128.00 limitOverC=1.0000 util=0.9781 reject=0.2484 meanLatOverS=0.9982
+TAG e10:static:128:exp:2.7:101 RES algo=static c=128 S=50.0 dist=exp rho=2.70 seed=101 meanLimit=128.00 limitOverC=1.0000 util=0.9954 reject=0.6303 meanLatOverS=0.9957
+TAG e10:static:128:exp:2.7:202 RES algo=static c=128 S=50.0 dist=exp rho=2.70 seed=202 meanLimit=128.00 limitOverC=1.0000 util=0.9955 reject=0.6324 meanLatOverS=1.0000
+TAG e10:static:128:exp:2.7:303 RES algo=static c=128 S=50.0 dist=exp rho=2.70 seed=303 meanLimit=128.00 limitOverC=1.0000 util=0.9955 reject=0.6312 meanLatOverS=0.9986
+TAG e10:static:128:exp:4.3:101 RES algo=static c=128 S=50.0 dist=exp rho=4.30 seed=101 meanLimit=128.00 limitOverC=1.0000 util=0.9976 reject=0.7670 meanLatOverS=0.9955
+TAG e10:static:128:exp:4.3:202 RES algo=static c=128 S=50.0 dist=exp rho=4.30 seed=202 meanLimit=128.00 limitOverC=1.0000 util=0.9976 reject=0.7682 meanLatOverS=1.0001
+TAG e10:static:128:exp:4.3:303 RES algo=static c=128 S=50.0 dist=exp rho=4.30 seed=303 meanLimit=128.00 limitOverC=1.0000 util=0.9976 reject=0.7677 meanLatOverS=0.9987
+TAG e10:static:128:ln1:1.3:101 RES algo=static c=128 S=50.0 dist=ln1 rho=1.30 seed=101 meanLimit=128.00 limitOverC=1.0000 util=0.9780 reject=0.2488 meanLatOverS=1.0009
+TAG e10:static:128:ln1:1.3:202 RES algo=static c=128 S=50.0 dist=ln1 rho=1.30 seed=202 meanLimit=128.00 limitOverC=1.0000 util=0.9777 reject=0.2428 meanLatOverS=0.9931
+TAG e10:static:128:ln1:1.3:303 RES algo=static c=128 S=50.0 dist=ln1 rho=1.30 seed=303 meanLimit=128.00 limitOverC=1.0000 util=0.9783 reject=0.2479 meanLatOverS=0.9972
+TAG e10:static:128:ln1:2.7:101 RES algo=static c=128 S=50.0 dist=ln1 rho=2.70 seed=101 meanLimit=128.00 limitOverC=1.0000 util=0.9955 reject=0.6326 meanLatOverS=1.0021
+TAG e10:static:128:ln1:2.7:202 RES algo=static c=128 S=50.0 dist=ln1 rho=2.70 seed=202 meanLimit=128.00 limitOverC=1.0000 util=0.9954 reject=0.6300 meanLatOverS=0.9926
+TAG e10:static:128:ln1:2.7:303 RES algo=static c=128 S=50.0 dist=ln1 rho=2.70 seed=303 meanLimit=128.00 limitOverC=1.0000 util=0.9955 reject=0.6309 meanLatOverS=0.9975
+TAG e10:static:128:ln1:4.3:101 RES algo=static c=128 S=50.0 dist=ln1 rho=4.30 seed=101 meanLimit=128.00 limitOverC=1.0000 util=0.9976 reject=0.7686 meanLatOverS=1.0016
+TAG e10:static:128:ln1:4.3:202 RES algo=static c=128 S=50.0 dist=ln1 rho=4.30 seed=202 meanLimit=128.00 limitOverC=1.0000 util=0.9976 reject=0.7666 meanLatOverS=0.9927
+TAG e10:static:128:ln1:4.3:303 RES algo=static c=128 S=50.0 dist=ln1 rho=4.30 seed=303 meanLimit=128.00 limitOverC=1.0000 util=0.9976 reject=0.7675 meanLatOverS=0.9971
+TAG e10:static:128:par25:1.3:101 RES algo=static c=128 S=50.0 dist=par25 rho=1.30 seed=101 meanLimit=128.00 limitOverC=1.0000 util=0.9779 reject=0.2460 meanLatOverS=0.9982
+TAG e10:static:128:par25:1.3:202 RES algo=static c=128 S=50.0 dist=par25 rho=1.30 seed=202 meanLimit=128.00 limitOverC=1.0000 util=0.9782 reject=0.2466 meanLatOverS=0.9995
+TAG e10:static:128:par25:1.3:303 RES algo=static c=128 S=50.0 dist=par25 rho=1.30 seed=303 meanLimit=128.00 limitOverC=1.0000 util=0.9780 reject=0.2474 meanLatOverS=0.9971
+TAG e10:static:128:par25:2.7:101 RES algo=static c=128 S=50.0 dist=par25 rho=2.70 seed=101 meanLimit=128.00 limitOverC=1.0000 util=0.9955 reject=0.6311 meanLatOverS=0.9982
+TAG e10:static:128:par25:2.7:202 RES algo=static c=128 S=50.0 dist=par25 rho=2.70 seed=202 meanLimit=128.00 limitOverC=1.0000 util=0.9955 reject=0.6320 meanLatOverS=0.9992
+TAG e10:static:128:par25:2.7:303 RES algo=static c=128 S=50.0 dist=par25 rho=2.70 seed=303 meanLimit=128.00 limitOverC=1.0000 util=0.9954 reject=0.6307 meanLatOverS=0.9975
+TAG e10:static:128:par25:4.3:101 RES algo=static c=128 S=50.0 dist=par25 rho=4.30 seed=101 meanLimit=128.00 limitOverC=1.0000 util=0.9976 reject=0.7676 meanLatOverS=0.9981
+TAG e10:static:128:par25:4.3:202 RES algo=static c=128 S=50.0 dist=par25 rho=4.30 seed=202 meanLimit=128.00 limitOverC=1.0000 util=0.9977 reject=0.7679 meanLatOverS=0.9991
+TAG e10:static:128:par25:4.3:303 RES algo=static c=128 S=50.0 dist=par25 rho=4.30 seed=303 meanLimit=128.00 limitOverC=1.0000 util=0.9976 reject=0.7674 meanLatOverS=0.9977
+TAG e10:static:128:ln15:1.3:101 RES algo=static c=128 S=50.0 dist=ln15 rho=1.30 seed=101 meanLimit=128.00 limitOverC=1.0000 util=0.9777 reject=0.2508 meanLatOverS=0.9986
+TAG e10:static:128:ln15:1.3:202 RES algo=static c=128 S=50.0 dist=ln15 rho=1.30 seed=202 meanLimit=128.00 limitOverC=1.0000 util=0.9775 reject=0.2391 meanLatOverS=0.9821
+TAG e10:static:128:ln15:1.3:303 RES algo=static c=128 S=50.0 dist=ln15 rho=1.30 seed=303 meanLimit=128.00 limitOverC=1.0000 util=0.9779 reject=0.2452 meanLatOverS=0.9862
+TAG e10:static:128:ln15:2.7:101 RES algo=static c=128 S=50.0 dist=ln15 rho=2.70 seed=101 meanLimit=128.00 limitOverC=1.0000 util=0.9955 reject=0.6336 meanLatOverS=0.9994
+TAG e10:static:128:ln15:2.7:202 RES algo=static c=128 S=50.0 dist=ln15 rho=2.70 seed=202 meanLimit=128.00 limitOverC=1.0000 util=0.9954 reject=0.6281 meanLatOverS=0.9826
+TAG e10:static:128:ln15:2.7:303 RES algo=static c=128 S=50.0 dist=ln15 rho=2.70 seed=303 meanLimit=128.00 limitOverC=1.0000 util=0.9954 reject=0.6292 meanLatOverS=0.9860
+TAG e10:static:128:ln15:4.3:101 RES algo=static c=128 S=50.0 dist=ln15 rho=4.30 seed=101 meanLimit=128.00 limitOverC=1.0000 util=0.9977 reject=0.7691 meanLatOverS=0.9989
+TAG e10:static:128:ln15:4.3:202 RES algo=static c=128 S=50.0 dist=ln15 rho=4.30 seed=202 meanLimit=128.00 limitOverC=1.0000 util=0.9976 reject=0.7653 meanLatOverS=0.9824
+TAG e10:static:128:ln15:4.3:303 RES algo=static c=128 S=50.0 dist=ln15 rho=4.30 seed=303 meanLimit=128.00 limitOverC=1.0000 util=0.9976 reject=0.7665 meanLatOverS=0.9857
