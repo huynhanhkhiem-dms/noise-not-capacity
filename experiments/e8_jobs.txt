@@ -1,0 +1,66 @@
+e8:vegas:exp:1	java -Xmx2g -cp build Sim vegas 64 10 exp 2.0 600 1 server=ps
+e8:vegasW:exp:1	java -Xmx2g -cp build Sim vegasW 64 10 exp 2.0 600 1 server=ps
+e8:g2:exp:1	java -Xmx2g -cp build Sim g2 64 10 exp 2.0 600 1 server=ps
+e8:g2W:exp:1	java -Xmx2g -cp build Sim g2W 64 10 exp 2.0 600 1 server=ps
+e8:grad:exp:1	java -Xmx2g -cp build Sim grad 64 10 exp 2.0 600 1 server=ps
+e8:gradW:exp:1	java -Xmx2g -cp build Sim gradW 64 10 exp 2.0 600 1 server=ps
+e8:aimd:exp:1	java -Xmx2g -cp build Sim aimd 64 10 exp 2.0 600 1 server=ps
+e8:envoy:exp:1	java -Xmx2g -cp build Sim envoy 64 10 exp 2.0 600 1 server=ps
+e8:delta:exp:1	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 1 server=ps
+e8:static:exp:1	java -Xmx2g -cp build Sim static 64 10 exp 2.0 600 1 server=ps static=64
+e8:failsafe:exp:1	build/limsim 64 10 exp 2.0 600 1 server=ps
+e8:vegas:exp:2	java -Xmx2g -cp build Sim vegas 64 10 exp 2.0 600 2 server=ps
+e8:vegasW:exp:2	java -Xmx2g -cp build Sim vegasW 64 10 exp 2.0 600 2 server=ps
+e8:g2:exp:2	java -Xmx2g -cp build Sim g2 64 10 exp 2.0 600 2 server=ps
+e8:g2W:exp:2	java -Xmx2g -cp build Sim g2W 64 10 exp 2.0 600 2 server=ps
+e8:grad:exp:2	java -Xmx2g -cp build Sim grad 64 10 exp 2.0 600 2 server=ps
+e8:gradW:exp:2	java -Xmx2g -cp build Sim gradW 64 10 exp 2.0 600 2 server=ps
+e8:aimd:exp:2	java -Xmx2g -cp build Sim aimd 64 10 exp 2.0 600 2 server=ps
+e8:envoy:exp:2	java -Xmx2g -cp build Sim envoy 64 10 exp 2.0 600 2 server=ps
+e8:delta:exp:2	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 2 server=ps
+e8:static:exp:2	java -Xmx2g -cp build Sim static 64 10 exp 2.0 600 2 server=ps static=64
+e8:failsafe:exp:2	build/limsim 64 10 exp 2.0 600 2 server=ps
+e8:vegas:exp:3	java -Xmx2g -cp build Sim vegas 64 10 exp 2.0 600 3 server=ps
+e8:vegasW:exp:3	java -Xmx2g -cp build Sim vegasW 64 10 exp 2.0 600 3 server=ps
+e8:g2:exp:3	java -Xmx2g -cp build Sim g2 64 10 exp 2.0 600 3 server=ps
+e8:g2W:exp:3	java -Xmx2g -cp build Sim g2W 64 10 exp 2.0 600 3 server=ps
+e8:grad:exp:3	java -Xmx2g -cp build Sim grad 64 10 exp 2.0 600 3 server=ps
+e8:gradW:exp:3	java -Xmx2g -cp build Sim gradW 64 10 exp 2.0 600 3 server=ps
+e8:aimd:exp:3	java -Xmx2g -cp build Sim aimd 64 10 exp 2.0 600 3 server=ps
+e8:envoy:exp:3	java -Xmx2g -cp build Sim envoy 64 10 exp 2.0 600 3 server=ps
+e8:delta:exp:3	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 3 server=ps
+e8:static:exp:3	java -Xmx2g -cp build Sim static 64 10 exp 2.0 600 3 server=ps static=64
+e8:failsafe:exp:3	build/limsim 64 10 exp 2.0 600 3 server=ps
+e8:vegas:ln1:1	java -Xmx2g -cp build Sim vegas 64 10 ln1 2.0 600 1 server=ps
+e8:vegasW:ln1:1	java -Xmx2g -cp build Sim vegasW 64 10 ln1 2.0 600 1 server=ps
+e8:g2:ln1:1	java -Xmx2g -cp build Sim g2 64 10 ln1 2.0 600 1 server=ps
+e8:g2W:ln1:1	java -Xmx2g -cp build Sim g2W 64 10 ln1 2.0 600 1 server=ps
+e8:grad:ln1:1	java -Xmx2g -cp build Sim grad 64 10 ln1 2.0 600 1 server=ps
+e8:gradW:ln1:1	java -Xmx2g -cp build Sim gradW 64 10 ln1 2.0 600 1 server=ps
+e8:aimd:ln1:1	java -Xmx2g -cp build Sim aimd 64 10 ln1 2.0 600 1 server=ps
+e8:envoy:ln1:1	java -Xmx2g -cp build Sim envoy 64 10 ln1 2.0 600 1 server=ps
+e8:delta:ln1:1	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 1 server=ps
+e8:static:ln1:1	java -Xmx2g -cp build Sim static 64 10 ln1 2.0 600 1 server=ps static=64
+e8:failsafe:ln1:1	build/limsim 64 10 ln1 2.0 600 1 server=ps
+e8:vegas:ln1:2	java -Xmx2g -cp build Sim vegas 64 10 ln1 2.0 600 2 server=ps
+e8:vegasW:ln1:2	java -Xmx2g -cp build Sim vegasW 64 10 ln1 2.0 600 2 server=ps
+e8:g2:ln1:2	java -Xmx2g -cp build Sim g2 64 10 ln1 2.0 600 2 server=ps
+e8:g2W:ln1:2	java -Xmx2g -cp build Sim g2W 64 10 ln1 2.0 600 2 server=ps
+e8:grad:ln1:2	java -Xmx2g -cp build Sim grad 64 10 ln1 2.0 600 2 server=ps
+e8:gradW:ln1:2	java -Xmx2g -cp build Sim gradW 64 10 ln1 2.0 600 2 server=ps
+e8:aimd:ln1:2	java -Xmx2g -cp build Sim aimd 64 10 ln1 2.0 600 2 server=ps
+e8:envoy:ln1:2	java -Xmx2g -cp build Sim envoy 64 10 ln1 2.0 600 2 server=ps
+e8:delta:ln1:2	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 2 server=ps
+e8:static:ln1:2	java -Xmx2g -cp build Sim static 64 10 ln1 2.0 600 2 server=ps static=64
+e8:failsafe:ln1:2	build/limsim 64 10 ln1 2.0 600 2 server=ps
+e8:vegas:ln1:3	java -Xmx2g -cp build Sim vegas 64 10 ln1 2.0 600 3 server=ps
+e8:vegasW:ln1:3	java -Xmx2g -cp build Sim vegasW 64 10 ln1 2.0 600 3 server=ps
+e8:g2:ln1:3	java -Xmx2g -cp build Sim g2 64 10 ln1 2.0 600 3 server=ps
+e8:g2W:ln1:3	java -Xmx2g -cp build Sim g2W 64 10 ln1 2.0 600 3 server=ps
+e8:grad:ln1:3	java -Xmx2g -cp build Sim grad 64 10 ln1 2.0 600 3 server=ps
+e8:gradW:ln1:3	java -Xmx2g -cp build Sim gradW 64 10 ln1 2.0 600 3 server=ps
+e8:aimd:ln1:3	java -Xmx2g -cp build Sim aimd 64 10 ln1 2.0 600 3 server=ps
+e8:envoy:ln1:3	java -Xmx2g -cp build Sim envoy 64 10 ln1 2.0 600 3 server=ps
+e8:delta:ln1:3	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 3 server=ps
+e8:static:ln1:3	java -Xmx2g -cp build Sim static 64 10 ln1 2.0 600 3 server=ps static=64
+e8:failsafe:ln1:3	build/limsim 64 10 ln1 2.0 600 3 server=ps

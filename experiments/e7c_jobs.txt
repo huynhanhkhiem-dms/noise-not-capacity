@@ -1,0 +1,15 @@
+e7c:envoy:exp:1	java -Xmx2g -cp build Sim envoy 64 10 exp 2.0 3600 1 statFrom=0 ts=results/ts/e7c_envoy_exp_1.csv epochlog=results/ts/e7c_envoy_exp_1_epochs.csv
+e7c:envoy:exp:2	java -Xmx2g -cp build Sim envoy 64 10 exp 2.0 3600 2 statFrom=0 ts=results/ts/e7c_envoy_exp_2.csv epochlog=results/ts/e7c_envoy_exp_2_epochs.csv
+e7c:envoy:exp:3	java -Xmx2g -cp build Sim envoy 64 10 exp 2.0 3600 3 statFrom=0 ts=results/ts/e7c_envoy_exp_3.csv epochlog=results/ts/e7c_envoy_exp_3_epochs.csv
+e7c:envoy:ln1:1	java -Xmx2g -cp build Sim envoy 64 10 ln1 2.0 3600 1 statFrom=0 ts=results/ts/e7c_envoy_ln1_1.csv epochlog=results/ts/e7c_envoy_ln1_1_epochs.csv
+e7c:envoy:ln1:2	java -Xmx2g -cp build Sim envoy 64 10 ln1 2.0 3600 2 statFrom=0 ts=results/ts/e7c_envoy_ln1_2.csv epochlog=results/ts/e7c_envoy_ln1_2_epochs.csv
+e7c:envoy:ln1:3	java -Xmx2g -cp build Sim envoy 64 10 ln1 2.0 3600 3 statFrom=0 ts=results/ts/e7c_envoy_ln1_3.csv epochlog=results/ts/e7c_envoy_ln1_3_epochs.csv
+e7c:envoy:ln05:1	java -Xmx2g -cp build Sim envoy 64 10 ln05 2.0 3600 1 statFrom=0 ts=results/ts/e7c_envoy_ln05_1.csv epochlog=results/ts/e7c_envoy_ln05_1_epochs.csv
+e7c:envoy:ln05:2	java -Xmx2g -cp build Sim envoy 64 10 ln05 2.0 3600 2 statFrom=0 ts=results/ts/e7c_envoy_ln05_2.csv epochlog=results/ts/e7c_envoy_ln05_2_epochs.csv
+e7c:envoy:ln05:3	java -Xmx2g -cp build Sim envoy 64 10 ln05 2.0 3600 3 statFrom=0 ts=results/ts/e7c_envoy_ln05_3.csv epochlog=results/ts/e7c_envoy_ln05_3_epochs.csv
+e7c:envoy:ln15:1	java -Xmx2g -cp build Sim envoy 64 10 ln15 2.0 3600 1 statFrom=0 ts=results/ts/e7c_envoy_ln15_1.csv epochlog=results/ts/e7c_envoy_ln15_1_epochs.csv
+e7c:envoy:ln15:2	java -Xmx2g -cp build Sim envoy 64 10 ln15 2.0 3600 2 statFrom=0 ts=results/ts/e7c_envoy_ln15_2.csv epochlog=results/ts/e7c_envoy_ln15_2_epochs.csv
+e7c:envoy:ln15:3	java -Xmx2g -cp build Sim envoy 64 10 ln15 2.0 3600 3 statFrom=0 ts=results/ts/e7c_envoy_ln15_3.csv epochlog=results/ts/e7c_envoy_ln15_3_epochs.csv
+e7c:envoy:par25:1	java -Xmx2g -cp build Sim envoy 64 10 par25 2.0 3600 1 statFrom=0 ts=results/ts/e7c_envoy_par25_1.csv epochlog=results/ts/e7c_envoy_par25_1_epochs.csv
+e7c:envoy:par25:2	java -Xmx2g -cp build Sim envoy 64 10 par25 2.0 3600 2 statFrom=0 ts=results/ts/e7c_envoy_par25_2.csv epochlog=results/ts/e7c_envoy_par25_2_epochs.csv
+e7c:envoy:par25:3	java -Xmx2g -cp build Sim envoy 64 10 par25 2.0 3600 3 statFrom=0 ts=results/ts/e7c_envoy_par25_3.csv epochlog=results/ts/e7c_envoy_par25_3_epochs.csv

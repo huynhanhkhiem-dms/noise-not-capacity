@@ -1,0 +1,660 @@
+e1:vegas:4:det:1	java -Xmx2g -cp build Sim vegas 4 10 det 2.0 600 1
+e1:vegasW:4:det:1	java -Xmx2g -cp build Sim vegasW 4 10 det 2.0 600 1
+e1:g2:4:det:1	java -Xmx2g -cp build Sim g2 4 10 det 2.0 600 1
+e1:g2W:4:det:1	java -Xmx2g -cp build Sim g2W 4 10 det 2.0 600 1
+e1:grad:4:det:1	java -Xmx2g -cp build Sim grad 4 10 det 2.0 600 1
+e1:gradW:4:det:1	java -Xmx2g -cp build Sim gradW 4 10 det 2.0 600 1
+e1:aimd:4:det:1	java -Xmx2g -cp build Sim aimd 4 10 det 2.0 600 1
+e1:envoy:4:det:1	java -Xmx2g -cp build Sim envoy 4 10 det 2.0 600 1
+e1:delta:4:det:1	java -Xmx2g -cp build Sim delta 4 10 det 2.0 600 1
+e1:static:4:det:1	java -Xmx2g -cp build Sim static 4 10 det 2.0 600 1 static=4
+e1:failsafe:4:det:1	build/limsim 4 10 det 2.0 600 1
+e1:vegas:4:ln05:1	java -Xmx2g -cp build Sim vegas 4 10 ln05 2.0 600 1
+e1:vegasW:4:ln05:1	java -Xmx2g -cp build Sim vegasW 4 10 ln05 2.0 600 1
+e1:g2:4:ln05:1	java -Xmx2g -cp build Sim g2 4 10 ln05 2.0 600 1
+e1:g2W:4:ln05:1	java -Xmx2g -cp build Sim g2W 4 10 ln05 2.0 600 1
+e1:grad:4:ln05:1	java -Xmx2g -cp build Sim grad 4 10 ln05 2.0 600 1
+e1:gradW:4:ln05:1	java -Xmx2g -cp build Sim gradW 4 10 ln05 2.0 600 1
+e1:aimd:4:ln05:1	java -Xmx2g -cp build Sim aimd 4 10 ln05 2.0 600 1
+e1:envoy:4:ln05:1	java -Xmx2g -cp build Sim envoy 4 10 ln05 2.0 600 1
+e1:delta:4:ln05:1	java -Xmx2g -cp build Sim delta 4 10 ln05 2.0 600 1
+e1:static:4:ln05:1	java -Xmx2g -cp build Sim static 4 10 ln05 2.0 600 1 static=4
+e1:failsafe:4:ln05:1	build/limsim 4 10 ln05 2.0 600 1
+e1:vegas:4:exp:1	java -Xmx2g -cp build Sim vegas 4 10 exp 2.0 600 1
+e1:vegasW:4:exp:1	java -Xmx2g -cp build Sim vegasW 4 10 exp 2.0 600 1
+e1:g2:4:exp:1	java -Xmx2g -cp build Sim g2 4 10 exp 2.0 600 1
+e1:g2W:4:exp:1	java -Xmx2g -cp build Sim g2W 4 10 exp 2.0 600 1
+e1:grad:4:exp:1	java -Xmx2g -cp build Sim grad 4 10 exp 2.0 600 1
+e1:gradW:4:exp:1	java -Xmx2g -cp build Sim gradW 4 10 exp 2.0 600 1
+e1:aimd:4:exp:1	java -Xmx2g -cp build Sim aimd 4 10 exp 2.0 600 1
+e1:envoy:4:exp:1	java -Xmx2g -cp build Sim envoy 4 10 exp 2.0 600 1
+e1:delta:4:exp:1	java -Xmx2g -cp build Sim delta 4 10 exp 2.0 600 1
+e1:static:4:exp:1	java -Xmx2g -cp build Sim static 4 10 exp 2.0 600 1 static=4
+e1:failsafe:4:exp:1	build/limsim 4 10 exp 2.0 600 1
+e1:vegas:4:ln1:1	java -Xmx2g -cp build Sim vegas 4 10 ln1 2.0 600 1
+e1:vegasW:4:ln1:1	java -Xmx2g -cp build Sim vegasW 4 10 ln1 2.0 600 1
+e1:g2:4:ln1:1	java -Xmx2g -cp build Sim g2 4 10 ln1 2.0 600 1
+e1:g2W:4:ln1:1	java -Xmx2g -cp build Sim g2W 4 10 ln1 2.0 600 1
+e1:grad:4:ln1:1	java -Xmx2g -cp build Sim grad 4 10 ln1 2.0 600 1
+e1:gradW:4:ln1:1	java -Xmx2g -cp build Sim gradW 4 10 ln1 2.0 600 1
+e1:aimd:4:ln1:1	java -Xmx2g -cp build Sim aimd 4 10 ln1 2.0 600 1
+e1:envoy:4:ln1:1	java -Xmx2g -cp build Sim envoy 4 10 ln1 2.0 600 1
+e1:delta:4:ln1:1	java -Xmx2g -cp build Sim delta 4 10 ln1 2.0 600 1
+e1:static:4:ln1:1	java -Xmx2g -cp build Sim static 4 10 ln1 2.0 600 1 static=4
+e1:failsafe:4:ln1:1	build/limsim 4 10 ln1 2.0 600 1
+e1:vegas:4:par25:1	java -Xmx2g -cp build Sim vegas 4 10 par25 2.0 600 1
+e1:vegasW:4:par25:1	java -Xmx2g -cp build Sim vegasW 4 10 par25 2.0 600 1
+e1:g2:4:par25:1	java -Xmx2g -cp build Sim g2 4 10 par25 2.0 600 1
+e1:g2W:4:par25:1	java -Xmx2g -cp build Sim g2W 4 10 par25 2.0 600 1
+e1:grad:4:par25:1	java -Xmx2g -cp build Sim grad 4 10 par25 2.0 600 1
+e1:gradW:4:par25:1	java -Xmx2g -cp build Sim gradW 4 10 par25 2.0 600 1
+e1:aimd:4:par25:1	java -Xmx2g -cp build Sim aimd 4 10 par25 2.0 600 1
+e1:envoy:4:par25:1	java -Xmx2g -cp build Sim envoy 4 10 par25 2.0 600 1
+e1:delta:4:par25:1	java -Xmx2g -cp build Sim delta 4 10 par25 2.0 600 1
+e1:static:4:par25:1	java -Xmx2g -cp build Sim static 4 10 par25 2.0 600 1 static=4
+e1:failsafe:4:par25:1	build/limsim 4 10 par25 2.0 600 1
+e1:vegas:16:det:1	java -Xmx2g -cp build Sim vegas 16 10 det 2.0 600 1
+e1:vegasW:16:det:1	java -Xmx2g -cp build Sim vegasW 16 10 det 2.0 600 1
+e1:g2:16:det:1	java -Xmx2g -cp build Sim g2 16 10 det 2.0 600 1
+e1:g2W:16:det:1	java -Xmx2g -cp build Sim g2W 16 10 det 2.0 600 1
+e1:grad:16:det:1	java -Xmx2g -cp build Sim grad 16 10 det 2.0 600 1
+e1:gradW:16:det:1	java -Xmx2g -cp build Sim gradW 16 10 det 2.0 600 1
+e1:aimd:16:det:1	java -Xmx2g -cp build Sim aimd 16 10 det 2.0 600 1
+e1:envoy:16:det:1	java -Xmx2g -cp build Sim envoy 16 10 det 2.0 600 1
+e1:delta:16:det:1	java -Xmx2g -cp build Sim delta 16 10 det 2.0 600 1
+e1:static:16:det:1	java -Xmx2g -cp build Sim static 16 10 det 2.0 600 1 static=16
+e1:failsafe:16:det:1	build/limsim 16 10 det 2.0 600 1
+e1:vegas:16:ln05:1	java -Xmx2g -cp build Sim vegas 16 10 ln05 2.0 600 1
+e1:vegasW:16:ln05:1	java -Xmx2g -cp build Sim vegasW 16 10 ln05 2.0 600 1
+e1:g2:16:ln05:1	java -Xmx2g -cp build Sim g2 16 10 ln05 2.0 600 1
+e1:g2W:16:ln05:1	java -Xmx2g -cp build Sim g2W 16 10 ln05 2.0 600 1
+e1:grad:16:ln05:1	java -Xmx2g -cp build Sim grad 16 10 ln05 2.0 600 1
+e1:gradW:16:ln05:1	java -Xmx2g -cp build Sim gradW 16 10 ln05 2.0 600 1
+e1:aimd:16:ln05:1	java -Xmx2g -cp build Sim aimd 16 10 ln05 2.0 600 1
+e1:envoy:16:ln05:1	java -Xmx2g -cp build Sim envoy 16 10 ln05 2.0 600 1
+e1:delta:16:ln05:1	java -Xmx2g -cp build Sim delta 16 10 ln05 2.0 600 1
+e1:static:16:ln05:1	java -Xmx2g -cp build Sim static 16 10 ln05 2.0 600 1 static=16
+e1:failsafe:16:ln05:1	build/limsim 16 10 ln05 2.0 600 1
+e1:vegas:16:exp:1	java -Xmx2g -cp build Sim vegas 16 10 exp 2.0 600 1
+e1:vegasW:16:exp:1	java -Xmx2g -cp build Sim vegasW 16 10 exp 2.0 600 1
+e1:g2:16:exp:1	java -Xmx2g -cp build Sim g2 16 10 exp 2.0 600 1
+e1:g2W:16:exp:1	java -Xmx2g -cp build Sim g2W 16 10 exp 2.0 600 1
+e1:grad:16:exp:1	java -Xmx2g -cp build Sim grad 16 10 exp 2.0 600 1
+e1:gradW:16:exp:1	java -Xmx2g -cp build Sim gradW 16 10 exp 2.0 600 1
+e1:aimd:16:exp:1	java -Xmx2g -cp build Sim aimd 16 10 exp 2.0 600 1
+e1:envoy:16:exp:1	java -Xmx2g -cp build Sim envoy 16 10 exp 2.0 600 1
+e1:delta:16:exp:1	java -Xmx2g -cp build Sim delta 16 10 exp 2.0 600 1
+e1:static:16:exp:1	java -Xmx2g -cp build Sim static 16 10 exp 2.0 600 1 static=16
+e1:failsafe:16:exp:1	build/limsim 16 10 exp 2.0 600 1
+e1:vegas:16:ln1:1	java -Xmx2g -cp build Sim vegas 16 10 ln1 2.0 600 1
+e1:vegasW:16:ln1:1	java -Xmx2g -cp build Sim vegasW 16 10 ln1 2.0 600 1
+e1:g2:16:ln1:1	java -Xmx2g -cp build Sim g2 16 10 ln1 2.0 600 1
+e1:g2W:16:ln1:1	java -Xmx2g -cp build Sim g2W 16 10 ln1 2.0 600 1
+e1:grad:16:ln1:1	java -Xmx2g -cp build Sim grad 16 10 ln1 2.0 600 1
+e1:gradW:16:ln1:1	java -Xmx2g -cp build Sim gradW 16 10 ln1 2.0 600 1
+e1:aimd:16:ln1:1	java -Xmx2g -cp build Sim aimd 16 10 ln1 2.0 600 1
+e1:envoy:16:ln1:1	java -Xmx2g -cp build Sim envoy 16 10 ln1 2.0 600 1
+e1:delta:16:ln1:1	java -Xmx2g -cp build Sim delta 16 10 ln1 2.0 600 1
+e1:static:16:ln1:1	java -Xmx2g -cp build Sim static 16 10 ln1 2.0 600 1 static=16
+e1:failsafe:16:ln1:1	build/limsim 16 10 ln1 2.0 600 1
+e1:vegas:16:par25:1	java -Xmx2g -cp build Sim vegas 16 10 par25 2.0 600 1
+e1:vegasW:16:par25:1	java -Xmx2g -cp build Sim vegasW 16 10 par25 2.0 600 1
+e1:g2:16:par25:1	java -Xmx2g -cp build Sim g2 16 10 par25 2.0 600 1
+e1:g2W:16:par25:1	java -Xmx2g -cp build Sim g2W 16 10 par25 2.0 600 1
+e1:grad:16:par25:1	java -Xmx2g -cp build Sim grad 16 10 par25 2.0 600 1
+e1:gradW:16:par25:1	java -Xmx2g -cp build Sim gradW 16 10 par25 2.0 600 1
+e1:aimd:16:par25:1	java -Xmx2g -cp build Sim aimd 16 10 par25 2.0 600 1
+e1:envoy:16:par25:1	java -Xmx2g -cp build Sim envoy 16 10 par25 2.0 600 1
+e1:delta:16:par25:1	java -Xmx2g -cp build Sim delta 16 10 par25 2.0 600 1
+e1:static:16:par25:1	java -Xmx2g -cp build Sim static 16 10 par25 2.0 600 1 static=16
+e1:failsafe:16:par25:1	build/limsim 16 10 par25 2.0 600 1
+e1:vegas:64:det:1	java -Xmx2g -cp build Sim vegas 64 10 det 2.0 600 1
+e1:vegasW:64:det:1	java -Xmx2g -cp build Sim vegasW 64 10 det 2.0 600 1
+e1:g2:64:det:1	java -Xmx2g -cp build Sim g2 64 10 det 2.0 600 1
+e1:g2W:64:det:1	java -Xmx2g -cp build Sim g2W 64 10 det 2.0 600 1
+e1:grad:64:det:1	java -Xmx2g -cp build Sim grad 64 10 det 2.0 600 1
+e1:gradW:64:det:1	java -Xmx2g -cp build Sim gradW 64 10 det 2.0 600 1
+e1:aimd:64:det:1	java -Xmx2g -cp build Sim aimd 64 10 det 2.0 600 1
+e1:envoy:64:det:1	java -Xmx2g -cp build Sim envoy 64 10 det 2.0 600 1
+e1:delta:64:det:1	java -Xmx2g -cp build Sim delta 64 10 det 2.0 600 1
+e1:static:64:det:1	java -Xmx2g -cp build Sim static 64 10 det 2.0 600 1 static=64
+e1:failsafe:64:det:1	build/limsim 64 10 det 2.0 600 1
+e1:vegas:64:ln05:1	java -Xmx2g -cp build Sim vegas 64 10 ln05 2.0 600 1
+e1:vegasW:64:ln05:1	java -Xmx2g -cp build Sim vegasW 64 10 ln05 2.0 600 1
+e1:g2:64:ln05:1	java -Xmx2g -cp build Sim g2 64 10 ln05 2.0 600 1
+e1:g2W:64:ln05:1	java -Xmx2g -cp build Sim g2W 64 10 ln05 2.0 600 1
+e1:grad:64:ln05:1	java -Xmx2g -cp build Sim grad 64 10 ln05 2.0 600 1
+e1:gradW:64:ln05:1	java -Xmx2g -cp build Sim gradW 64 10 ln05 2.0 600 1
+e1:aimd:64:ln05:1	java -Xmx2g -cp build Sim aimd 64 10 ln05 2.0 600 1
+e1:envoy:64:ln05:1	java -Xmx2g -cp build Sim envoy 64 10 ln05 2.0 600 1
+e1:delta:64:ln05:1	java -Xmx2g -cp build Sim delta 64 10 ln05 2.0 600 1
+e1:static:64:ln05:1	java -Xmx2g -cp build Sim static 64 10 ln05 2.0 600 1 static=64
+e1:failsafe:64:ln05:1	build/limsim 64 10 ln05 2.0 600 1
+e1:vegas:64:exp:1	java -Xmx2g -cp build Sim vegas 64 10 exp 2.0 600 1
+e1:vegasW:64:exp:1	java -Xmx2g -cp build Sim vegasW 64 10 exp 2.0 600 1
+e1:g2:64:exp:1	java -Xmx2g -cp build Sim g2 64 10 exp 2.0 600 1
+e1:g2W:64:exp:1	java -Xmx2g -cp build Sim g2W 64 10 exp 2.0 600 1
+e1:grad:64:exp:1	java -Xmx2g -cp build Sim grad 64 10 exp 2.0 600 1
+e1:gradW:64:exp:1	java -Xmx2g -cp build Sim gradW 64 10 exp 2.0 600 1
+e1:aimd:64:exp:1	java -Xmx2g -cp build Sim aimd 64 10 exp 2.0 600 1
+e1:envoy:64:exp:1	java -Xmx2g -cp build Sim envoy 64 10 exp 2.0 600 1
+e1:delta:64:exp:1	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 1
+e1:static:64:exp:1	java -Xmx2g -cp build Sim static 64 10 exp 2.0 600 1 static=64
+e1:failsafe:64:exp:1	build/limsim 64 10 exp 2.0 600 1
+e1:vegas:64:ln1:1	java -Xmx2g -cp build Sim vegas 64 10 ln1 2.0 600 1
+e1:vegasW:64:ln1:1	java -Xmx2g -cp build Sim vegasW 64 10 ln1 2.0 600 1
+e1:g2:64:ln1:1	java -Xmx2g -cp build Sim g2 64 10 ln1 2.0 600 1
+e1:g2W:64:ln1:1	java -Xmx2g -cp build Sim g2W 64 10 ln1 2.0 600 1
+e1:grad:64:ln1:1	java -Xmx2g -cp build Sim grad 64 10 ln1 2.0 600 1
+e1:gradW:64:ln1:1	java -Xmx2g -cp build Sim gradW 64 10 ln1 2.0 600 1
+e1:aimd:64:ln1:1	java -Xmx2g -cp build Sim aimd 64 10 ln1 2.0 600 1
+e1:envoy:64:ln1:1	java -Xmx2g -cp build Sim envoy 64 10 ln1 2.0 600 1
+e1:delta:64:ln1:1	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 1
+e1:static:64:ln1:1	java -Xmx2g -cp build Sim static 64 10 ln1 2.0 600 1 static=64
+e1:failsafe:64:ln1:1	build/limsim 64 10 ln1 2.0 600 1
+e1:vegas:64:par25:1	java -Xmx2g -cp build Sim vegas 64 10 par25 2.0 600 1
+e1:vegasW:64:par25:1	java -Xmx2g -cp build Sim vegasW 64 10 par25 2.0 600 1
+e1:g2:64:par25:1	java -Xmx2g -cp build Sim g2 64 10 par25 2.0 600 1
+e1:g2W:64:par25:1	java -Xmx2g -cp build Sim g2W 64 10 par25 2.0 600 1
+e1:grad:64:par25:1	java -Xmx2g -cp build Sim grad 64 10 par25 2.0 600 1
+e1:gradW:64:par25:1	java -Xmx2g -cp build Sim gradW 64 10 par25 2.0 600 1
+e1:aimd:64:par25:1	java -Xmx2g -cp build Sim aimd 64 10 par25 2.0 600 1
+e1:envoy:64:par25:1	java -Xmx2g -cp build Sim envoy 64 10 par25 2.0 600 1
+e1:delta:64:par25:1	java -Xmx2g -cp build Sim delta 64 10 par25 2.0 600 1
+e1:static:64:par25:1	java -Xmx2g -cp build Sim static 64 10 par25 2.0 600 1 static=64
+e1:failsafe:64:par25:1	build/limsim 64 10 par25 2.0 600 1
+e1:vegas:256:det:1	java -Xmx2g -cp build Sim vegas 256 10 det 2.0 600 1
+e1:vegasW:256:det:1	java -Xmx2g -cp build Sim vegasW 256 10 det 2.0 600 1
+e1:g2:256:det:1	java -Xmx2g -cp build Sim g2 256 10 det 2.0 600 1
+e1:g2W:256:det:1	java -Xmx2g -cp build Sim g2W 256 10 det 2.0 600 1
+e1:grad:256:det:1	java -Xmx2g -cp build Sim grad 256 10 det 2.0 600 1
+e1:gradW:256:det:1	java -Xmx2g -cp build Sim gradW 256 10 det 2.0 600 1
+e1:aimd:256:det:1	java -Xmx2g -cp build Sim aimd 256 10 det 2.0 600 1
+e1:envoy:256:det:1	java -Xmx2g -cp build Sim envoy 256 10 det 2.0 600 1
+e1:delta:256:det:1	java -Xmx2g -cp build Sim delta 256 10 det 2.0 600 1
+e1:static:256:det:1	java -Xmx2g -cp build Sim static 256 10 det 2.0 600 1 static=256
+e1:failsafe:256:det:1	build/limsim 256 10 det 2.0 600 1
+e1:vegas:256:ln05:1	java -Xmx2g -cp build Sim vegas 256 10 ln05 2.0 600 1
+e1:vegasW:256:ln05:1	java -Xmx2g -cp build Sim vegasW 256 10 ln05 2.0 600 1
+e1:g2:256:ln05:1	java -Xmx2g -cp build Sim g2 256 10 ln05 2.0 600 1
+e1:g2W:256:ln05:1	java -Xmx2g -cp build Sim g2W 256 10 ln05 2.0 600 1
+e1:grad:256:ln05:1	java -Xmx2g -cp build Sim grad 256 10 ln05 2.0 600 1
+e1:gradW:256:ln05:1	java -Xmx2g -cp build Sim gradW 256 10 ln05 2.0 600 1
+e1:aimd:256:ln05:1	java -Xmx2g -cp build Sim aimd 256 10 ln05 2.0 600 1
+e1:envoy:256:ln05:1	java -Xmx2g -cp build Sim envoy 256 10 ln05 2.0 600 1
+e1:delta:256:ln05:1	java -Xmx2g -cp build Sim delta 256 10 ln05 2.0 600 1
+e1:static:256:ln05:1	java -Xmx2g -cp build Sim static 256 10 ln05 2.0 600 1 static=256
+e1:failsafe:256:ln05:1	build/limsim 256 10 ln05 2.0 600 1
+e1:vegas:256:exp:1	java -Xmx2g -cp build Sim vegas 256 10 exp 2.0 600 1
+e1:vegasW:256:exp:1	java -Xmx2g -cp build Sim vegasW 256 10 exp 2.0 600 1
+e1:g2:256:exp:1	java -Xmx2g -cp build Sim g2 256 10 exp 2.0 600 1
+e1:g2W:256:exp:1	java -Xmx2g -cp build Sim g2W 256 10 exp 2.0 600 1
+e1:grad:256:exp:1	java -Xmx2g -cp build Sim grad 256 10 exp 2.0 600 1
+e1:gradW:256:exp:1	java -Xmx2g -cp build Sim gradW 256 10 exp 2.0 600 1
+e1:aimd:256:exp:1	java -Xmx2g -cp build Sim aimd 256 10 exp 2.0 600 1
+e1:envoy:256:exp:1	java -Xmx2g -cp build Sim envoy 256 10 exp 2.0 600 1
+e1:delta:256:exp:1	java -Xmx2g -cp build Sim delta 256 10 exp 2.0 600 1
+e1:static:256:exp:1	java -Xmx2g -cp build Sim static 256 10 exp 2.0 600 1 static=256
+e1:failsafe:256:exp:1	build/limsim 256 10 exp 2.0 600 1
+e1:vegas:256:ln1:1	java -Xmx2g -cp build Sim vegas 256 10 ln1 2.0 600 1
+e1:vegasW:256:ln1:1	java -Xmx2g -cp build Sim vegasW 256 10 ln1 2.0 600 1
+e1:g2:256:ln1:1	java -Xmx2g -cp build Sim g2 256 10 ln1 2.0 600 1
+e1:g2W:256:ln1:1	java -Xmx2g -cp build Sim g2W 256 10 ln1 2.0 600 1
+e1:grad:256:ln1:1	java -Xmx2g -cp build Sim grad 256 10 ln1 2.0 600 1
+e1:gradW:256:ln1:1	java -Xmx2g -cp build Sim gradW 256 10 ln1 2.0 600 1
+e1:aimd:256:ln1:1	java -Xmx2g -cp build Sim aimd 256 10 ln1 2.0 600 1
+e1:envoy:256:ln1:1	java -Xmx2g -cp build Sim envoy 256 10 ln1 2.0 600 1
+e1:delta:256:ln1:1	java -Xmx2g -cp build Sim delta 256 10 ln1 2.0 600 1
+e1:static:256:ln1:1	java -Xmx2g -cp build Sim static 256 10 ln1 2.0 600 1 static=256
+e1:failsafe:256:ln1:1	build/limsim 256 10 ln1 2.0 600 1
+e1:vegas:256:par25:1	java -Xmx2g -cp build Sim vegas 256 10 par25 2.0 600 1
+e1:vegasW:256:par25:1	java -Xmx2g -cp build Sim vegasW 256 10 par25 2.0 600 1
+e1:g2:256:par25:1	java -Xmx2g -cp build Sim g2 256 10 par25 2.0 600 1
+e1:g2W:256:par25:1	java -Xmx2g -cp build Sim g2W 256 10 par25 2.0 600 1
+e1:grad:256:par25:1	java -Xmx2g -cp build Sim grad 256 10 par25 2.0 600 1
+e1:gradW:256:par25:1	java -Xmx2g -cp build Sim gradW 256 10 par25 2.0 600 1
+e1:aimd:256:par25:1	java -Xmx2g -cp build Sim aimd 256 10 par25 2.0 600 1
+e1:envoy:256:par25:1	java -Xmx2g -cp build Sim envoy 256 10 par25 2.0 600 1
+e1:delta:256:par25:1	java -Xmx2g -cp build Sim delta 256 10 par25 2.0 600 1
+e1:static:256:par25:1	java -Xmx2g -cp build Sim static 256 10 par25 2.0 600 1 static=256
+e1:failsafe:256:par25:1	build/limsim 256 10 par25 2.0 600 1
+e1:vegas:4:det:2	java -Xmx2g -cp build Sim vegas 4 10 det 2.0 600 2
+e1:vegasW:4:det:2	java -Xmx2g -cp build Sim vegasW 4 10 det 2.0 600 2
+e1:g2:4:det:2	java -Xmx2g -cp build Sim g2 4 10 det 2.0 600 2
+e1:g2W:4:det:2	java -Xmx2g -cp build Sim g2W 4 10 det 2.0 600 2
+e1:grad:4:det:2	java -Xmx2g -cp build Sim grad 4 10 det 2.0 600 2
+e1:gradW:4:det:2	java -Xmx2g -cp build Sim gradW 4 10 det 2.0 600 2
+e1:aimd:4:det:2	java -Xmx2g -cp build Sim aimd 4 10 det 2.0 600 2
+e1:envoy:4:det:2	java -Xmx2g -cp build Sim envoy 4 10 det 2.0 600 2
+e1:delta:4:det:2	java -Xmx2g -cp build Sim delta 4 10 det 2.0 600 2
+e1:static:4:det:2	java -Xmx2g -cp build Sim static 4 10 det 2.0 600 2 static=4
+e1:failsafe:4:det:2	build/limsim 4 10 det 2.0 600 2
+e1:vegas:4:ln05:2	java -Xmx2g -cp build Sim vegas 4 10 ln05 2.0 600 2
+e1:vegasW:4:ln05:2	java -Xmx2g -cp build Sim vegasW 4 10 ln05 2.0 600 2
+e1:g2:4:ln05:2	java -Xmx2g -cp build Sim g2 4 10 ln05 2.0 600 2
+e1:g2W:4:ln05:2	java -Xmx2g -cp build Sim g2W 4 10 ln05 2.0 600 2
+e1:grad:4:ln05:2	java -Xmx2g -cp build Sim grad 4 10 ln05 2.0 600 2
+e1:gradW:4:ln05:2	java -Xmx2g -cp build Sim gradW 4 10 ln05 2.0 600 2
+e1:aimd:4:ln05:2	java -Xmx2g -cp build Sim aimd 4 10 ln05 2.0 600 2
+e1:envoy:4:ln05:2	java -Xmx2g -cp build Sim envoy 4 10 ln05 2.0 600 2
+e1:delta:4:ln05:2	java -Xmx2g -cp build Sim delta 4 10 ln05 2.0 600 2
+e1:static:4:ln05:2	java -Xmx2g -cp build Sim static 4 10 ln05 2.0 600 2 static=4
+e1:failsafe:4:ln05:2	build/limsim 4 10 ln05 2.0 600 2
+e1:vegas:4:exp:2	java -Xmx2g -cp build Sim vegas 4 10 exp 2.0 600 2
+e1:vegasW:4:exp:2	java -Xmx2g -cp build Sim vegasW 4 10 exp 2.0 600 2
+e1:g2:4:exp:2	java -Xmx2g -cp build Sim g2 4 10 exp 2.0 600 2
+e1:g2W:4:exp:2	java -Xmx2g -cp build Sim g2W 4 10 exp 2.0 600 2
+e1:grad:4:exp:2	java -Xmx2g -cp build Sim grad 4 10 exp 2.0 600 2
+e1:gradW:4:exp:2	java -Xmx2g -cp build Sim gradW 4 10 exp 2.0 600 2
+e1:aimd:4:exp:2	java -Xmx2g -cp build Sim aimd 4 10 exp 2.0 600 2
+e1:envoy:4:exp:2	java -Xmx2g -cp build Sim envoy 4 10 exp 2.0 600 2
+e1:delta:4:exp:2	java -Xmx2g -cp build Sim delta 4 10 exp 2.0 600 2
+e1:static:4:exp:2	java -Xmx2g -cp build Sim static 4 10 exp 2.0 600 2 static=4
+e1:failsafe:4:exp:2	build/limsim 4 10 exp 2.0 600 2
+e1:vegas:4:ln1:2	java -Xmx2g -cp build Sim vegas 4 10 ln1 2.0 600 2
+e1:vegasW:4:ln1:2	java -Xmx2g -cp build Sim vegasW 4 10 ln1 2.0 600 2
+e1:g2:4:ln1:2	java -Xmx2g -cp build Sim g2 4 10 ln1 2.0 600 2
+e1:g2W:4:ln1:2	java -Xmx2g -cp build Sim g2W 4 10 ln1 2.0 600 2
+e1:grad:4:ln1:2	java -Xmx2g -cp build Sim grad 4 10 ln1 2.0 600 2
+e1:gradW:4:ln1:2	java -Xmx2g -cp build Sim gradW 4 10 ln1 2.0 600 2
+e1:aimd:4:ln1:2	java -Xmx2g -cp build Sim aimd 4 10 ln1 2.0 600 2
+e1:envoy:4:ln1:2	java -Xmx2g -cp build Sim envoy 4 10 ln1 2.0 600 2
+e1:delta:4:ln1:2	java -Xmx2g -cp build Sim delta 4 10 ln1 2.0 600 2
+e1:static:4:ln1:2	java -Xmx2g -cp build Sim static 4 10 ln1 2.0 600 2 static=4
+e1:failsafe:4:ln1:2	build/limsim 4 10 ln1 2.0 600 2
+e1:vegas:4:par25:2	java -Xmx2g -cp build Sim vegas 4 10 par25 2.0 600 2
+e1:vegasW:4:par25:2	java -Xmx2g -cp build Sim vegasW 4 10 par25 2.0 600 2
+e1:g2:4:par25:2	java -Xmx2g -cp build Sim g2 4 10 par25 2.0 600 2
+e1:g2W:4:par25:2	java -Xmx2g -cp build Sim g2W 4 10 par25 2.0 600 2
+e1:grad:4:par25:2	java -Xmx2g -cp build Sim grad 4 10 par25 2.0 600 2
+e1:gradW:4:par25:2	java -Xmx2g -cp build Sim gradW 4 10 par25 2.0 600 2
+e1:aimd:4:par25:2	java -Xmx2g -cp build Sim aimd 4 10 par25 2.0 600 2
+e1:envoy:4:par25:2	java -Xmx2g -cp build Sim envoy 4 10 par25 2.0 600 2
+e1:delta:4:par25:2	java -Xmx2g -cp build Sim delta 4 10 par25 2.0 600 2
+e1:static:4:par25:2	java -Xmx2g -cp build Sim static 4 10 par25 2.0 600 2 static=4
+e1:failsafe:4:par25:2	build/limsim 4 10 par25 2.0 600 2
+e1:vegas:16:det:2	java -Xmx2g -cp build Sim vegas 16 10 det 2.0 600 2
+e1:vegasW:16:det:2	java -Xmx2g -cp build Sim vegasW 16 10 det 2.0 600 2
+e1:g2:16:det:2	java -Xmx2g -cp build Sim g2 16 10 det 2.0 600 2
+e1:g2W:16:det:2	java -Xmx2g -cp build Sim g2W 16 10 det 2.0 600 2
+e1:grad:16:det:2	java -Xmx2g -cp build Sim grad 16 10 det 2.0 600 2
+e1:gradW:16:det:2	java -Xmx2g -cp build Sim gradW 16 10 det 2.0 600 2
+e1:aimd:16:det:2	java -Xmx2g -cp build Sim aimd 16 10 det 2.0 600 2
+e1:envoy:16:det:2	java -Xmx2g -cp build Sim envoy 16 10 det 2.0 600 2
+e1:delta:16:det:2	java -Xmx2g -cp build Sim delta 16 10 det 2.0 600 2
+e1:static:16:det:2	java -Xmx2g -cp build Sim static 16 10 det 2.0 600 2 static=16
+e1:failsafe:16:det:2	build/limsim 16 10 det 2.0 600 2
+e1:vegas:16:ln05:2	java -Xmx2g -cp build Sim vegas 16 10 ln05 2.0 600 2
+e1:vegasW:16:ln05:2	java -Xmx2g -cp build Sim vegasW 16 10 ln05 2.0 600 2
+e1:g2:16:ln05:2	java -Xmx2g -cp build Sim g2 16 10 ln05 2.0 600 2
+e1:g2W:16:ln05:2	java -Xmx2g -cp build Sim g2W 16 10 ln05 2.0 600 2
+e1:grad:16:ln05:2	java -Xmx2g -cp build Sim grad 16 10 ln05 2.0 600 2
+e1:gradW:16:ln05:2	java -Xmx2g -cp build Sim gradW 16 10 ln05 2.0 600 2
+e1:aimd:16:ln05:2	java -Xmx2g -cp build Sim aimd 16 10 ln05 2.0 600 2
+e1:envoy:16:ln05:2	java -Xmx2g -cp build Sim envoy 16 10 ln05 2.0 600 2
+e1:delta:16:ln05:2	java -Xmx2g -cp build Sim delta 16 10 ln05 2.0 600 2
+e1:static:16:ln05:2	java -Xmx2g -cp build Sim static 16 10 ln05 2.0 600 2 static=16
+e1:failsafe:16:ln05:2	build/limsim 16 10 ln05 2.0 600 2
+e1:vegas:16:exp:2	java -Xmx2g -cp build Sim vegas 16 10 exp 2.0 600 2
+e1:vegasW:16:exp:2	java -Xmx2g -cp build Sim vegasW 16 10 exp 2.0 600 2
+e1:g2:16:exp:2	java -Xmx2g -cp build Sim g2 16 10 exp 2.0 600 2
+e1:g2W:16:exp:2	java -Xmx2g -cp build Sim g2W 16 10 exp 2.0 600 2
+e1:grad:16:exp:2	java -Xmx2g -cp build Sim grad 16 10 exp 2.0 600 2
+e1:gradW:16:exp:2	java -Xmx2g -cp build Sim gradW 16 10 exp 2.0 600 2
+e1:aimd:16:exp:2	java -Xmx2g -cp build Sim aimd 16 10 exp 2.0 600 2
+e1:envoy:16:exp:2	java -Xmx2g -cp build Sim envoy 16 10 exp 2.0 600 2
+e1:delta:16:exp:2	java -Xmx2g -cp build Sim delta 16 10 exp 2.0 600 2
+e1:static:16:exp:2	java -Xmx2g -cp build Sim static 16 10 exp 2.0 600 2 static=16
+e1:failsafe:16:exp:2	build/limsim 16 10 exp 2.0 600 2
+e1:vegas:16:ln1:2	java -Xmx2g -cp build Sim vegas 16 10 ln1 2.0 600 2
+e1:vegasW:16:ln1:2	java -Xmx2g -cp build Sim vegasW 16 10 ln1 2.0 600 2
+e1:g2:16:ln1:2	java -Xmx2g -cp build Sim g2 16 10 ln1 2.0 600 2
+e1:g2W:16:ln1:2	java -Xmx2g -cp build Sim g2W 16 10 ln1 2.0 600 2
+e1:grad:16:ln1:2	java -Xmx2g -cp build Sim grad 16 10 ln1 2.0 600 2
+e1:gradW:16:ln1:2	java -Xmx2g -cp build Sim gradW 16 10 ln1 2.0 600 2
+e1:aimd:16:ln1:2	java -Xmx2g -cp build Sim aimd 16 10 ln1 2.0 600 2
+e1:envoy:16:ln1:2	java -Xmx2g -cp build Sim envoy 16 10 ln1 2.0 600 2
+e1:delta:16:ln1:2	java -Xmx2g -cp build Sim delta 16 10 ln1 2.0 600 2
+e1:static:16:ln1:2	java -Xmx2g -cp build Sim static 16 10 ln1 2.0 600 2 static=16
+e1:failsafe:16:ln1:2	build/limsim 16 10 ln1 2.0 600 2
+e1:vegas:16:par25:2	java -Xmx2g -cp build Sim vegas 16 10 par25 2.0 600 2
+e1:vegasW:16:par25:2	java -Xmx2g -cp build Sim vegasW 16 10 par25 2.0 600 2
+e1:g2:16:par25:2	java -Xmx2g -cp build Sim g2 16 10 par25 2.0 600 2
+e1:g2W:16:par25:2	java -Xmx2g -cp build Sim g2W 16 10 par25 2.0 600 2
+e1:grad:16:par25:2	java -Xmx2g -cp build Sim grad 16 10 par25 2.0 600 2
+e1:gradW:16:par25:2	java -Xmx2g -cp build Sim gradW 16 10 par25 2.0 600 2
+e1:aimd:16:par25:2	java -Xmx2g -cp build Sim aimd 16 10 par25 2.0 600 2
+e1:envoy:16:par25:2	java -Xmx2g -cp build Sim envoy 16 10 par25 2.0 600 2
+e1:delta:16:par25:2	java -Xmx2g -cp build Sim delta 16 10 par25 2.0 600 2
+e1:static:16:par25:2	java -Xmx2g -cp build Sim static 16 10 par25 2.0 600 2 static=16
+e1:failsafe:16:par25:2	build/limsim 16 10 par25 2.0 600 2
+e1:vegas:64:det:2	java -Xmx2g -cp build Sim vegas 64 10 det 2.0 600 2
+e1:vegasW:64:det:2	java -Xmx2g -cp build Sim vegasW 64 10 det 2.0 600 2
+e1:g2:64:det:2	java -Xmx2g -cp build Sim g2 64 10 det 2.0 600 2
+e1:g2W:64:det:2	java -Xmx2g -cp build Sim g2W 64 10 det 2.0 600 2
+e1:grad:64:det:2	java -Xmx2g -cp build Sim grad 64 10 det 2.0 600 2
+e1:gradW:64:det:2	java -Xmx2g -cp build Sim gradW 64 10 det 2.0 600 2
+e1:aimd:64:det:2	java -Xmx2g -cp build Sim aimd 64 10 det 2.0 600 2
+e1:envoy:64:det:2	java -Xmx2g -cp build Sim envoy 64 10 det 2.0 600 2
+e1:delta:64:det:2	java -Xmx2g -cp build Sim delta 64 10 det 2.0 600 2
+e1:static:64:det:2	java -Xmx2g -cp build Sim static 64 10 det 2.0 600 2 static=64
+e1:failsafe:64:det:2	build/limsim 64 10 det 2.0 600 2
+e1:vegas:64:ln05:2	java -Xmx2g -cp build Sim vegas 64 10 ln05 2.0 600 2
+e1:vegasW:64:ln05:2	java -Xmx2g -cp build Sim vegasW 64 10 ln05 2.0 600 2
+e1:g2:64:ln05:2	java -Xmx2g -cp build Sim g2 64 10 ln05 2.0 600 2
+e1:g2W:64:ln05:2	java -Xmx2g -cp build Sim g2W 64 10 ln05 2.0 600 2
+e1:grad:64:ln05:2	java -Xmx2g -cp build Sim grad 64 10 ln05 2.0 600 2
+e1:gradW:64:ln05:2	java -Xmx2g -cp build Sim gradW 64 10 ln05 2.0 600 2
+e1:aimd:64:ln05:2	java -Xmx2g -cp build Sim aimd 64 10 ln05 2.0 600 2
+e1:envoy:64:ln05:2	java -Xmx2g -cp build Sim envoy 64 10 ln05 2.0 600 2
+e1:delta:64:ln05:2	java -Xmx2g -cp build Sim delta 64 10 ln05 2.0 600 2
+e1:static:64:ln05:2	java -Xmx2g -cp build Sim static 64 10 ln05 2.0 600 2 static=64
+e1:failsafe:64:ln05:2	build/limsim 64 10 ln05 2.0 600 2
+e1:vegas:64:exp:2	java -Xmx2g -cp build Sim vegas 64 10 exp 2.0 600 2
+e1:vegasW:64:exp:2	java -Xmx2g -cp build Sim vegasW 64 10 exp 2.0 600 2
+e1:g2:64:exp:2	java -Xmx2g -cp build Sim g2 64 10 exp 2.0 600 2
+e1:g2W:64:exp:2	java -Xmx2g -cp build Sim g2W 64 10 exp 2.0 600 2
+e1:grad:64:exp:2	java -Xmx2g -cp build Sim grad 64 10 exp 2.0 600 2
+e1:gradW:64:exp:2	java -Xmx2g -cp build Sim gradW 64 10 exp 2.0 600 2
+e1:aimd:64:exp:2	java -Xmx2g -cp build Sim aimd 64 10 exp 2.0 600 2
+e1:envoy:64:exp:2	java -Xmx2g -cp build Sim envoy 64 10 exp 2.0 600 2
+e1:delta:64:exp:2	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 2
+e1:static:64:exp:2	java -Xmx2g -cp build Sim static 64 10 exp 2.0 600 2 static=64
+e1:failsafe:64:exp:2	build/limsim 64 10 exp 2.0 600 2
+e1:vegas:64:ln1:2	java -Xmx2g -cp build Sim vegas 64 10 ln1 2.0 600 2
+e1:vegasW:64:ln1:2	java -Xmx2g -cp build Sim vegasW 64 10 ln1 2.0 600 2
+e1:g2:64:ln1:2	java -Xmx2g -cp build Sim g2 64 10 ln1 2.0 600 2
+e1:g2W:64:ln1:2	java -Xmx2g -cp build Sim g2W 64 10 ln1 2.0 600 2
+e1:grad:64:ln1:2	java -Xmx2g -cp build Sim grad 64 10 ln1 2.0 600 2
+e1:gradW:64:ln1:2	java -Xmx2g -cp build Sim gradW 64 10 ln1 2.0 600 2
+e1:aimd:64:ln1:2	java -Xmx2g -cp build Sim aimd 64 10 ln1 2.0 600 2
+e1:envoy:64:ln1:2	java -Xmx2g -cp build Sim envoy 64 10 ln1 2.0 600 2
+e1:delta:64:ln1:2	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 2
+e1:static:64:ln1:2	java -Xmx2g -cp build Sim static 64 10 ln1 2.0 600 2 static=64
+e1:failsafe:64:ln1:2	build/limsim 64 10 ln1 2.0 600 2
+e1:vegas:64:par25:2	java -Xmx2g -cp build Sim vegas 64 10 par25 2.0 600 2
+e1:vegasW:64:par25:2	java -Xmx2g -cp build Sim vegasW 64 10 par25 2.0 600 2
+e1:g2:64:par25:2	java -Xmx2g -cp build Sim g2 64 10 par25 2.0 600 2
+e1:g2W:64:par25:2	java -Xmx2g -cp build Sim g2W 64 10 par25 2.0 600 2
+e1:grad:64:par25:2	java -Xmx2g -cp build Sim grad 64 10 par25 2.0 600 2
+e1:gradW:64:par25:2	java -Xmx2g -cp build Sim gradW 64 10 par25 2.0 600 2
+e1:aimd:64:par25:2	java -Xmx2g -cp build Sim aimd 64 10 par25 2.0 600 2
+e1:envoy:64:par25:2	java -Xmx2g -cp build Sim envoy 64 10 par25 2.0 600 2
+e1:delta:64:par25:2	java -Xmx2g -cp build Sim delta 64 10 par25 2.0 600 2
+e1:static:64:par25:2	java -Xmx2g -cp build Sim static 64 10 par25 2.0 600 2 static=64
+e1:failsafe:64:par25:2	build/limsim 64 10 par25 2.0 600 2
+e1:vegas:256:det:2	java -Xmx2g -cp build Sim vegas 256 10 det 2.0 600 2
+e1:vegasW:256:det:2	java -Xmx2g -cp build Sim vegasW 256 10 det 2.0 600 2
+e1:g2:256:det:2	java -Xmx2g -cp build Sim g2 256 10 det 2.0 600 2
+e1:g2W:256:det:2	java -Xmx2g -cp build Sim g2W 256 10 det 2.0 600 2
+e1:grad:256:det:2	java -Xmx2g -cp build Sim grad 256 10 det 2.0 600 2
+e1:gradW:256:det:2	java -Xmx2g -cp build Sim gradW 256 10 det 2.0 600 2
+e1:aimd:256:det:2	java -Xmx2g -cp build Sim aimd 256 10 det 2.0 600 2
+e1:envoy:256:det:2	java -Xmx2g -cp build Sim envoy 256 10 det 2.0 600 2
+e1:delta:256:det:2	java -Xmx2g -cp build Sim delta 256 10 det 2.0 600 2
+e1:static:256:det:2	java -Xmx2g -cp build Sim static 256 10 det 2.0 600 2 static=256
+e1:failsafe:256:det:2	build/limsim 256 10 det 2.0 600 2
+e1:vegas:256:ln05:2	java -Xmx2g -cp build Sim vegas 256 10 ln05 2.0 600 2
+e1:vegasW:256:ln05:2	java -Xmx2g -cp build Sim vegasW 256 10 ln05 2.0 600 2
+e1:g2:256:ln05:2	java -Xmx2g -cp build Sim g2 256 10 ln05 2.0 600 2
+e1:g2W:256:ln05:2	java -Xmx2g -cp build Sim g2W 256 10 ln05 2.0 600 2
+e1:grad:256:ln05:2	java -Xmx2g -cp build Sim grad 256 10 ln05 2.0 600 2
+e1:gradW:256:ln05:2	java -Xmx2g -cp build Sim gradW 256 10 ln05 2.0 600 2
+e1:aimd:256:ln05:2	java -Xmx2g -cp build Sim aimd 256 10 ln05 2.0 600 2
+e1:envoy:256:ln05:2	java -Xmx2g -cp build Sim envoy 256 10 ln05 2.0 600 2
+e1:delta:256:ln05:2	java -Xmx2g -cp build Sim delta 256 10 ln05 2.0 600 2
+e1:static:256:ln05:2	java -Xmx2g -cp build Sim static 256 10 ln05 2.0 600 2 static=256
+e1:failsafe:256:ln05:2	build/limsim 256 10 ln05 2.0 600 2
+e1:vegas:256:exp:2	java -Xmx2g -cp build Sim vegas 256 10 exp 2.0 600 2
+e1:vegasW:256:exp:2	java -Xmx2g -cp build Sim vegasW 256 10 exp 2.0 600 2
+e1:g2:256:exp:2	java -Xmx2g -cp build Sim g2 256 10 exp 2.0 600 2
+e1:g2W:256:exp:2	java -Xmx2g -cp build Sim g2W 256 10 exp 2.0 600 2
+e1:grad:256:exp:2	java -Xmx2g -cp build Sim grad 256 10 exp 2.0 600 2
+e1:gradW:256:exp:2	java -Xmx2g -cp build Sim gradW 256 10 exp 2.0 600 2
+e1:aimd:256:exp:2	java -Xmx2g -cp build Sim aimd 256 10 exp 2.0 600 2
+e1:envoy:256:exp:2	java -Xmx2g -cp build Sim envoy 256 10 exp 2.0 600 2
+e1:delta:256:exp:2	java -Xmx2g -cp build Sim delta 256 10 exp 2.0 600 2
+e1:static:256:exp:2	java -Xmx2g -cp build Sim static 256 10 exp 2.0 600 2 static=256
+e1:failsafe:256:exp:2	build/limsim 256 10 exp 2.0 600 2
+e1:vegas:256:ln1:2	java -Xmx2g -cp build Sim vegas 256 10 ln1 2.0 600 2
+e1:vegasW:256:ln1:2	java -Xmx2g -cp build Sim vegasW 256 10 ln1 2.0 600 2
+e1:g2:256:ln1:2	java -Xmx2g -cp build Sim g2 256 10 ln1 2.0 600 2
+e1:g2W:256:ln1:2	java -Xmx2g -cp build Sim g2W 256 10 ln1 2.0 600 2
+e1:grad:256:ln1:2	java -Xmx2g -cp build Sim grad 256 10 ln1 2.0 600 2
+e1:gradW:256:ln1:2	java -Xmx2g -cp build Sim gradW 256 10 ln1 2.0 600 2
+e1:aimd:256:ln1:2	java -Xmx2g -cp build Sim aimd 256 10 ln1 2.0 600 2
+e1:envoy:256:ln1:2	java -Xmx2g -cp build Sim envoy 256 10 ln1 2.0 600 2
+e1:delta:256:ln1:2	java -Xmx2g -cp build Sim delta 256 10 ln1 2.0 600 2
+e1:static:256:ln1:2	java -Xmx2g -cp build Sim static 256 10 ln1 2.0 600 2 static=256
+e1:failsafe:256:ln1:2	build/limsim 256 10 ln1 2.0 600 2
+e1:vegas:256:par25:2	java -Xmx2g -cp build Sim vegas 256 10 par25 2.0 600 2
+e1:vegasW:256:par25:2	java -Xmx2g -cp build Sim vegasW 256 10 par25 2.0 600 2
+e1:g2:256:par25:2	java -Xmx2g -cp build Sim g2 256 10 par25 2.0 600 2
+e1:g2W:256:par25:2	java -Xmx2g -cp build Sim g2W 256 10 par25 2.0 600 2
+e1:grad:256:par25:2	java -Xmx2g -cp build Sim grad 256 10 par25 2.0 600 2
+e1:gradW:256:par25:2	java -Xmx2g -cp build Sim gradW 256 10 par25 2.0 600 2
+e1:aimd:256:par25:2	java -Xmx2g -cp build Sim aimd 256 10 par25 2.0 600 2
+e1:envoy:256:par25:2	java -Xmx2g -cp build Sim envoy 256 10 par25 2.0 600 2
+e1:delta:256:par25:2	java -Xmx2g -cp build Sim delta 256 10 par25 2.0 600 2
+e1:static:256:par25:2	java -Xmx2g -cp build Sim static 256 10 par25 2.0 600 2 static=256
+e1:failsafe:256:par25:2	build/limsim 256 10 par25 2.0 600 2
+e1:vegas:4:det:3	java -Xmx2g -cp build Sim vegas 4 10 det 2.0 600 3
+e1:vegasW:4:det:3	java -Xmx2g -cp build Sim vegasW 4 10 det 2.0 600 3
+e1:g2:4:det:3	java -Xmx2g -cp build Sim g2 4 10 det 2.0 600 3
+e1:g2W:4:det:3	java -Xmx2g -cp build Sim g2W 4 10 det 2.0 600 3
+e1:grad:4:det:3	java -Xmx2g -cp build Sim grad 4 10 det 2.0 600 3
+e1:gradW:4:det:3	java -Xmx2g -cp build Sim gradW 4 10 det 2.0 600 3
+e1:aimd:4:det:3	java -Xmx2g -cp build Sim aimd 4 10 det 2.0 600 3
+e1:envoy:4:det:3	java -Xmx2g -cp build Sim envoy 4 10 det 2.0 600 3
+e1:delta:4:det:3	java -Xmx2g -cp build Sim delta 4 10 det 2.0 600 3
+e1:static:4:det:3	java -Xmx2g -cp build Sim static 4 10 det 2.0 600 3 static=4
+e1:failsafe:4:det:3	build/limsim 4 10 det 2.0 600 3
+e1:vegas:4:ln05:3	java -Xmx2g -cp build Sim vegas 4 10 ln05 2.0 600 3
+e1:vegasW:4:ln05:3	java -Xmx2g -cp build Sim vegasW 4 10 ln05 2.0 600 3
+e1:g2:4:ln05:3	java -Xmx2g -cp build Sim g2 4 10 ln05 2.0 600 3
+e1:g2W:4:ln05:3	java -Xmx2g -cp build Sim g2W 4 10 ln05 2.0 600 3
+e1:grad:4:ln05:3	java -Xmx2g -cp build Sim grad 4 10 ln05 2.0 600 3
+e1:gradW:4:ln05:3	java -Xmx2g -cp build Sim gradW 4 10 ln05 2.0 600 3
+e1:aimd:4:ln05:3	java -Xmx2g -cp build Sim aimd 4 10 ln05 2.0 600 3
+e1:envoy:4:ln05:3	java -Xmx2g -cp build Sim envoy 4 10 ln05 2.0 600 3
+e1:delta:4:ln05:3	java -Xmx2g -cp build Sim delta 4 10 ln05 2.0 600 3
+e1:static:4:ln05:3	java -Xmx2g -cp build Sim static 4 10 ln05 2.0 600 3 static=4
+e1:failsafe:4:ln05:3	build/limsim 4 10 ln05 2.0 600 3
+e1:vegas:4:exp:3	java -Xmx2g -cp build Sim vegas 4 10 exp 2.0 600 3
+e1:vegasW:4:exp:3	java -Xmx2g -cp build Sim vegasW 4 10 exp 2.0 600 3
+e1:g2:4:exp:3	java -Xmx2g -cp build Sim g2 4 10 exp 2.0 600 3
+e1:g2W:4:exp:3	java -Xmx2g -cp build Sim g2W 4 10 exp 2.0 600 3
+e1:grad:4:exp:3	java -Xmx2g -cp build Sim grad 4 10 exp 2.0 600 3
+e1:gradW:4:exp:3	java -Xmx2g -cp build Sim gradW 4 10 exp 2.0 600 3
+e1:aimd:4:exp:3	java -Xmx2g -cp build Sim aimd 4 10 exp 2.0 600 3
+e1:envoy:4:exp:3	java -Xmx2g -cp build Sim envoy 4 10 exp 2.0 600 3
+e1:delta:4:exp:3	java -Xmx2g -cp build Sim delta 4 10 exp 2.0 600 3
+e1:static:4:exp:3	java -Xmx2g -cp build Sim static 4 10 exp 2.0 600 3 static=4
+e1:failsafe:4:exp:3	build/limsim 4 10 exp 2.0 600 3
+e1:vegas:4:ln1:3	java -Xmx2g -cp build Sim vegas 4 10 ln1 2.0 600 3
+e1:vegasW:4:ln1:3	java -Xmx2g -cp build Sim vegasW 4 10 ln1 2.0 600 3
+e1:g2:4:ln1:3	java -Xmx2g -cp build Sim g2 4 10 ln1 2.0 600 3
+e1:g2W:4:ln1:3	java -Xmx2g -cp build Sim g2W 4 10 ln1 2.0 600 3
+e1:grad:4:ln1:3	java -Xmx2g -cp build Sim grad 4 10 ln1 2.0 600 3
+e1:gradW:4:ln1:3	java -Xmx2g -cp build Sim gradW 4 10 ln1 2.0 600 3
+e1:aimd:4:ln1:3	java -Xmx2g -cp build Sim aimd 4 10 ln1 2.0 600 3
+e1:envoy:4:ln1:3	java -Xmx2g -cp build Sim envoy 4 10 ln1 2.0 600 3
+e1:delta:4:ln1:3	java -Xmx2g -cp build Sim delta 4 10 ln1 2.0 600 3
+e1:static:4:ln1:3	java -Xmx2g -cp build Sim static 4 10 ln1 2.0 600 3 static=4
+e1:failsafe:4:ln1:3	build/limsim 4 10 ln1 2.0 600 3
+e1:vegas:4:par25:3	java -Xmx2g -cp build Sim vegas 4 10 par25 2.0 600 3
+e1:vegasW:4:par25:3	java -Xmx2g -cp build Sim vegasW 4 10 par25 2.0 600 3
+e1:g2:4:par25:3	java -Xmx2g -cp build Sim g2 4 10 par25 2.0 600 3
+e1:g2W:4:par25:3	java -Xmx2g -cp build Sim g2W 4 10 par25 2.0 600 3
+e1:grad:4:par25:3	java -Xmx2g -cp build Sim grad 4 10 par25 2.0 600 3
+e1:gradW:4:par25:3	java -Xmx2g -cp build Sim gradW 4 10 par25 2.0 600 3
+e1:aimd:4:par25:3	java -Xmx2g -cp build Sim aimd 4 10 par25 2.0 600 3
+e1:envoy:4:par25:3	java -Xmx2g -cp build Sim envoy 4 10 par25 2.0 600 3
+e1:delta:4:par25:3	java -Xmx2g -cp build Sim delta 4 10 par25 2.0 600 3
+e1:static:4:par25:3	java -Xmx2g -cp build Sim static 4 10 par25 2.0 600 3 static=4
+e1:failsafe:4:par25:3	build/limsim 4 10 par25 2.0 600 3
+e1:vegas:16:det:3	java -Xmx2g -cp build Sim vegas 16 10 det 2.0 600 3
+e1:vegasW:16:det:3	java -Xmx2g -cp build Sim vegasW 16 10 det 2.0 600 3
+e1:g2:16:det:3	java -Xmx2g -cp build Sim g2 16 10 det 2.0 600 3
+e1:g2W:16:det:3	java -Xmx2g -cp build Sim g2W 16 10 det 2.0 600 3
+e1:grad:16:det:3	java -Xmx2g -cp build Sim grad 16 10 det 2.0 600 3
+e1:gradW:16:det:3	java -Xmx2g -cp build Sim gradW 16 10 det 2.0 600 3
+e1:aimd:16:det:3	java -Xmx2g -cp build Sim aimd 16 10 det 2.0 600 3
+e1:envoy:16:det:3	java -Xmx2g -cp build Sim envoy 16 10 det 2.0 600 3
+e1:delta:16:det:3	java -Xmx2g -cp build Sim delta 16 10 det 2.0 600 3
+e1:static:16:det:3	java -Xmx2g -cp build Sim static 16 10 det 2.0 600 3 static=16
+e1:failsafe:16:det:3	build/limsim 16 10 det 2.0 600 3
+e1:vegas:16:ln05:3	java -Xmx2g -cp build Sim vegas 16 10 ln05 2.0 600 3
+e1:vegasW:16:ln05:3	java -Xmx2g -cp build Sim vegasW 16 10 ln05 2.0 600 3
+e1:g2:16:ln05:3	java -Xmx2g -cp build Sim g2 16 10 ln05 2.0 600 3
+e1:g2W:16:ln05:3	java -Xmx2g -cp build Sim g2W 16 10 ln05 2.0 600 3
+e1:grad:16:ln05:3	java -Xmx2g -cp build Sim grad 16 10 ln05 2.0 600 3
+e1:gradW:16:ln05:3	java -Xmx2g -cp build Sim gradW 16 10 ln05 2.0 600 3
+e1:aimd:16:ln05:3	java -Xmx2g -cp build Sim aimd 16 10 ln05 2.0 600 3
+e1:envoy:16:ln05:3	java -Xmx2g -cp build Sim envoy 16 10 ln05 2.0 600 3
+e1:delta:16:ln05:3	java -Xmx2g -cp build Sim delta 16 10 ln05 2.0 600 3
+e1:static:16:ln05:3	java -Xmx2g -cp build Sim static 16 10 ln05 2.0 600 3 static=16
+e1:failsafe:16:ln05:3	build/limsim 16 10 ln05 2.0 600 3
+e1:vegas:16:exp:3	java -Xmx2g -cp build Sim vegas 16 10 exp 2.0 600 3
+e1:vegasW:16:exp:3	java -Xmx2g -cp build Sim vegasW 16 10 exp 2.0 600 3
+e1:g2:16:exp:3	java -Xmx2g -cp build Sim g2 16 10 exp 2.0 600 3
+e1:g2W:16:exp:3	java -Xmx2g -cp build Sim g2W 16 10 exp 2.0 600 3
+e1:grad:16:exp:3	java -Xmx2g -cp build Sim grad 16 10 exp 2.0 600 3
+e1:gradW:16:exp:3	java -Xmx2g -cp build Sim gradW 16 10 exp 2.0 600 3
+e1:aimd:16:exp:3	java -Xmx2g -cp build Sim aimd 16 10 exp 2.0 600 3
+e1:envoy:16:exp:3	java -Xmx2g -cp build Sim envoy 16 10 exp 2.0 600 3
+e1:delta:16:exp:3	java -Xmx2g -cp build Sim delta 16 10 exp 2.0 600 3
+e1:static:16:exp:3	java -Xmx2g -cp build Sim static 16 10 exp 2.0 600 3 static=16
+e1:failsafe:16:exp:3	build/limsim 16 10 exp 2.0 600 3
+e1:vegas:16:ln1:3	java -Xmx2g -cp build Sim vegas 16 10 ln1 2.0 600 3
+e1:vegasW:16:ln1:3	java -Xmx2g -cp build Sim vegasW 16 10 ln1 2.0 600 3
+e1:g2:16:ln1:3	java -Xmx2g -cp build Sim g2 16 10 ln1 2.0 600 3
+e1:g2W:16:ln1:3	java -Xmx2g -cp build Sim g2W 16 10 ln1 2.0 600 3
+e1:grad:16:ln1:3	java -Xmx2g -cp build Sim grad 16 10 ln1 2.0 600 3
+e1:gradW:16:ln1:3	java -Xmx2g -cp build Sim gradW 16 10 ln1 2.0 600 3
+e1:aimd:16:ln1:3	java -Xmx2g -cp build Sim aimd 16 10 ln1 2.0 600 3
+e1:envoy:16:ln1:3	java -Xmx2g -cp build Sim envoy 16 10 ln1 2.0 600 3
+e1:delta:16:ln1:3	java -Xmx2g -cp build Sim delta 16 10 ln1 2.0 600 3
+e1:static:16:ln1:3	java -Xmx2g -cp build Sim static 16 10 ln1 2.0 600 3 static=16
+e1:failsafe:16:ln1:3	build/limsim 16 10 ln1 2.0 600 3
+e1:vegas:16:par25:3	java -Xmx2g -cp build Sim vegas 16 10 par25 2.0 600 3
+e1:vegasW:16:par25:3	java -Xmx2g -cp build Sim vegasW 16 10 par25 2.0 600 3
+e1:g2:16:par25:3	java -Xmx2g -cp build Sim g2 16 10 par25 2.0 600 3
+e1:g2W:16:par25:3	java -Xmx2g -cp build Sim g2W 16 10 par25 2.0 600 3
+e1:grad:16:par25:3	java -Xmx2g -cp build Sim grad 16 10 par25 2.0 600 3
+e1:gradW:16:par25:3	java -Xmx2g -cp build Sim gradW 16 10 par25 2.0 600 3
+e1:aimd:16:par25:3	java -Xmx2g -cp build Sim aimd 16 10 par25 2.0 600 3
+e1:envoy:16:par25:3	java -Xmx2g -cp build Sim envoy 16 10 par25 2.0 600 3
+e1:delta:16:par25:3	java -Xmx2g -cp build Sim delta 16 10 par25 2.0 600 3
+e1:static:16:par25:3	java -Xmx2g -cp build Sim static 16 10 par25 2.0 600 3 static=16
+e1:failsafe:16:par25:3	build/limsim 16 10 par25 2.0 600 3
+e1:vegas:64:det:3	java -Xmx2g -cp build Sim vegas 64 10 det 2.0 600 3
+e1:vegasW:64:det:3	java -Xmx2g -cp build Sim vegasW 64 10 det 2.0 600 3
+e1:g2:64:det:3	java -Xmx2g -cp build Sim g2 64 10 det 2.0 600 3
+e1:g2W:64:det:3	java -Xmx2g -cp build Sim g2W 64 10 det 2.0 600 3
+e1:grad:64:det:3	java -Xmx2g -cp build Sim grad 64 10 det 2.0 600 3
+e1:gradW:64:det:3	java -Xmx2g -cp build Sim gradW 64 10 det 2.0 600 3
+e1:aimd:64:det:3	java -Xmx2g -cp build Sim aimd 64 10 det 2.0 600 3
+e1:envoy:64:det:3	java -Xmx2g -cp build Sim envoy 64 10 det 2.0 600 3
+e1:delta:64:det:3	java -Xmx2g -cp build Sim delta 64 10 det 2.0 600 3
+e1:static:64:det:3	java -Xmx2g -cp build Sim static 64 10 det 2.0 600 3 static=64
+e1:failsafe:64:det:3	build/limsim 64 10 det 2.0 600 3
+e1:vegas:64:ln05:3	java -Xmx2g -cp build Sim vegas 64 10 ln05 2.0 600 3
+e1:vegasW:64:ln05:3	java -Xmx2g -cp build Sim vegasW 64 10 ln05 2.0 600 3
+e1:g2:64:ln05:3	java -Xmx2g -cp build Sim g2 64 10 ln05 2.0 600 3
+e1:g2W:64:ln05:3	java -Xmx2g -cp build Sim g2W 64 10 ln05 2.0 600 3
+e1:grad:64:ln05:3	java -Xmx2g -cp build Sim grad 64 10 ln05 2.0 600 3
+e1:gradW:64:ln05:3	java -Xmx2g -cp build Sim gradW 64 10 ln05 2.0 600 3
+e1:aimd:64:ln05:3	java -Xmx2g -cp build Sim aimd 64 10 ln05 2.0 600 3
+e1:envoy:64:ln05:3	java -Xmx2g -cp build Sim envoy 64 10 ln05 2.0 600 3
+e1:delta:64:ln05:3	java -Xmx2g -cp build Sim delta 64 10 ln05 2.0 600 3
+e1:static:64:ln05:3	java -Xmx2g -cp build Sim static 64 10 ln05 2.0 600 3 static=64
+e1:failsafe:64:ln05:3	build/limsim 64 10 ln05 2.0 600 3
+e1:vegas:64:exp:3	java -Xmx2g -cp build Sim vegas 64 10 exp 2.0 600 3
+e1:vegasW:64:exp:3	java -Xmx2g -cp build Sim vegasW 64 10 exp 2.0 600 3
+e1:g2:64:exp:3	java -Xmx2g -cp build Sim g2 64 10 exp 2.0 600 3
+e1:g2W:64:exp:3	java -Xmx2g -cp build Sim g2W 64 10 exp 2.0 600 3
+e1:grad:64:exp:3	java -Xmx2g -cp build Sim grad 64 10 exp 2.0 600 3
+e1:gradW:64:exp:3	java -Xmx2g -cp build Sim gradW 64 10 exp 2.0 600 3
+e1:aimd:64:exp:3	java -Xmx2g -cp build Sim aimd 64 10 exp 2.0 600 3
+e1:envoy:64:exp:3	java -Xmx2g -cp build Sim envoy 64 10 exp 2.0 600 3
+e1:delta:64:exp:3	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 3
+e1:static:64:exp:3	java -Xmx2g -cp build Sim static 64 10 exp 2.0 600 3 static=64
+e1:failsafe:64:exp:3	build/limsim 64 10 exp 2.0 600 3
+e1:vegas:64:ln1:3	java -Xmx2g -cp build Sim vegas 64 10 ln1 2.0 600 3
+e1:vegasW:64:ln1:3	java -Xmx2g -cp build Sim vegasW 64 10 ln1 2.0 600 3
+e1:g2:64:ln1:3	java -Xmx2g -cp build Sim g2 64 10 ln1 2.0 600 3
+e1:g2W:64:ln1:3	java -Xmx2g -cp build Sim g2W 64 10 ln1 2.0 600 3
+e1:grad:64:ln1:3	java -Xmx2g -cp build Sim grad 64 10 ln1 2.0 600 3
+e1:gradW:64:ln1:3	java -Xmx2g -cp build Sim gradW 64 10 ln1 2.0 600 3
+e1:aimd:64:ln1:3	java -Xmx2g -cp build Sim aimd 64 10 ln1 2.0 600 3
+e1:envoy:64:ln1:3	java -Xmx2g -cp build Sim envoy 64 10 ln1 2.0 600 3
+e1:delta:64:ln1:3	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 3
+e1:static:64:ln1:3	java -Xmx2g -cp build Sim static 64 10 ln1 2.0 600 3 static=64
+e1:failsafe:64:ln1:3	build/limsim 64 10 ln1 2.0 600 3
+e1:vegas:64:par25:3	java -Xmx2g -cp build Sim vegas 64 10 par25 2.0 600 3
+e1:vegasW:64:par25:3	java -Xmx2g -cp build Sim vegasW 64 10 par25 2.0 600 3
+e1:g2:64:par25:3	java -Xmx2g -cp build Sim g2 64 10 par25 2.0 600 3
+e1:g2W:64:par25:3	java -Xmx2g -cp build Sim g2W 64 10 par25 2.0 600 3
+e1:grad:64:par25:3	java -Xmx2g -cp build Sim grad 64 10 par25 2.0 600 3
+e1:gradW:64:par25:3	java -Xmx2g -cp build Sim gradW 64 10 par25 2.0 600 3
+e1:aimd:64:par25:3	java -Xmx2g -cp build Sim aimd 64 10 par25 2.0 600 3
+e1:envoy:64:par25:3	java -Xmx2g -cp build Sim envoy 64 10 par25 2.0 600 3
+e1:delta:64:par25:3	java -Xmx2g -cp build Sim delta 64 10 par25 2.0 600 3
+e1:static:64:par25:3	java -Xmx2g -cp build Sim static 64 10 par25 2.0 600 3 static=64
+e1:failsafe:64:par25:3	build/limsim 64 10 par25 2.0 600 3
+e1:vegas:256:det:3	java -Xmx2g -cp build Sim vegas 256 10 det 2.0 600 3
+e1:vegasW:256:det:3	java -Xmx2g -cp build Sim vegasW 256 10 det 2.0 600 3
+e1:g2:256:det:3	java -Xmx2g -cp build Sim g2 256 10 det 2.0 600 3
+e1:g2W:256:det:3	java -Xmx2g -cp build Sim g2W 256 10 det 2.0 600 3
+e1:grad:256:det:3	java -Xmx2g -cp build Sim grad 256 10 det 2.0 600 3
+e1:gradW:256:det:3	java -Xmx2g -cp build Sim gradW 256 10 det 2.0 600 3
+e1:aimd:256:det:3	java -Xmx2g -cp build Sim aimd 256 10 det 2.0 600 3
+e1:envoy:256:det:3	java -Xmx2g -cp build Sim envoy 256 10 det 2.0 600 3
+e1:delta:256:det:3	java -Xmx2g -cp build Sim delta 256 10 det 2.0 600 3
+e1:static:256:det:3	java -Xmx2g -cp build Sim static 256 10 det 2.0 600 3 static=256
+e1:failsafe:256:det:3	build/limsim 256 10 det 2.0 600 3
+e1:vegas:256:ln05:3	java -Xmx2g -cp build Sim vegas 256 10 ln05 2.0 600 3
+e1:vegasW:256:ln05:3	java -Xmx2g -cp build Sim vegasW 256 10 ln05 2.0 600 3
+e1:g2:256:ln05:3	java -Xmx2g -cp build Sim g2 256 10 ln05 2.0 600 3
+e1:g2W:256:ln05:3	java -Xmx2g -cp build Sim g2W 256 10 ln05 2.0 600 3
+e1:grad:256:ln05:3	java -Xmx2g -cp build Sim grad 256 10 ln05 2.0 600 3
+e1:gradW:256:ln05:3	java -Xmx2g -cp build Sim gradW 256 10 ln05 2.0 600 3
+e1:aimd:256:ln05:3	java -Xmx2g -cp build Sim aimd 256 10 ln05 2.0 600 3
+e1:envoy:256:ln05:3	java -Xmx2g -cp build Sim envoy 256 10 ln05 2.0 600 3
+e1:delta:256:ln05:3	java -Xmx2g -cp build Sim delta 256 10 ln05 2.0 600 3
+e1:static:256:ln05:3	java -Xmx2g -cp build Sim static 256 10 ln05 2.0 600 3 static=256
+e1:failsafe:256:ln05:3	build/limsim 256 10 ln05 2.0 600 3
+e1:vegas:256:exp:3	java -Xmx2g -cp build Sim vegas 256 10 exp 2.0 600 3
+e1:vegasW:256:exp:3	java -Xmx2g -cp build Sim vegasW 256 10 exp 2.0 600 3
+e1:g2:256:exp:3	java -Xmx2g -cp build Sim g2 256 10 exp 2.0 600 3
+e1:g2W:256:exp:3	java -Xmx2g -cp build Sim g2W 256 10 exp 2.0 600 3
+e1:grad:256:exp:3	java -Xmx2g -cp build Sim grad 256 10 exp 2.0 600 3
+e1:gradW:256:exp:3	java -Xmx2g -cp build Sim gradW 256 10 exp 2.0 600 3
+e1:aimd:256:exp:3	java -Xmx2g -cp build Sim aimd 256 10 exp 2.0 600 3
+e1:envoy:256:exp:3	java -Xmx2g -cp build Sim envoy 256 10 exp 2.0 600 3
+e1:delta:256:exp:3	java -Xmx2g -cp build Sim delta 256 10 exp 2.0 600 3
+e1:static:256:exp:3	java -Xmx2g -cp build Sim static 256 10 exp 2.0 600 3 static=256
+e1:failsafe:256:exp:3	build/limsim 256 10 exp 2.0 600 3
+e1:vegas:256:ln1:3	java -Xmx2g -cp build Sim vegas 256 10 ln1 2.0 600 3
+e1:vegasW:256:ln1:3	java -Xmx2g -cp build Sim vegasW 256 10 ln1 2.0 600 3
+e1:g2:256:ln1:3	java -Xmx2g -cp build Sim g2 256 10 ln1 2.0 600 3
+e1:g2W:256:ln1:3	java -Xmx2g -cp build Sim g2W 256 10 ln1 2.0 600 3
+e1:grad:256:ln1:3	java -Xmx2g -cp build Sim grad 256 10 ln1 2.0 600 3
+e1:gradW:256:ln1:3	java -Xmx2g -cp build Sim gradW 256 10 ln1 2.0 600 3
+e1:aimd:256:ln1:3	java -Xmx2g -cp build Sim aimd 256 10 ln1 2.0 600 3
+e1:envoy:256:ln1:3	java -Xmx2g -cp build Sim envoy 256 10 ln1 2.0 600 3
+e1:delta:256:ln1:3	java -Xmx2g -cp build Sim delta 256 10 ln1 2.0 600 3
+e1:static:256:ln1:3	java -Xmx2g -cp build Sim static 256 10 ln1 2.0 600 3 static=256
+e1:failsafe:256:ln1:3	build/limsim 256 10 ln1 2.0 600 3
+e1:vegas:256:par25:3	java -Xmx2g -cp build Sim vegas 256 10 par25 2.0 600 3
+e1:vegasW:256:par25:3	java -Xmx2g -cp build Sim vegasW 256 10 par25 2.0 600 3
+e1:g2:256:par25:3	java -Xmx2g -cp build Sim g2 256 10 par25 2.0 600 3
+e1:g2W:256:par25:3	java -Xmx2g -cp build Sim g2W 256 10 par25 2.0 600 3
+e1:grad:256:par25:3	java -Xmx2g -cp build Sim grad 256 10 par25 2.0 600 3
+e1:gradW:256:par25:3	java -Xmx2g -cp build Sim gradW 256 10 par25 2.0 600 3
+e1:aimd:256:par25:3	java -Xmx2g -cp build Sim aimd 256 10 par25 2.0 600 3
+e1:envoy:256:par25:3	java -Xmx2g -cp build Sim envoy 256 10 par25 2.0 600 3
+e1:delta:256:par25:3	java -Xmx2g -cp build Sim delta 256 10 par25 2.0 600 3
+e1:static:256:par25:3	java -Xmx2g -cp build Sim static 256 10 par25 2.0 600 3 static=256
+e1:failsafe:256:par25:3	build/limsim 256 10 par25 2.0 600 3

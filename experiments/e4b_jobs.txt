@@ -1,0 +1,12 @@
+e4:envoyScaled:llm_code:16:1	java -Xmx2g -cp build Sim envoy 16 1348.438 file:data/svc_llm_code.txt 2.0 2696 1 envoyWin=13484.38
+e4:envoyScaled:llm_code:16:2	java -Xmx2g -cp build Sim envoy 16 1348.438 file:data/svc_llm_code.txt 2.0 2696 2 envoyWin=13484.38
+e4:envoyScaled:llm_code:16:3	java -Xmx2g -cp build Sim envoy 16 1348.438 file:data/svc_llm_code.txt 2.0 2696 3 envoyWin=13484.38
+e4:envoyScaled:llm_code:64:1	java -Xmx2g -cp build Sim envoy 64 1348.438 file:data/svc_llm_code.txt 2.0 2696 1 envoyWin=13484.38
+e4:envoyScaled:llm_code:64:2	java -Xmx2g -cp build Sim envoy 64 1348.438 file:data/svc_llm_code.txt 2.0 2696 2 envoyWin=13484.38
+e4:envoyScaled:llm_code:64:3	java -Xmx2g -cp build Sim envoy 64 1348.438 file:data/svc_llm_code.txt 2.0 2696 3 envoyWin=13484.38
+e4:envoyScaled:llm_conv:16:1	java -Xmx2g -cp build Sim envoy 16 6622.453 file:data/svc_llm_conv.txt 2.0 13244 1 envoyWin=66224.53
+e4:envoyScaled:llm_conv:16:2	java -Xmx2g -cp build Sim envoy 16 6622.453 file:data/svc_llm_conv.txt 2.0 13244 2 envoyWin=66224.53
+e4:envoyScaled:llm_conv:16:3	java -Xmx2g -cp build Sim envoy 16 6622.453 file:data/svc_llm_conv.txt 2.0 13244 3 envoyWin=66224.53
+e4:envoyScaled:llm_conv:64:1	java -Xmx2g -cp build Sim envoy 64 6622.453 file:data/svc_llm_conv.txt 2.0 13244 1 envoyWin=66224.53
+e4:envoyScaled:llm_conv:64:2	java -Xmx2g -cp build Sim envoy 64 6622.453 file:data/svc_llm_conv.txt 2.0 13244 2 envoyWin=66224.53
+e4:envoyScaled:llm_conv:64:3	java -Xmx2g -cp build Sim envoy 64 6622.453 file:data/svc_llm_conv.txt 2.0 13244 3 envoyWin=66224.53

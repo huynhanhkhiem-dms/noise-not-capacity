@@ -1,0 +1,42 @@
+e4c:delta_n800:json:16:1	java -Xmx2g -cp build Sim delta 16 3.168 file:data/svc_json.txt 2.0 600 1 nMin=800
+e4c:delta_n800:json:16:2	java -Xmx2g -cp build Sim delta 16 3.168 file:data/svc_json.txt 2.0 600 2 nMin=800
+e4c:delta_n800:json:16:3	java -Xmx2g -cp build Sim delta 16 3.168 file:data/svc_json.txt 2.0 600 3 nMin=800
+e4c:delta_n3200:json:16:1	java -Xmx2g -cp build Sim delta 16 3.168 file:data/svc_json.txt 2.0 600 1 nMin=3200
+e4c:delta_n3200:json:16:2	java -Xmx2g -cp build Sim delta 16 3.168 file:data/svc_json.txt 2.0 600 2 nMin=3200
+e4c:delta_n3200:json:16:3	java -Xmx2g -cp build Sim delta 16 3.168 file:data/svc_json.txt 2.0 600 3 nMin=3200
+e4c:delta_n800:json:64:1	java -Xmx2g -cp build Sim delta 64 3.168 file:data/svc_json.txt 2.0 600 1 nMin=800
+e4c:delta_n800:json:64:2	java -Xmx2g -cp build Sim delta 64 3.168 file:data/svc_json.txt 2.0 600 2 nMin=800
+e4c:delta_n800:json:64:3	java -Xmx2g -cp build Sim delta 64 3.168 file:data/svc_json.txt 2.0 600 3 nMin=800
+e4c:delta_n3200:json:64:1	java -Xmx2g -cp build Sim delta 64 3.168 file:data/svc_json.txt 2.0 600 1 nMin=3200
+e4c:delta_n3200:json:64:2	java -Xmx2g -cp build Sim delta 64 3.168 file:data/svc_json.txt 2.0 600 2 nMin=3200
+e4c:delta_n3200:json:64:3	java -Xmx2g -cp build Sim delta 64 3.168 file:data/svc_json.txt 2.0 600 3 nMin=3200
+e4c:delta_n200:ln15:16:1	java -Xmx2g -cp build Sim delta 16 10 ln15 2.0 600 1 nMin=200
+e4c:delta_n200:ln15:16:2	java -Xmx2g -cp build Sim delta 16 10 ln15 2.0 600 2 nMin=200
+e4c:delta_n200:ln15:16:3	java -Xmx2g -cp build Sim delta 16 10 ln15 2.0 600 3 nMin=200
+e4c:delta_n800:ln15:16:1	java -Xmx2g -cp build Sim delta 16 10 ln15 2.0 600 1 nMin=800
+e4c:delta_n800:ln15:16:2	java -Xmx2g -cp build Sim delta 16 10 ln15 2.0 600 2 nMin=800
+e4c:delta_n800:ln15:16:3	java -Xmx2g -cp build Sim delta 16 10 ln15 2.0 600 3 nMin=800
+e4c:delta_n3200:ln15:16:1	java -Xmx2g -cp build Sim delta 16 10 ln15 2.0 600 1 nMin=3200
+e4c:delta_n3200:ln15:16:2	java -Xmx2g -cp build Sim delta 16 10 ln15 2.0 600 2 nMin=3200
+e4c:delta_n3200:ln15:16:3	java -Xmx2g -cp build Sim delta 16 10 ln15 2.0 600 3 nMin=3200
+e4c:static:ln15:16:1	java -Xmx2g -cp build Sim static 16 10 ln15 2.0 600 1 static=16
+e4c:static:ln15:16:2	java -Xmx2g -cp build Sim static 16 10 ln15 2.0 600 2 static=16
+e4c:static:ln15:16:3	java -Xmx2g -cp build Sim static 16 10 ln15 2.0 600 3 static=16
+e4c:envoy:ln15:16:1	java -Xmx2g -cp build Sim envoy 16 10 ln15 2.0 600 1
+e4c:envoy:ln15:16:2	java -Xmx2g -cp build Sim envoy 16 10 ln15 2.0 600 2
+e4c:envoy:ln15:16:3	java -Xmx2g -cp build Sim envoy 16 10 ln15 2.0 600 3
+e4c:delta_n200:ln15:64:1	java -Xmx2g -cp build Sim delta 64 10 ln15 2.0 600 1 nMin=200
+e4c:delta_n200:ln15:64:2	java -Xmx2g -cp build Sim delta 64 10 ln15 2.0 600 2 nMin=200
+e4c:delta_n200:ln15:64:3	java -Xmx2g -cp build Sim delta 64 10 ln15 2.0 600 3 nMin=200
+e4c:delta_n800:ln15:64:1	java -Xmx2g -cp build Sim delta 64 10 ln15 2.0 600 1 nMin=800
+e4c:delta_n800:ln15:64:2	java -Xmx2g -cp build Sim delta 64 10 ln15 2.0 600 2 nMin=800
+e4c:delta_n800:ln15:64:3	java -Xmx2g -cp build Sim delta 64 10 ln15 2.0 600 3 nMin=800
+e4c:delta_n3200:ln15:64:1	java -Xmx2g -cp build Sim delta 64 10 ln15 2.0 600 1 nMin=3200
+e4c:delta_n3200:ln15:64:2	java -Xmx2g -cp build Sim delta 64 10 ln15 2.0 600 2 nMin=3200
+e4c:delta_n3200:ln15:64:3	java -Xmx2g -cp build Sim delta 64 10 ln15 2.0 600 3 nMin=3200
+e4c:static:ln15:64:1	java -Xmx2g -cp build Sim static 64 10 ln15 2.0 600 1 static=64
+e4c:static:ln15:64:2	java -Xmx2g -cp build Sim static 64 10 ln15 2.0 600 2 static=64
+e4c:static:ln15:64:3	java -Xmx2g -cp build Sim static 64 10 ln15 2.0 600 3 static=64
+e4c:envoy:ln15:64:1	java -Xmx2g -cp build Sim envoy 64 10 ln15 2.0 600 1
+e4c:envoy:ln15:64:2	java -Xmx2g -cp build Sim envoy 64 10 ln15 2.0 600 2
+e4c:envoy:ln15:64:3	java -Xmx2g -cp build Sim envoy 64 10 ln15 2.0 600 3

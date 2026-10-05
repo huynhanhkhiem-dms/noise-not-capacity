@@ -1,0 +1,92 @@
+e7a:vegas:det:1	java -Xmx2g -cp build Sim vegas 256 10 det 2.0 600 1
+e7a:g2:det:1	java -Xmx2g -cp build Sim g2 256 10 det 2.0 600 1
+e7a:vegas:det:2	java -Xmx2g -cp build Sim vegas 256 10 det 2.0 600 2
+e7a:g2:det:2	java -Xmx2g -cp build Sim g2 256 10 det 2.0 600 2
+e7a:vegas:det:3	java -Xmx2g -cp build Sim vegas 256 10 det 2.0 600 3
+e7a:g2:det:3	java -Xmx2g -cp build Sim g2 256 10 det 2.0 600 3
+e7a:vegas:ln05:1	java -Xmx2g -cp build Sim vegas 256 10 ln05 2.0 600 1
+e7a:g2:ln05:1	java -Xmx2g -cp build Sim g2 256 10 ln05 2.0 600 1
+e7a:vegas:ln05:2	java -Xmx2g -cp build Sim vegas 256 10 ln05 2.0 600 2
+e7a:g2:ln05:2	java -Xmx2g -cp build Sim g2 256 10 ln05 2.0 600 2
+e7a:vegas:ln05:3	java -Xmx2g -cp build Sim vegas 256 10 ln05 2.0 600 3
+e7a:g2:ln05:3	java -Xmx2g -cp build Sim g2 256 10 ln05 2.0 600 3
+e7a:vegas:exp:1	java -Xmx2g -cp build Sim vegas 256 10 exp 2.0 600 1
+e7a:g2:exp:1	java -Xmx2g -cp build Sim g2 256 10 exp 2.0 600 1
+e7a:vegas:exp:2	java -Xmx2g -cp build Sim vegas 256 10 exp 2.0 600 2
+e7a:g2:exp:2	java -Xmx2g -cp build Sim g2 256 10 exp 2.0 600 2
+e7a:vegas:exp:3	java -Xmx2g -cp build Sim vegas 256 10 exp 2.0 600 3
+e7a:g2:exp:3	java -Xmx2g -cp build Sim g2 256 10 exp 2.0 600 3
+e7a:vegas:ln1:1	java -Xmx2g -cp build Sim vegas 256 10 ln1 2.0 600 1
+e7a:g2:ln1:1	java -Xmx2g -cp build Sim g2 256 10 ln1 2.0 600 1
+e7a:vegas:ln1:2	java -Xmx2g -cp build Sim vegas 256 10 ln1 2.0 600 2
+e7a:g2:ln1:2	java -Xmx2g -cp build Sim g2 256 10 ln1 2.0 600 2
+e7a:vegas:ln1:3	java -Xmx2g -cp build Sim vegas 256 10 ln1 2.0 600 3
+e7a:g2:ln1:3	java -Xmx2g -cp build Sim g2 256 10 ln1 2.0 600 3
+e7a:vegas:ln15:1	java -Xmx2g -cp build Sim vegas 256 10 ln15 2.0 600 1
+e7a:g2:ln15:1	java -Xmx2g -cp build Sim g2 256 10 ln15 2.0 600 1
+e7a:vegas:ln15:2	java -Xmx2g -cp build Sim vegas 256 10 ln15 2.0 600 2
+e7a:g2:ln15:2	java -Xmx2g -cp build Sim g2 256 10 ln15 2.0 600 2
+e7a:vegas:ln15:3	java -Xmx2g -cp build Sim vegas 256 10 ln15 2.0 600 3
+e7a:g2:ln15:3	java -Xmx2g -cp build Sim g2 256 10 ln15 2.0 600 3
+e7a:vegas:par25:1	java -Xmx2g -cp build Sim vegas 256 10 par25 2.0 600 1
+e7a:g2:par25:1	java -Xmx2g -cp build Sim g2 256 10 par25 2.0 600 1
+e7a:vegas:par25:2	java -Xmx2g -cp build Sim vegas 256 10 par25 2.0 600 2
+e7a:g2:par25:2	java -Xmx2g -cp build Sim g2 256 10 par25 2.0 600 2
+e7a:vegas:par25:3	java -Xmx2g -cp build Sim vegas 256 10 par25 2.0 600 3
+e7a:g2:par25:3	java -Xmx2g -cp build Sim g2 256 10 par25 2.0 600 3
+e7b:g2W:8:1	java -Xmx2g -cp build Sim g2W 8 10 exp 2.0 3600 1 statFrom=0 ts=results/ts/e7b_g2W_8_1.csv
+e7b:g2W:8:2	java -Xmx2g -cp build Sim g2W 8 10 exp 2.0 3600 2 statFrom=0 ts=results/ts/e7b_g2W_8_2.csv
+e7b:g2W:8:3	java -Xmx2g -cp build Sim g2W 8 10 exp 2.0 3600 3 statFrom=0 ts=results/ts/e7b_g2W_8_3.csv
+e7b:g2W:64:1	java -Xmx2g -cp build Sim g2W 64 10 exp 2.0 3600 1 statFrom=0 ts=results/ts/e7b_g2W_64_1.csv
+e7b:g2W:64:2	java -Xmx2g -cp build Sim g2W 64 10 exp 2.0 3600 2 statFrom=0 ts=results/ts/e7b_g2W_64_2.csv
+e7b:g2W:64:3	java -Xmx2g -cp build Sim g2W 64 10 exp 2.0 3600 3 statFrom=0 ts=results/ts/e7b_g2W_64_3.csv
+e7d:curve:det:0.8	java -Xmx2g -cp build Sim delta 64 10 det 2.0 300 1 gamma=0 initL=51.2 nPerL=0 nMin=400
+e7d:curve:det:0.9	java -Xmx2g -cp build Sim delta 64 10 det 2.0 300 1 gamma=0 initL=57.6 nPerL=0 nMin=400
+e7d:curve:det:0.95	java -Xmx2g -cp build Sim delta 64 10 det 2.0 300 1 gamma=0 initL=60.8 nPerL=0 nMin=400
+e7d:curve:det:1.0	java -Xmx2g -cp build Sim delta 64 10 det 2.0 300 1 gamma=0 initL=64.0 nPerL=0 nMin=400
+e7d:curve:det:1.05	java -Xmx2g -cp build Sim delta 64 10 det 2.0 300 1 gamma=0 initL=67.2 nPerL=0 nMin=400
+e7d:curve:det:1.1	java -Xmx2g -cp build Sim delta 64 10 det 2.0 300 1 gamma=0 initL=70.4 nPerL=0 nMin=400
+e7d:curve:det:1.15	java -Xmx2g -cp build Sim delta 64 10 det 2.0 300 1 gamma=0 initL=73.6 nPerL=0 nMin=400
+e7d:curve:det:1.2	java -Xmx2g -cp build Sim delta 64 10 det 2.0 300 1 gamma=0 initL=76.8 nPerL=0 nMin=400
+e7d:curve:det:1.3	java -Xmx2g -cp build Sim delta 64 10 det 2.0 300 1 gamma=0 initL=83.2 nPerL=0 nMin=400
+e7d:curve:det:1.4	java -Xmx2g -cp build Sim delta 64 10 det 2.0 300 1 gamma=0 initL=89.6 nPerL=0 nMin=400
+e7d:curve:exp:0.8	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 300 1 gamma=0 initL=51.2 nPerL=0 nMin=400
+e7d:curve:exp:0.9	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 300 1 gamma=0 initL=57.6 nPerL=0 nMin=400
+e7d:curve:exp:0.95	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 300 1 gamma=0 initL=60.8 nPerL=0 nMin=400
+e7d:curve:exp:1.0	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 300 1 gamma=0 initL=64.0 nPerL=0 nMin=400
+e7d:curve:exp:1.05	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 300 1 gamma=0 initL=67.2 nPerL=0 nMin=400
+e7d:curve:exp:1.1	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 300 1 gamma=0 initL=70.4 nPerL=0 nMin=400
+e7d:curve:exp:1.15	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 300 1 gamma=0 initL=73.6 nPerL=0 nMin=400
+e7d:curve:exp:1.2	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 300 1 gamma=0 initL=76.8 nPerL=0 nMin=400
+e7d:curve:exp:1.3	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 300 1 gamma=0 initL=83.2 nPerL=0 nMin=400
+e7d:curve:exp:1.4	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 300 1 gamma=0 initL=89.6 nPerL=0 nMin=400
+e7d:curve:ln1:0.8	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 300 1 gamma=0 initL=51.2 nPerL=0 nMin=400
+e7d:curve:ln1:0.9	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 300 1 gamma=0 initL=57.6 nPerL=0 nMin=400
+e7d:curve:ln1:0.95	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 300 1 gamma=0 initL=60.8 nPerL=0 nMin=400
+e7d:curve:ln1:1.0	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 300 1 gamma=0 initL=64.0 nPerL=0 nMin=400
+e7d:curve:ln1:1.05	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 300 1 gamma=0 initL=67.2 nPerL=0 nMin=400
+e7d:curve:ln1:1.1	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 300 1 gamma=0 initL=70.4 nPerL=0 nMin=400
+e7d:curve:ln1:1.15	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 300 1 gamma=0 initL=73.6 nPerL=0 nMin=400
+e7d:curve:ln1:1.2	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 300 1 gamma=0 initL=76.8 nPerL=0 nMin=400
+e7d:curve:ln1:1.3	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 300 1 gamma=0 initL=83.2 nPerL=0 nMin=400
+e7d:curve:ln1:1.4	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 300 1 gamma=0 initL=89.6 nPerL=0 nMin=400
+e7d:sd:det:50	java -Xmx2g -cp build Sim delta 64 10 det 2.0 300 1 gamma=0 initL=89.6 nPerL=0 nMin=50
+e7d:sd:det:100	java -Xmx2g -cp build Sim delta 64 10 det 2.0 300 1 gamma=0 initL=89.6 nPerL=0 nMin=100
+e7d:sd:det:200	java -Xmx2g -cp build Sim delta 64 10 det 2.0 300 1 gamma=0 initL=89.6 nPerL=0 nMin=200
+e7d:sd:det:400	java -Xmx2g -cp build Sim delta 64 10 det 2.0 300 1 gamma=0 initL=89.6 nPerL=0 nMin=400
+e7d:sd:det:800	java -Xmx2g -cp build Sim delta 64 10 det 2.0 300 1 gamma=0 initL=89.6 nPerL=0 nMin=800
+e7d:sd:exp:50	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 300 1 gamma=0 initL=89.6 nPerL=0 nMin=50
+e7d:sd:exp:100	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 300 1 gamma=0 initL=89.6 nPerL=0 nMin=100
+e7d:sd:exp:200	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 300 1 gamma=0 initL=89.6 nPerL=0 nMin=200
+e7d:sd:exp:400	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 300 1 gamma=0 initL=89.6 nPerL=0 nMin=400
+e7d:sd:exp:800	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 300 1 gamma=0 initL=89.6 nPerL=0 nMin=800
+e7d:sd:ln1:50	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 300 1 gamma=0 initL=89.6 nPerL=0 nMin=50
+e7d:sd:ln1:100	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 300 1 gamma=0 initL=89.6 nPerL=0 nMin=100
+e7d:sd:ln1:200	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 300 1 gamma=0 initL=89.6 nPerL=0 nMin=200
+e7d:sd:ln1:400	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 300 1 gamma=0 initL=89.6 nPerL=0 nMin=400
+e7d:sd:ln1:800	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 300 1 gamma=0 initL=89.6 nPerL=0 nMin=800
+e7d:sd:par25:50	java -Xmx2g -cp build Sim delta 64 10 par25 2.0 300 1 gamma=0 initL=89.6 nPerL=0 nMin=50
+e7d:sd:par25:100	java -Xmx2g -cp build Sim delta 64 10 par25 2.0 300 1 gamma=0 initL=89.6 nPerL=0 nMin=100
+e7d:sd:par25:200	java -Xmx2g -cp build Sim delta 64 10 par25 2.0 300 1 gamma=0 initL=89.6 nPerL=0 nMin=200
+e7d:sd:par25:400	java -Xmx2g -cp build Sim delta 64 10 par25 2.0 300 1 gamma=0 initL=89.6 nPerL=0 nMin=400
+e7d:sd:par25:800	java -Xmx2g -cp build Sim delta 64 10 par25 2.0 300 1 gamma=0 initL=89.6 nPerL=0 nMin=800

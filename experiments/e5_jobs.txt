@@ -1,0 +1,168 @@
+e5:default:fcfs:exp:1	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 1  server=fcfs
+e5:default:fcfs:exp:2	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 2  server=fcfs
+e5:default:fcfs:exp:3	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 3  server=fcfs
+e5:default:fcfs:ln1:1	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 1  server=fcfs
+e5:default:fcfs:ln1:2	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 2  server=fcfs
+e5:default:fcfs:ln1:3	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 3  server=fcfs
+e5:default:ps:exp:1	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 1  server=ps
+e5:default:ps:exp:2	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 2  server=ps
+e5:default:ps:exp:3	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 3  server=ps
+e5:default:ps:ln1:1	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 1  server=ps
+e5:default:ps:ln1:2	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 2  server=ps
+e5:default:ps:ln1:3	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 3  server=ps
+e5:d0.05:fcfs:exp:1	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 1 d=0.05 server=fcfs
+e5:d0.05:fcfs:exp:2	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 2 d=0.05 server=fcfs
+e5:d0.05:fcfs:exp:3	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 3 d=0.05 server=fcfs
+e5:d0.05:fcfs:ln1:1	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 1 d=0.05 server=fcfs
+e5:d0.05:fcfs:ln1:2	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 2 d=0.05 server=fcfs
+e5:d0.05:fcfs:ln1:3	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 3 d=0.05 server=fcfs
+e5:d0.05:ps:exp:1	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 1 d=0.05 server=ps
+e5:d0.05:ps:exp:2	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 2 d=0.05 server=ps
+e5:d0.05:ps:exp:3	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 3 d=0.05 server=ps
+e5:d0.05:ps:ln1:1	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 1 d=0.05 server=ps
+e5:d0.05:ps:ln1:2	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 2 d=0.05 server=ps
+e5:d0.05:ps:ln1:3	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 3 d=0.05 server=ps
+e5:d0.2:fcfs:exp:1	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 1 d=0.2 server=fcfs
+e5:d0.2:fcfs:exp:2	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 2 d=0.2 server=fcfs
+e5:d0.2:fcfs:exp:3	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 3 d=0.2 server=fcfs
+e5:d0.2:fcfs:ln1:1	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 1 d=0.2 server=fcfs
+e5:d0.2:fcfs:ln1:2	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 2 d=0.2 server=fcfs
+e5:d0.2:fcfs:ln1:3	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 3 d=0.2 server=fcfs
+e5:d0.2:ps:exp:1	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 1 d=0.2 server=ps
+e5:d0.2:ps:exp:2	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 2 d=0.2 server=ps
+e5:d0.2:ps:exp:3	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 3 d=0.2 server=ps
+e5:d0.2:ps:ln1:1	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 1 d=0.2 server=ps
+e5:d0.2:ps:ln1:2	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 2 d=0.2 server=ps
+e5:d0.2:ps:ln1:3	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 3 d=0.2 server=ps
+e5:e0.5:fcfs:exp:1	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 1 eStar=0.5 server=fcfs
+e5:e0.5:fcfs:exp:2	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 2 eStar=0.5 server=fcfs
+e5:e0.5:fcfs:exp:3	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 3 eStar=0.5 server=fcfs
+e5:e0.5:fcfs:ln1:1	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 1 eStar=0.5 server=fcfs
+e5:e0.5:fcfs:ln1:2	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 2 eStar=0.5 server=fcfs
+e5:e0.5:fcfs:ln1:3	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 3 eStar=0.5 server=fcfs
+e5:e0.5:ps:exp:1	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 1 eStar=0.5 server=ps
+e5:e0.5:ps:exp:2	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 2 eStar=0.5 server=ps
+e5:e0.5:ps:exp:3	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 3 eStar=0.5 server=ps
+e5:e0.5:ps:ln1:1	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 1 eStar=0.5 server=ps
+e5:e0.5:ps:ln1:2	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 2 eStar=0.5 server=ps
+e5:e0.5:ps:ln1:3	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 3 eStar=0.5 server=ps
+e5:e0.65:fcfs:exp:1	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 1 eStar=0.65 server=fcfs
+e5:e0.65:fcfs:exp:2	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 2 eStar=0.65 server=fcfs
+e5:e0.65:fcfs:exp:3	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 3 eStar=0.65 server=fcfs
+e5:e0.65:fcfs:ln1:1	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 1 eStar=0.65 server=fcfs
+e5:e0.65:fcfs:ln1:2	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 2 eStar=0.65 server=fcfs
+e5:e0.65:fcfs:ln1:3	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 3 eStar=0.65 server=fcfs
+e5:e0.65:ps:exp:1	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 1 eStar=0.65 server=ps
+e5:e0.65:ps:exp:2	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 2 eStar=0.65 server=ps
+e5:e0.65:ps:exp:3	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 3 eStar=0.65 server=ps
+e5:e0.65:ps:ln1:1	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 1 eStar=0.65 server=ps
+e5:e0.65:ps:ln1:2	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 2 eStar=0.65 server=ps
+e5:e0.65:ps:ln1:3	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 3 eStar=0.65 server=ps
+e5:e0.9:fcfs:exp:1	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 1 eStar=0.9 server=fcfs
+e5:e0.9:fcfs:exp:2	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 2 eStar=0.9 server=fcfs
+e5:e0.9:fcfs:exp:3	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 3 eStar=0.9 server=fcfs
+e5:e0.9:fcfs:ln1:1	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 1 eStar=0.9 server=fcfs
+e5:e0.9:fcfs:ln1:2	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 2 eStar=0.9 server=fcfs
+e5:e0.9:fcfs:ln1:3	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 3 eStar=0.9 server=fcfs
+e5:e0.9:ps:exp:1	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 1 eStar=0.9 server=ps
+e5:e0.9:ps:exp:2	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 2 eStar=0.9 server=ps
+e5:e0.9:ps:exp:3	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 3 eStar=0.9 server=ps
+e5:e0.9:ps:ln1:1	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 1 eStar=0.9 server=ps
+e5:e0.9:ps:ln1:2	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 2 eStar=0.9 server=ps
+e5:e0.9:ps:ln1:3	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 3 eStar=0.9 server=ps
+e5:n50:fcfs:exp:1	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 1 nMin=50 nPerL=0 server=fcfs
+e5:n50:fcfs:exp:2	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 2 nMin=50 nPerL=0 server=fcfs
+e5:n50:fcfs:exp:3	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 3 nMin=50 nPerL=0 server=fcfs
+e5:n50:fcfs:ln1:1	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 1 nMin=50 nPerL=0 server=fcfs
+e5:n50:fcfs:ln1:2	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 2 nMin=50 nPerL=0 server=fcfs
+e5:n50:fcfs:ln1:3	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 3 nMin=50 nPerL=0 server=fcfs
+e5:n50:ps:exp:1	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 1 nMin=50 nPerL=0 server=ps
+e5:n50:ps:exp:2	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 2 nMin=50 nPerL=0 server=ps
+e5:n50:ps:exp:3	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 3 nMin=50 nPerL=0 server=ps
+e5:n50:ps:ln1:1	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 1 nMin=50 nPerL=0 server=ps
+e5:n50:ps:ln1:2	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 2 nMin=50 nPerL=0 server=ps
+e5:n50:ps:ln1:3	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 3 nMin=50 nPerL=0 server=ps
+e5:n800:fcfs:exp:1	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 1 nMin=800 nPerL=0 server=fcfs
+e5:n800:fcfs:exp:2	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 2 nMin=800 nPerL=0 server=fcfs
+e5:n800:fcfs:exp:3	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 3 nMin=800 nPerL=0 server=fcfs
+e5:n800:fcfs:ln1:1	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 1 nMin=800 nPerL=0 server=fcfs
+e5:n800:fcfs:ln1:2	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 2 nMin=800 nPerL=0 server=fcfs
+e5:n800:fcfs:ln1:3	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 3 nMin=800 nPerL=0 server=fcfs
+e5:n800:ps:exp:1	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 1 nMin=800 nPerL=0 server=ps
+e5:n800:ps:exp:2	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 2 nMin=800 nPerL=0 server=ps
+e5:n800:ps:exp:3	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 3 nMin=800 nPerL=0 server=ps
+e5:n800:ps:ln1:1	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 1 nMin=800 nPerL=0 server=ps
+e5:n800:ps:ln1:2	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 2 nMin=800 nPerL=0 server=ps
+e5:n800:ps:ln1:3	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 3 nMin=800 nPerL=0 server=ps
+e5:g0.05:fcfs:exp:1	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 1 gamma=0.05 server=fcfs
+e5:g0.05:fcfs:exp:2	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 2 gamma=0.05 server=fcfs
+e5:g0.05:fcfs:exp:3	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 3 gamma=0.05 server=fcfs
+e5:g0.05:fcfs:ln1:1	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 1 gamma=0.05 server=fcfs
+e5:g0.05:fcfs:ln1:2	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 2 gamma=0.05 server=fcfs
+e5:g0.05:fcfs:ln1:3	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 3 gamma=0.05 server=fcfs
+e5:g0.05:ps:exp:1	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 1 gamma=0.05 server=ps
+e5:g0.05:ps:exp:2	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 2 gamma=0.05 server=ps
+e5:g0.05:ps:exp:3	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 3 gamma=0.05 server=ps
+e5:g0.05:ps:ln1:1	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 1 gamma=0.05 server=ps
+e5:g0.05:ps:ln1:2	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 2 gamma=0.05 server=ps
+e5:g0.05:ps:ln1:3	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 3 gamma=0.05 server=ps
+e5:g0.2:fcfs:exp:1	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 1 gamma=0.2 server=fcfs
+e5:g0.2:fcfs:exp:2	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 2 gamma=0.2 server=fcfs
+e5:g0.2:fcfs:exp:3	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 3 gamma=0.2 server=fcfs
+e5:g0.2:fcfs:ln1:1	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 1 gamma=0.2 server=fcfs
+e5:g0.2:fcfs:ln1:2	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 2 gamma=0.2 server=fcfs
+e5:g0.2:fcfs:ln1:3	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 3 gamma=0.2 server=fcfs
+e5:g0.2:ps:exp:1	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 1 gamma=0.2 server=ps
+e5:g0.2:ps:exp:2	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 2 gamma=0.2 server=ps
+e5:g0.2:ps:exp:3	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 3 gamma=0.2 server=ps
+e5:g0.2:ps:ln1:1	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 1 gamma=0.2 server=ps
+e5:g0.2:ps:ln1:2	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 2 gamma=0.2 server=ps
+e5:g0.2:ps:ln1:3	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 3 gamma=0.2 server=ps
+e5:fixedOrder:fcfs:exp:1	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 1 fixedOrder server=fcfs
+e5:fixedOrder:fcfs:exp:2	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 2 fixedOrder server=fcfs
+e5:fixedOrder:fcfs:exp:3	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 3 fixedOrder server=fcfs
+e5:fixedOrder:fcfs:ln1:1	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 1 fixedOrder server=fcfs
+e5:fixedOrder:fcfs:ln1:2	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 2 fixedOrder server=fcfs
+e5:fixedOrder:fcfs:ln1:3	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 3 fixedOrder server=fcfs
+e5:fixedOrder:ps:exp:1	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 1 fixedOrder server=ps
+e5:fixedOrder:ps:exp:2	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 2 fixedOrder server=ps
+e5:fixedOrder:ps:exp:3	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 3 fixedOrder server=ps
+e5:fixedOrder:ps:ln1:1	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 1 fixedOrder server=ps
+e5:fixedOrder:ps:ln1:2	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 2 fixedOrder server=ps
+e5:fixedOrder:ps:ln1:3	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 3 fixedOrder server=ps
+e5:noSettle:fcfs:exp:1	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 1 noSettle server=fcfs
+e5:noSettle:fcfs:exp:2	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 2 noSettle server=fcfs
+e5:noSettle:fcfs:exp:3	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 3 noSettle server=fcfs
+e5:noSettle:fcfs:ln1:1	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 1 noSettle server=fcfs
+e5:noSettle:fcfs:ln1:2	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 2 noSettle server=fcfs
+e5:noSettle:fcfs:ln1:3	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 3 noSettle server=fcfs
+e5:noSettle:ps:exp:1	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 1 noSettle server=ps
+e5:noSettle:ps:exp:2	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 2 noSettle server=ps
+e5:noSettle:ps:exp:3	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 3 noSettle server=ps
+e5:noSettle:ps:ln1:1	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 1 noSettle server=ps
+e5:noSettle:ps:ln1:2	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 2 noSettle server=ps
+e5:noSettle:ps:ln1:3	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 3 noSettle server=ps
+e5:noDrain:fcfs:exp:1	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 1 noDrain server=fcfs
+e5:noDrain:fcfs:exp:2	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 2 noDrain server=fcfs
+e5:noDrain:fcfs:exp:3	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 3 noDrain server=fcfs
+e5:noDrain:fcfs:ln1:1	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 1 noDrain server=fcfs
+e5:noDrain:fcfs:ln1:2	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 2 noDrain server=fcfs
+e5:noDrain:fcfs:ln1:3	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 3 noDrain server=fcfs
+e5:noDrain:ps:exp:1	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 1 noDrain server=ps
+e5:noDrain:ps:exp:2	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 2 noDrain server=ps
+e5:noDrain:ps:exp:3	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 3 noDrain server=ps
+e5:noDrain:ps:ln1:1	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 1 noDrain server=ps
+e5:noDrain:ps:ln1:2	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 2 noDrain server=ps
+e5:noDrain:ps:ln1:3	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 3 noDrain server=ps
+e5:geoMean:fcfs:exp:1	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 1 geoMean server=fcfs
+e5:geoMean:fcfs:exp:2	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 2 geoMean server=fcfs
+e5:geoMean:fcfs:exp:3	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 3 geoMean server=fcfs
+e5:geoMean:fcfs:ln1:1	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 1 geoMean server=fcfs
+e5:geoMean:fcfs:ln1:2	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 2 geoMean server=fcfs
+e5:geoMean:fcfs:ln1:3	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 3 geoMean server=fcfs
+e5:geoMean:ps:exp:1	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 1 geoMean server=ps
+e5:geoMean:ps:exp:2	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 2 geoMean server=ps
+e5:geoMean:ps:exp:3	java -Xmx2g -cp build Sim delta 64 10 exp 2.0 600 3 geoMean server=ps
+e5:geoMean:ps:ln1:1	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 1 geoMean server=ps
+e5:geoMean:ps:ln1:2	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 2 geoMean server=ps
+e5:geoMean:ps:ln1:3	java -Xmx2g -cp build Sim delta 64 10 ln1 2.0 600 3 geoMean server=ps

@@ -1,0 +1,6 @@
+e9sim:vegas:1	java -Xmx2g -cp build Sim vegas 32 20 exp 2.0 240 1
+e9sim:g2W:1	java -Xmx2g -cp build Sim g2W 32 20 exp 2.0 240 1
+e9sim:delta:1	java -Xmx2g -cp build Sim delta 32 20 exp 2.0 240 1
+e9sim:vegas:2	java -Xmx2g -cp build Sim vegas 32 20 exp 2.0 240 2
+e9sim:g2W:2	java -Xmx2g -cp build Sim g2W 32 20 exp 2.0 240 2
+e9sim:delta:2	java -Xmx2g -cp build Sim delta 32 20 exp 2.0 240 2

@@ -1,0 +1,10 @@
+metric,value
+configurations,54
+median_util_diff,0.0016166666666666551
+mean_util_diff,0.010454938271604933
+mean_util_diff_ci95_low,-0.006180324074074086
+mean_util_diff_ci95_high,0.02586240740740739
+median_rtt_ratio,1.1345104215744362
+mean_rtt_ratio,1.2306271450285944
+mean_rtt_ratio_ci95_low,1.1761068629197013
+mean_rtt_ratio_ci95_high,1.2972383913110905

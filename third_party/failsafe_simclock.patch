@@ -1,0 +1,68 @@
+diff --git a/adaptivelimiter/adaptivelimiter.go b/adaptivelimiter/adaptivelimiter.go
+index 94308fa..227b688 100644
+--- a/adaptivelimiter/adaptivelimiter.go
++++ b/adaptivelimiter/adaptivelimiter.go
+@@ -390,7 +390,7 @@ func (c *config[R]) Build() AdaptiveLimiter[R] {
+ 		medianFilter:          util.NewMovingMedian(smoothedSamples),
+ 		smoothedRecentRTT:     util.NewMovingAverage(smoothedSamples, warmupSamples),
+ 		baselineRTT:           util.NewMovingAverage(c.baselineWindowAge, warmupSamples),
+-		nextUpdateTime:        time.Now(),
++		nextUpdateTime:        util.SimNow(),
+ 		rttCorrelation:        util.NewCorrelationWindow(c.correlationWindowSize, warmupSamples),
+ 		throughputCorrelation: util.NewCorrelationWindow(c.correlationWindowSize, warmupSamples),
+ 	}
+@@ -503,7 +503,7 @@ func (l *adaptiveLimiter[R]) newPermit() Permit {
+ 	return &recordingPermit[R]{
+ 		clock:           util.WallClock,
+ 		limiter:         l,
+-		startTime:       time.Now(),
++		startTime:       util.SimNow(),
+ 		currentInflight: l.semaphore.Used(),
+ 	}
+ }
+@@ -542,7 +542,7 @@ func (l *adaptiveLimiter[R]) Reset() {
+ 	l.medianFilter.Reset()
+ 	l.smoothedRecentRTT.Reset()
+ 	l.baselineRTT.Reset()
+-	l.nextUpdateTime = time.Now()
++	l.nextUpdateTime = util.SimNow()
+ 	l.rttCorrelation.Reset()
+ 	l.throughputCorrelation.Reset()
+ }
+diff --git a/internal/util/util.go b/internal/util/util.go
+index 7124fea..1f52c98 100644
+--- a/internal/util/util.go
++++ b/internal/util/util.go
+@@ -196,8 +196,11 @@ var WallClock = &wallClock{}
+ type wallClock struct {
+ }
+ 
++// SimNow is the clock used by the limiter; replaced by a simulated clock in the round-8 harness.
++var SimNow = time.Now
++
+ func (wc *wallClock) Now() time.Time {
+-	return time.Now()
++	return SimNow()
+ }
+ 
+ type Stopwatch interface {
+@@ -212,16 +215,16 @@ type wallClockStopwatch struct {
+ 
+ func NewStopwatch() Stopwatch {
+ 	return &wallClockStopwatch{
+-		startTime: time.Now(),
++		startTime: SimNow(),
+ 	}
+ }
+ 
+ func (s *wallClockStopwatch) ElapsedTime() time.Duration {
+-	return time.Since(s.startTime)
++	return SimNow().Sub(s.startTime)
+ }
+ 
+ func (s *wallClockStopwatch) Reset() {
+-	s.startTime = time.Now()
++	s.startTime = SimNow()
+ }
+ 
+ func Round(v float64) float64 {

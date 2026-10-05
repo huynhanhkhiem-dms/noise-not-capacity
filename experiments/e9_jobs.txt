@@ -1,0 +1,6 @@
+e9:vegas:1	java -Xmx2g -cp build RealTime vegas 32 20 exp 2.0 240 1
+e9:g2W:1	java -Xmx2g -cp build RealTime g2W 32 20 exp 2.0 240 1
+e9:delta:1	java -Xmx2g -cp build RealTime delta 32 20 exp 2.0 240 1
+e9:vegas:2	java -Xmx2g -cp build RealTime vegas 32 20 exp 2.0 240 2
+e9:g2W:2	java -Xmx2g -cp build RealTime g2W 32 20 exp 2.0 240 2
+e9:delta:2	java -Xmx2g -cp build RealTime delta 32 20 exp 2.0 240 2
