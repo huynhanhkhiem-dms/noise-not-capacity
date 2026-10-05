@@ -23,7 +23,7 @@ The repository intentionally excludes manuscript/submission files and private wo
 - `experiments/` — experiment job lists, generators, and runners.
 - `analysis/` — scripts that compute study summaries and figures.
 - `data/` — service-time samples actually consumed by the experiments, plus provenance/reconstruction utilities.
-- `results/tables/` — compact derived summary tables used to verify reported results.
+- `results/` — reference raw outputs, time series, and compact derived summary tables used to regenerate and verify the reported results.
 
 ## Requirements
 
@@ -45,10 +45,10 @@ java -cp build_test EnvoyPortTest
 
 python3 experiments/make_jobs.py
 
-# Example: main experimental grid
+# Fresh rerun of the main experimental grid
 python3 experiments/run.py experiments/e1_jobs.txt results/e1_main_reproduced.txt 2
 
-# Recompute summaries and figures
+# Regenerate manuscript tables/figures from the packaged reference outputs
 python3 analysis/make_tables.py
 python3 analysis/figures.py
 python3 analysis/headline_sensitivity.py
@@ -67,6 +67,10 @@ java -cp build Sim delta 64 10 exp 2.0 600 1
 ```
 
 Algorithms include `vegas`, `vegasW`, `g2`, `g2W`, `grad`, `gradW`, `aimd`, `envoy`, `delta`, and `static`. Simulated runs use explicit seeds.
+
+## Reference outputs and fresh reruns
+
+The repository includes the reference raw outputs used for the reported analyses. The analysis scripts regenerate manuscript tables and figures from those reference files. Fresh reruns should be written to a different filename (for example, `*_reproduced.txt`) so the packaged reference outputs remain unchanged and can be compared directly.
 
 ## Good-region criterion
 
@@ -89,8 +93,8 @@ Recompute E10 with:
 ```bash
 javac -d build_confirm harness/Delta.java harness/ConfirmSim.java
 python3 experiments/run.py experiments/e10_confirm_jobs.txt results/e10_confirm_reproduced.txt 2
-python3 analysis/e10_confirm.py
-python3 analysis/e10_effects.py
+python3 analysis/e10_confirm.py results/e10_confirm_reproduced.txt
+python3 analysis/e10_effects.py results/e10_confirm_reproduced.txt
 ```
 
 ## Data provenance
